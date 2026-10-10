@@ -43,6 +43,6 @@ for name,data in [('Game.locres',locres),('Game.locmeta',meta),('Fonts.pak',(roo
     node.text=base64.b64encode(data).decode()
 for digest in config['previousLocresHashes']:
     ET.SubElement(feed,'PreviousLocres',sha256=digest)
-ET.ElementTree(feed).write(out/'translation.xml',encoding='utf-8-sig',xml_declaration=True)
+ET.ElementTree(feed).write(out/'translation.xml',encoding='utf-8',xml_declaration=True)
 print(f"Built {len(strings)} translations, version {config['version']}; placeholders verified.")
 
