@@ -1,0 +1,12 @@
+Anvil Russian — перевод RIkiMarci.
+https://github.com/lacost2001/AnvilRussian
+https://discord.gg/VgK7Pw3cwf
+
+Неофициальная локализация. Anvil Empires принадлежит Siege Camp.
+Игра не включена в этот пакет.
+
+Fonts.pak содержит только переупакованные шрифты Roboto Regular/Bold/Italic.
+Глифы Roboto не изменены; изменены имена файлов и оболочка UE.
+Roboto: Copyright 2011 Google Inc. All Rights Reserved.
+Licensed under the Apache License, Version 2.0; see Roboto-LICENSE.txt.
+Upstream: https://github.com/googlefonts/roboto
