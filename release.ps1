@@ -4,7 +4,12 @@ Push-Location $PSScriptRoot
 try {
     $config = Get-Content release-config.json -Raw | ConvertFrom-Json
     $feedUrl = 'https://github.com/lacost2001/AnvilRussian/releases/latest/download/translation.xml'
-    try { $response = Invoke-WebRequest -Uri $feedUrl -UseBasicParsing; [xml]$prior = $response.Content }
+    try {
+        $response = Invoke-WebRequest -Uri $feedUrl -UseBasicParsing
+        $feedText = $response.Content
+        if ($feedText -is [byte[]]) { $feedText = [System.Text.Encoding]::UTF8.GetString($feedText) }
+        [xml]$prior = $feedText
+    }
     catch {
         if ($_.Exception.Response -and [int]$_.Exception.Response.StatusCode -eq 404) { $prior = $null }
         else { throw }
