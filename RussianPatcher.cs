@@ -145,9 +145,9 @@ public static class Patch {
 }
 public class MainForm:Form {
  TextBox path=new TextBox();Label status=new Label();Button install=new Button(),remove=new Button(),check=new Button();bool busy;
- public MainForm(){Text="Anvil Russian — RIkiMarci";ClientSize=new Size(640,465);FormBorderStyle=FormBorderStyle.FixedDialog;MaximizeBox=false;Font=new Font("Segoe UI",10);StartPosition=FormStartPosition.CenterScreen;
+ public MainForm(){Text="Anvil Russian — RikiMarci";ClientSize=new Size(640,465);FormBorderStyle=FormBorderStyle.FixedDialog;MaximizeBox=false;Font=new Font("Segoe UI",10);StartPosition=FormStartPosition.CenterScreen;
   Controls.Add(new Label{Text="Русский интерфейс Anvil Empires",Font=new Font("Segoe UI",16,FontStyle.Bold),Left=22,Top=20,Width=590,Height=38});
-  Controls.Add(new Label{Text="Перевод: RIkiMarci · Выпуск "+Patch.TranslationVersion+"\nАвтопроверка и обновление при запуске патчера.\nПеред обновлением или удалением закройте игру.",Left=24,Top=66,Width=590,Height=85});
+  Controls.Add(new Label{Text="Перевод: RikiMarci · Выпуск "+Patch.TranslationVersion+"\nАвтопроверка и обновление при запуске патчера.\nПеред обновлением или удалением закройте игру.",Left=24,Top=66,Width=590,Height=85});
   Controls.Add(new Label{Text="Папка игры:",Left=24,Top=151,Width=580,Height=24});path.SetBounds(24,180,485,28);path.Text=@"D:\SteamLibrary\steamapps\common\Anvil Playtest";
   try{if(File.Exists(SettingsFile))path.Text=File.ReadAllText(SettingsFile);}catch{}Controls.Add(path);
   var browse=new Button{Text="Обзор…",Left=522,Top=178,Width=94,Height=32};browse.Click+=(s,e)=>{if(busy)return;using(var d=new FolderBrowserDialog()){d.Description="Папка Anvil Playtest";d.SelectedPath=path.Text;if(d.ShowDialog()==DialogResult.OK)path.Text=d.SelectedPath;}};Controls.Add(browse);
@@ -156,7 +156,7 @@ public class MainForm:Form {
   check.Text="Проверить GitHub";check.SetBounds(24,277,282,36);check.Click+=async(s,e)=>await Check();Controls.Add(check);
   var releases=new LinkLabel{Text="Все выпуски на GitHub",Left=330,Top=283,Width=270,Height=26};releases.LinkClicked+=(s,e)=>Open(Updater.Repository+"/releases");Controls.Add(releases);
   status.Text="Готово к проверке обновлений.";status.SetBounds(24,330,590,78);Controls.Add(status);
-  var discord=new LinkLabel{Text="Discord RIkiMarci — discord.gg/VgK7Pw3cwf",Left=24,Top=424,Width=590,Height=26};discord.LinkClicked+=(s,e)=>Open("https://discord.gg/VgK7Pw3cwf");Controls.Add(discord);
+  var discord=new LinkLabel{Text="Discord RikiMarci — discord.gg/VgK7Pw3cwf",Left=24,Top=424,Width=590,Height=26};discord.LinkClicked+=(s,e)=>Open("https://discord.gg/VgK7Pw3cwf");Controls.Add(discord);
   Shown+=async(s,e)=>await Check();
  }
  static string SettingsFile {get{return Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),"AnvilRussian","game-path.txt");}}

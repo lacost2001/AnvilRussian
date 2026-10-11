@@ -1,4 +1,4 @@
-param([switch]$BuildOnly)
+﻿param([switch]$BuildOnly)
 $ErrorActionPreference = 'Stop'
 Push-Location $PSScriptRoot
 try {
@@ -17,7 +17,7 @@ try {
     }
     & .\build.ps1
     if (-not $BuildOnly) {
-        gh release create "v$($config.version)" dist/AnvilRussian.zip dist/AnvilRussian.exe dist/translation.xml dist/Roboto-LICENSE.txt dist/NOTICE.txt --repo lacost2001/AnvilRussian --title "Anvil Russian $($config.version) — RIkiMarci" --generate-notes --latest
+        gh release create "v$($config.version)" dist/AnvilRussian.zip dist/AnvilRussian.exe dist/translation.xml dist/Roboto-LICENSE.txt dist/NOTICE.txt --repo lacost2001/AnvilRussian --title "Anvil Russian $($config.version) — RikiMarci" --generate-notes --latest
         if ($LASTEXITCODE -ne 0) { throw 'GitHub release failed' }
     }
 } finally { Pop-Location }

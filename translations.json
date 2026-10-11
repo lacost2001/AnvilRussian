@@ -369,7 +369,7 @@
     "namespace": "",
     "key": "DC41E90B46120200A752908BB3A0EA67",
     "source": "Expiry",
-    "russian": "Срок действия"
+    "russian": "Срок"
   },
   {
     "namespace": "",
@@ -843,7 +843,7 @@
     "namespace": "",
     "key": "139DDE76421AFFAE5FDB59BCEBDBCEAF",
     "source": "Refinery",
-    "russian": "Мастерская переработки"
+    "russian": "Переработка"
   },
   {
     "namespace": "",
@@ -2145,7 +2145,7 @@
     "namespace": "",
     "key": "ABB2BDDA4E6C20AD828412B9C7565318",
     "source": "Fort Bunk Bed",
-    "russian": "Двухъярусная кровать форта"
+    "russian": "Крепостные нары"
   },
   {
     "namespace": "",
@@ -2937,7 +2937,7 @@
     "namespace": "",
     "key": "587718A14373231A1B8B1C8EC3F61C27",
     "source": "Town Keep Gate Side",
-    "russian": "Боковая часть ворот городской цитадели"
+    "russian": "Боковина ворот цитадели"
   },
   {
     "namespace": "",
@@ -3249,7 +3249,7 @@
     "namespace": "",
     "key": "6217D79F4D48D05C2139C790D9552639",
     "source": "Renderer",
-    "russian": "Режим рендеринга"
+    "russian": "Отрисовка"
   },
   {
     "namespace": "",
@@ -3267,7 +3267,7 @@
     "namespace": "",
     "key": "440FBDD74F830054454431BC9450295C",
     "source": "VSync",
-    "russian": "Вертикальная синхронизация"
+    "russian": "Верт. синхр."
   },
   {
     "namespace": "",
@@ -3297,13 +3297,13 @@
     "namespace": "",
     "key": "2590D71146B0D86F92550A88BC22F0D2",
     "source": "Aim",
-    "russian": "Прицелиться"
+    "russian": "Прицел"
   },
   {
     "namespace": "",
     "key": "A41788A64C646226EE539BAD47615C03",
     "source": "Primary Item Alt Mode",
-    "russian": "Альтернативный режим основного предмета"
+    "russian": "Доп. режим предмета"
   },
   {
     "namespace": "",
@@ -3387,7 +3387,7 @@
     "namespace": "",
     "key": "CC08492848D1BE86EFEAA59563242F55",
     "source": "Mount",
-    "russian": "Сесть верхом"
+    "russian": "Оседлать"
   },
   {
     "namespace": "",
@@ -3429,7 +3429,7 @@
     "namespace": "",
     "key": "F002F2144CAB4BB2406297A920751DCE",
     "source": "Push to Talk",
-    "russian": "Клавиша голосовой связи"
+    "russian": "Кнопка речи"
   },
   {
     "namespace": "",
@@ -3483,7 +3483,7 @@
     "namespace": "",
     "key": "DC51EFA841018DF15601F6994B7BBDF2",
     "source": "Toggle Voice Chat",
-    "russian": "Включить / выключить голосовой чат"
+    "russian": "Голосовой чат: вкл./выкл."
   },
   {
     "namespace": "",
@@ -3495,13 +3495,13 @@
     "namespace": "",
     "key": "C8F8B53A46F111E79D1601871CBF80D3",
     "source": "Use/Interact",
-    "russian": "Использовать / взаимодействовать"
+    "russian": "Взаимодействие"
   },
   {
     "namespace": "",
     "key": "067781C84C29F5A5CE39FEA7BC18E3AA",
     "source": "Use Nearby",
-    "russian": "Использовать ближайшее"
+    "russian": "Использовать рядом"
   },
   {
     "namespace": "",
@@ -3519,7 +3519,7 @@
     "namespace": "",
     "key": "A3AF5D864F93D40BCFFD4388403237B7",
     "source": "Interact Camera Zoom",
-    "russian": "Приближение камеры при взаимодействии"
+    "russian": "Масштаб камеры при действии"
   },
   {
     "namespace": "",
@@ -3591,7 +3591,7 @@
     "namespace": "",
     "key": "773AFABE41171ED32536AE965E03C388",
     "source": "UI Volume",
-    "russian": "Громкость интерфейса"
+    "russian": "Звуки интерфейса"
   },
   {
     "namespace": "",
@@ -3627,7 +3627,7 @@
     "namespace": "",
     "key": "7AD992024FB45219D6953BBB110AC1C1",
     "source": "Keybinds",
-    "russian": "Назначение клавиш"
+    "russian": "Клавиши"
   },
   {
     "namespace": "",
@@ -3705,7 +3705,7 @@
     "namespace": "",
     "key": "1DAEEB3444ECB5EEDB3F978D150596DF",
     "source": "Credits",
-    "russian": "Перевод: RIkiMarci"
+    "russian": "Перевод: RikiMarci"
   },
   {
     "namespace": "",
@@ -4083,7 +4083,7 @@
     "namespace": "",
     "key": "413F9C184F922EDA073BA281ABDE4865",
     "source": "<Header>Siege Camp (All Teams)</>\r\n\r\nAdam Garib\r\nAlkas Baybas\r\nAndrei C.\r\nAnna C.\r\nAydin A.\r\nBrett Ellis\r\nCarson Aziz\r\nCasey Banner\r\nDominik M.\r\nEdith Ma\r\nEric Galway\r\nGabriel Dubois\r\nGlen Manalo\r\nHenrique 'HB' Barbieri\r\nJulian Lancaster\r\nLeon Cao\r\nL. S.\r\nLuke Kiernicki\r\nMark Ng\r\nMatthew Rigg\r\nMax Greenall\r\nPeter Collins\r\nPhilip Diehl\r\nRobbie Mills\r\nRohun Banerji\r\nStephan van den Heuvel\r\nSteve Hong\r\nToby She\r\n\r\n\r\n<Header>Additional Art</>\r\n\r\nMichal Gutowski\r\nAnthony Godinho\r\n\r\n\r\n<Header>Additional Support</>\r\n\r\nMatthew D.\r\n\r\n<Header>Additional Operations</>\r\n\r\nMichael B.\r\n\r\n\r\n<Header>Music</>\r\n\r\nRom Di Prisco\r\n\r\n\r\n<Header>Fonts</>\r\n\r\nRenner: https://fontlibrary.org/en/font/renner",
-    "russian": "Перевод на русский — RIkiMarci\nDiscord: https://discord.gg/VgK7Pw3cwf\n\n<Header>Siege Camp (все команды)</>\r\n\r\nAdam Garib\r\nAlkas Baybas\r\nAndrei C.\r\nAnna C.\r\nAydin A.\r\nBrett Ellis\r\nCarson Aziz\r\nCasey Banner\r\nDominik M.\r\nEdith Ma\r\nEric Galway\r\nGabriel Dubois\r\nGlen Manalo\r\nHenrique 'HB' Barbieri\r\nJulian Lancaster\r\nLeon Cao\r\nL. S.\r\nLuke Kiernicki\r\nMark Ng\r\nMatthew Rigg\r\nMax Greenall\r\nPeter Collins\r\nPhilip Diehl\r\nRobbie Mills\r\nRohun Banerji\r\nStephan van den Heuvel\r\nSteve Hong\r\nToby She\r\n\r\n\r\n<Header>Дополнительные художники</>\r\n\r\nMichal Gutowski\r\nAnthony Godinho\r\n\r\n\r\n<Header>Дополнительная поддержка</>\r\n\r\nMatthew D.\r\n\r\n<Header>Дополнительное сопровождение</>\r\n\r\nMichael B.\r\n\r\n\r\n<Header>Музыка</>\r\n\r\nRom Di Prisco\r\n\r\n\r\n<Header>Шрифты</>\r\n\r\nRenner: https://fontlibrary.org/en/font/renner"
+    "russian": "Перевод на русский — RikiMarci\nDiscord: https://discord.gg/VgK7Pw3cwf\n\n<Header>Siege Camp (все команды)</>\r\n\r\nAdam Garib\r\nAlkas Baybas\r\nAndrei C.\r\nAnna C.\r\nAydin A.\r\nBrett Ellis\r\nCarson Aziz\r\nCasey Banner\r\nDominik M.\r\nEdith Ma\r\nEric Galway\r\nGabriel Dubois\r\nGlen Manalo\r\nHenrique 'HB' Barbieri\r\nJulian Lancaster\r\nLeon Cao\r\nL. S.\r\nLuke Kiernicki\r\nMark Ng\r\nMatthew Rigg\r\nMax Greenall\r\nPeter Collins\r\nPhilip Diehl\r\nRobbie Mills\r\nRohun Banerji\r\nStephan van den Heuvel\r\nSteve Hong\r\nToby She\r\n\r\n\r\n<Header>Дополнительные художники</>\r\n\r\nMichal Gutowski\r\nAnthony Godinho\r\n\r\n\r\n<Header>Дополнительная поддержка</>\r\n\r\nMatthew D.\r\n\r\n<Header>Дополнительное сопровождение</>\r\n\r\nMichael B.\r\n\r\n\r\n<Header>Музыка</>\r\n\r\nRom Di Prisco\r\n\r\n\r\n<Header>Шрифты</>\r\n\r\nRenner: https://fontlibrary.org/en/font/renner"
   },
   {
     "namespace": "",
@@ -4173,7 +4173,7 @@
     "namespace": "",
     "key": "8483884F43BCBDEBB6EBB19D24DD0B57",
     "source": "Ban",
-    "russian": "Заблокировать"
+    "russian": "Блокировка"
   },
   {
     "namespace": "",
@@ -5211,7 +5211,7 @@
     "namespace": "",
     "key": "101A3B954E7207AA884EC297A6DA476B",
     "source": "Shears",
-    "russian": "Ножницы для стрижки"
+    "russian": "Ножницы"
   },
   {
     "namespace": "",
@@ -5427,7 +5427,7 @@
     "namespace": "",
     "key": "A22C9FE2425FEFC6E8D84CAE67A25D0C",
     "source": "Arm this item to use it on Animals",
-    "russian": "Возьмите этот предмет в руки, чтобы использовать на животных"
+    "russian": "Возьмите в руки для применения к животным"
   },
   {
     "namespace": "",
@@ -5877,7 +5877,7 @@
     "namespace": "",
     "key": "D0D82206464CA4584E6AECB2F20722B9",
     "source": "Linen",
-    "russian": "Льняная ткань"
+    "russian": "Полотно"
   },
   {
     "namespace": "",
@@ -6717,7 +6717,7 @@
     "namespace": "",
     "key": "AC8C523846EA8CA98802C1AC9BA8A406",
     "source": "Mortar",
-    "russian": "Строительный раствор"
+    "russian": "Раствор"
   },
   {
     "namespace": "",
@@ -6879,7 +6879,7 @@
     "namespace": "",
     "key": "4768EF3F487C1690D99F3487EF658497",
     "source": "Used in arrow making",
-    "russian": "Используется для изготовления стрел"
+    "russian": "Для изготовления стрел"
   },
   {
     "namespace": "",
@@ -7029,7 +7029,7 @@
     "namespace": "",
     "key": "C8639DCC4F9B7BE7B4B61A9713966995",
     "source": "Bronze Tool Blade",
-    "russian": "Бронзовая инструментальная заготовка"
+    "russian": "Бронзовое лезвие"
   },
   {
     "namespace": "",
@@ -7041,7 +7041,7 @@
     "namespace": "",
     "key": "BAF2C9BC49AB2FD2486A49ABEB1CA481",
     "source": "Iron Tool Blade",
-    "russian": "Железная инструментальная заготовка"
+    "russian": "Железное лезвие"
   },
   {
     "namespace": "",
@@ -10149,25 +10149,25 @@
     "namespace": "",
     "key": "3FEBE139495D35E407895A843AFB5CCA",
     "source": "Bedrock Stairs",
-    "russian": "Лестница на скальное основание"
+    "russian": "Скальная лестница"
   },
   {
     "namespace": "",
     "key": "3DA9F9F64AF8206688A7C2885BCA1C46",
     "source": "Bedrock Stairs",
-    "russian": "Лестница на скальное основание"
+    "russian": "Скальная лестница"
   },
   {
     "namespace": "",
     "key": "94D245FB459C52D07E445680DC7BB196",
     "source": "Bedrock Stairs",
-    "russian": "Лестница на скальное основание"
+    "russian": "Скальная лестница"
   },
   {
     "namespace": "",
     "key": "AFAADF044A1E188ECAA58DB15AF0B5E2",
     "source": "Bedrock Stairs",
-    "russian": "Лестница на скальное основание"
+    "russian": "Скальная лестница"
   },
   {
     "namespace": "",
@@ -10413,25 +10413,25 @@
     "namespace": "",
     "key": "9E10135B49E6C1A95E1F7F9BFFEB680D",
     "source": "½ Width Wall",
-    "russian": "Стена половинной ширины"
+    "russian": "Стена ½ ширины"
   },
   {
     "namespace": "",
     "key": "6E0061BA4CF792B9EC682BB1DB8219BA",
     "source": "½ Width Wall",
-    "russian": "Стена половинной ширины"
+    "russian": "Стена ½ ширины"
   },
   {
     "namespace": "",
     "key": "F16E6CCE479EE3DE3AD5A59B08D9F3DB",
     "source": "½ Width Wall",
-    "russian": "Стена половинной ширины"
+    "russian": "Стена ½ ширины"
   },
   {
     "namespace": "",
     "key": "7F54C0584B1720E93F7AC7B2B49A19C5",
     "source": "½ Width Wall",
-    "russian": "Стена половинной ширины"
+    "russian": "Стена ½ ширины"
   },
   {
     "namespace": "",
@@ -11313,25 +11313,25 @@
     "namespace": "",
     "key": "ADA4DDDE41DB37A9849BE09284C84D3C",
     "source": "Doorway Hold Wall",
-    "russian": "Стена цитадели с дверным проёмом"
+    "russian": "Стена цитадели с дверью"
   },
   {
     "namespace": "",
     "key": "48B2BB8144C19448C4F8CA949896D732",
     "source": "Doorway Hold Wall",
-    "russian": "Стена цитадели с дверным проёмом"
+    "russian": "Стена цитадели с дверью"
   },
   {
     "namespace": "",
     "key": "EC95330B4BAC9F81F44C85A40099D663",
     "source": "Doorway Hold Wall",
-    "russian": "Стена цитадели с дверным проёмом"
+    "russian": "Стена цитадели с дверью"
   },
   {
     "namespace": "",
     "key": "C87188AC489C86F6925C5ABB853E13A7",
     "source": "Doorway Hold Wall",
-    "russian": "Стена цитадели с дверным проёмом"
+    "russian": "Стена цитадели с дверью"
   },
   {
     "namespace": "",
@@ -11631,7 +11631,7 @@
     "namespace": "",
     "key": "BDD6E8F84235F6D7803871B62C5F03DB",
     "source": "Sawbuck",
-    "russian": "Козлы для распилки"
+    "russian": "Пильные козлы"
   },
   {
     "namespace": "",
@@ -12045,7 +12045,7 @@
     "namespace": "",
     "key": "D735C3BD4DB223EC28EA13A086F0E682",
     "source": "Tannery",
-    "russian": "Кожевенная мастерская"
+    "russian": "Кожевня"
   },
   {
     "namespace": "",
@@ -12069,7 +12069,7 @@
     "namespace": "",
     "key": "67FDAF7649A632581A5D7F80F302DCB1",
     "source": "Stone Mason",
-    "russian": "Каменотёсная мастерская"
+    "russian": "Каменотёсная"
   },
   {
     "namespace": "",
@@ -12489,7 +12489,7 @@
     "namespace": "Anvil",
     "key": "Claim",
     "source": "Claim",
-    "russian": "Закрепить за собой"
+    "russian": "Занять"
   },
   {
     "namespace": "Anvil",
@@ -12531,7 +12531,7 @@
     "namespace": "Anvil",
     "key": "Join",
     "source": "Join",
-    "russian": "Присоединиться"
+    "russian": "Вступить"
   },
   {
     "namespace": "Anvil",
@@ -13611,7 +13611,7 @@
     "namespace": "Anvil",
     "key": "DockShip",
     "source": "Dock Ship",
-    "russian": "Пришвартовать корабль"
+    "russian": "Пришвартовать"
   },
   {
     "namespace": "Anvil",
@@ -13761,7 +13761,7 @@
     "namespace": "Anvil",
     "key": "AllyWithFamilyTooltipHeader",
     "source": "Ally House",
-    "russian": "Заключить союз домов"
+    "russian": "Союз с домом"
   },
   {
     "namespace": "Anvil",
@@ -13833,7 +13833,7 @@
     "namespace": "Anvil",
     "key": "EditSignPost",
     "source": "Edit Sign",
-    "russian": "Изменить табличку"
+    "russian": "Правка таблички"
   },
   {
     "namespace": "Anvil",
@@ -13857,7 +13857,7 @@
     "namespace": "Anvil",
     "key": "DownvoteSignPost",
     "source": "Downvote Sign",
-    "russian": "Проголосовать против таблички"
+    "russian": "Против таблички"
   },
   {
     "namespace": "Anvil",
@@ -14031,7 +14031,7 @@
     "namespace": "Anvil",
     "key": "SetRentCost",
     "source": "Set Rent Cost",
-    "russian": "Установить стоимость аренды"
+    "russian": "Цена аренды"
   },
   {
     "namespace": "Anvil",
@@ -14559,7 +14559,7 @@
     "namespace": "Anvil",
     "key": "TaxStatus",
     "source": "Tax Rate",
-    "russian": "Налоговая ставка"
+    "russian": "Налог"
   },
   {
     "namespace": "Anvil",
@@ -14853,7 +14853,7 @@
     "namespace": "Anvil",
     "key": "UseNearbyHeader",
     "source": "Use Nearby",
-    "russian": "Использовать ближайшее"
+    "russian": "Использовать рядом"
   },
   {
     "namespace": "Anvil",
@@ -14967,7 +14967,7 @@
     "namespace": "Anvil",
     "key": "GatherVerbQueryAnimal",
     "source": "harvest",
-    "russian": "собрать урожай"
+    "russian": "разделать"
   },
   {
     "namespace": "Anvil",
@@ -15693,7 +15693,7 @@
     "namespace": "Anvil",
     "key": "AccessDeniedEnemiesMounted",
     "source": "Cannot access enemy mount",
-    "russian": "Нельзя использовать вражеское ездовое животное"
+    "russian": "Это вражеское ездовое животное"
   },
   {
     "namespace": "Anvil",
@@ -15753,7 +15753,7 @@
     "namespace": "Anvil",
     "key": "UnstuckCancelledTooSoon",
     "source": "Unstuck failed: Too soon",
-    "russian": "Не удалось освободиться: ещё слишком рано"
+    "russian": "Освобождение пока недоступно"
   },
   {
     "namespace": "Anvil",
@@ -15963,7 +15963,7 @@
     "namespace": "Anvil",
     "key": "PlayerDeploying",
     "source": "Deploying...",
-    "russian": "Подготовка к появлению..."
+    "russian": "Вход в мир…"
   },
   {
     "namespace": "Anvil",
@@ -15981,13 +15981,13 @@
     "namespace": "Anvil",
     "key": "MustBeResetBeforeFiring",
     "source": "Must be reset before firing",
-    "russian": "Перед выстрелом нужно вернуть механизм в исходное положение"
+    "russian": "Взведите механизм перед выстрелом"
   },
   {
     "namespace": "Anvil",
     "key": "MustBeResetBeforeLoading",
     "source": "Must be reset before loading",
-    "russian": "Перед зарядкой нужно вернуть механизм в исходное положение"
+    "russian": "Взведите механизм перед зарядкой"
   },
   {
     "namespace": "Anvil",
@@ -16557,7 +16557,7 @@
     "namespace": "Anvil",
     "key": "DeployingText",
     "source": "Deploying...",
-    "russian": "Подготовка к появлению..."
+    "russian": "Вход в мир…"
   },
   {
     "namespace": "Anvil",
@@ -16815,7 +16815,7 @@
     "namespace": "Anvil",
     "key": "RentHomestead",
     "source": "Rent",
-    "russian": "Арендовать"
+    "russian": "Аренда"
   },
   {
     "namespace": "Anvil",
@@ -16881,7 +16881,7 @@
     "namespace": "Anvil",
     "key": "UseSiegeTowerRampPromptTextFormat",
     "source": "Press {0} to use ramp",
-    "russian": "Нажмите {0}, чтобы использовать мостик"
+    "russian": "{0} — использовать мостик"
   },
   {
     "namespace": "Anvil",
@@ -16911,7 +16911,7 @@
     "namespace": "Anvil",
     "key": "ConfirmServerCrash",
     "source": "Confirm Server Crash?",
-    "russian": "Подтвердить аварийное завершение сервера?"
+    "russian": "Подтвердить сбой сервера?"
   },
   {
     "namespace": "Anvil",
@@ -17565,7 +17565,7 @@
     "namespace": "Anvil",
     "key": "UseEntityPromptTextFormat",
     "source": "Press {0} to use {1}",
-    "russian": "Нажмите {0}, чтобы использовать {1}"
+    "russian": "{0} — использовать: {1}"
   },
   {
     "namespace": "Anvil",
@@ -17794,5 +17794,4883 @@
     "key": "DoYouWantToRentHomestead",
     "source": "Do you want to rent access to this Homestead for 1 day for {0}x {1}?\n\nYou will be able to access Public structures at this Homestead for 24hrs.",
     "russian": "Арендовать доступ к усадьбе на сутки за {0} шт. {1}?\n\nОбщие постройки в усадьбе будут доступны вам в течение 24 часов."
+  },
+  {
+    "namespace": "",
+    "key": "3CFB92E0404288F32609C7B254B78B3A",
+    "source": "This is a text note to be used by map editors. This will not show up in an actual build.",
+    "russian": "Заметка редактора карты. В готовой игре не отображается."
+  },
+  {
+    "namespace": "",
+    "key": "AC452C02469B896E128C8AB4934D2ABB",
+    "source": "Footer Text",
+    "russian": "Нижняя подпись"
+  },
+  {
+    "namespace": "",
+    "key": "77DDB4B14B62DB97CD7EB5BBB6A0C8C1",
+    "source": "Body Text",
+    "russian": "Основной текст"
+  },
+  {
+    "namespace": "",
+    "key": "BAC7F59F438898062C8D5AB8F93C071F",
+    "source": "Header Text",
+    "russian": "Заголовок"
+  },
+  {
+    "namespace": "",
+    "key": "B97E2C394E9FAA1D9E38EDBE94F0BD97",
+    "source": "Resources Footer",
+    "russian": "Подпись ресурсов"
+  },
+  {
+    "namespace": "",
+    "key": "0074915146E2FD6B7B593CA500582505",
+    "source": "TownName",
+    "russian": "Название города"
+  },
+  {
+    "namespace": "",
+    "key": "0248BE4A48008F9FD458CCB48827E071",
+    "source": "HeaderText",
+    "russian": "Заголовок"
+  },
+  {
+    "namespace": "",
+    "key": "284C5CC64FA14331376DD28DF10BFDF8",
+    "source": "HeaderText",
+    "russian": "Заголовок"
+  },
+  {
+    "namespace": "",
+    "key": "E484B7D44EC30AE09C63449AF7B29D7E",
+    "source": "TownName",
+    "russian": "Название города"
+  },
+  {
+    "namespace": "",
+    "key": "C3B4708A4A98453214C533BB5D63F8C0",
+    "source": "label text",
+    "russian": "Подпись"
+  },
+  {
+    "namespace": "",
+    "key": "555FA65C49885FAFBB3197A15397D7DC",
+    "source": "Button Text",
+    "russian": "Кнопка"
+  },
+  {
+    "namespace": "",
+    "key": "012734FF41E3E16E0D62AFBECC47F7D7",
+    "source": "77h59m",
+    "russian": "77ч59м"
+  },
+  {
+    "namespace": "",
+    "key": "E10A54A8441C8E96FAE99397C49A7F86",
+    "source": "999 x 999",
+    "russian": "999 × 999"
+  },
+  {
+    "namespace": "",
+    "key": "6C6DDCCF4957F877F0634CA792A39DC3",
+    "source": "x",
+    "russian": "×"
+  },
+  {
+    "namespace": "",
+    "key": "0DCA36A84A3740B6C185848F9D9C2D43",
+    "source": "Lorem Ipsum",
+    "russian": "Пример текста"
+  },
+  {
+    "namespace": "",
+    "key": "C1F577DB43BCF717142CA7A32AF60AE7",
+    "source": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius lorem ac risus ultrices bibendum. Nunc aliquam ligula sed nisl commodo commodo. Etiam porttitor nisi in sagittis tristique.\r\n                                                     -\"Quote\"",
+    "russian": "Пример текста для проверки оформления и переноса строк.\r\n                                                     — «Цитата»"
+  },
+  {
+    "namespace": "",
+    "key": "D78579A245674059B88836AEA0348737",
+    "source": "20h",
+    "russian": "20ч"
+  },
+  {
+    "namespace": "",
+    "key": "2740C11943AED98BF228DF8824E4892F",
+    "source": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec qu",
+    "russian": "Пример текста для проверки оформления и переноса строк."
+  },
+  {
+    "namespace": "",
+    "key": "085E4B1D4B37C1A6421FF891BEB5B2A7",
+    "source": "0h0m",
+    "russian": "0ч0м"
+  },
+  {
+    "namespace": "",
+    "key": "E8D8825E4796BFFAC2E9919927303F7A",
+    "source": "Debug Text",
+    "russian": "Отладочный текст"
+  },
+  {
+    "namespace": "",
+    "key": "9A857C8E411F46FE281F95A6F05AD9AA",
+    "source": "1250x",
+    "russian": "1250 шт."
+  },
+  {
+    "namespace": "",
+    "key": "66C8424540092DAB636FD6B29DE58FAE",
+    "source": "Raven Hill",
+    "russian": "Вороний холм"
+  },
+  {
+    "namespace": "",
+    "key": "338AB78E49671BA3428DD2B0913E1277",
+    "source": "Ravenburg",
+    "russian": "Равенбург"
+  },
+  {
+    "namespace": "",
+    "key": "F9F5ACE44EBA9ECFE406A38317030A83",
+    "source": "Ravenwood",
+    "russian": "Вороний лес"
+  },
+  {
+    "namespace": "",
+    "key": "E6D988CF48C5C93B11E2669ABA2A3930",
+    "source": "Turnglen",
+    "russian": "Тёрнглен"
+  },
+  {
+    "namespace": "",
+    "key": "BA1B6EA34D9304140463909A59CAF250",
+    "source": "Turnstowe",
+    "russian": "Тёрнстоу"
+  },
+  {
+    "namespace": "",
+    "key": "33FBAE764ED7D5BB1D6AF8B5347CAE7E",
+    "source": "Turnham",
+    "russian": "Тёрнхэм"
+  },
+  {
+    "namespace": "",
+    "key": "936629344287705822684F94F7265F5C",
+    "source": "Blackmarch",
+    "russian": "Чёрный рубеж"
+  },
+  {
+    "namespace": "",
+    "key": "3B8CF0E2480D8E6420F8B49A64BAEC1D",
+    "source": "Blackstowe",
+    "russian": "Блэкстоу"
+  },
+  {
+    "namespace": "",
+    "key": "C87833D54451F0AE96855FB14499F303",
+    "source": "Blackhampton",
+    "russian": "Блэкхэмптон"
+  },
+  {
+    "namespace": "",
+    "key": "60D6D98448DF5A022A769FB290CB5262",
+    "source": "Mirford",
+    "russian": "Мирфорд"
+  },
+  {
+    "namespace": "",
+    "key": "6B1E4C4B4D3AFF15F5C11CB3720A181B",
+    "source": "Mirham",
+    "russian": "Мирхэм"
+  },
+  {
+    "namespace": "",
+    "key": "62A264BD403133A261F20F8951513153",
+    "source": "Mir Keep",
+    "russian": "Цитадель Мир"
+  },
+  {
+    "namespace": "",
+    "key": "5555D0434674A8F874C231AE87310FFA",
+    "source": "Swordwic",
+    "russian": "Свордвик"
+  },
+  {
+    "namespace": "",
+    "key": "1FD5F0064295588C21ED2BB82267BA81",
+    "source": "Swordhollow",
+    "russian": "Мечная лощина"
+  },
+  {
+    "namespace": "",
+    "key": "763D57CD43CE9B06E66A36B8274BCFA7",
+    "source": "Swordfort",
+    "russian": "Свордфорт"
+  },
+  {
+    "namespace": "",
+    "key": "E0C3D5854EBDEC13CA1EA6B3325B609C",
+    "source": "Straitford",
+    "russian": "Стрейтфорд"
+  },
+  {
+    "namespace": "",
+    "key": "41B3841E44B16257EEA4AFA929A19A1D",
+    "source": "Strait Castle",
+    "russian": "Замок Пролива"
+  },
+  {
+    "namespace": "",
+    "key": "2ED55A9E459DCB150BE7D6B3DA3FEC69",
+    "source": "Straitfield",
+    "russian": "Стрейтфилд"
+  },
+  {
+    "namespace": "",
+    "key": "4009F48B4261D5E3416B148098296FA0",
+    "source": "Axshire",
+    "russian": "Акшир"
+  },
+  {
+    "namespace": "",
+    "key": "ECE572304264CD61A88CD5901F4DC9AE",
+    "source": "Ax Bridge",
+    "russian": "Мост Топора"
+  },
+  {
+    "namespace": "",
+    "key": "4971DC8B4E3854BA8EB6EAB71215B67C",
+    "source": "Axbury",
+    "russian": "Аксбери"
+  },
+  {
+    "namespace": "",
+    "key": "3BE71BC54E58837835E978B4CA5755D1",
+    "source": "Deerstowe",
+    "russian": "Дирстоу"
+  },
+  {
+    "namespace": "",
+    "key": "A5A22AF44FCA2509FFB0E0A7CF7EFECB",
+    "source": "Deer Keep",
+    "russian": "Оленья цитадель"
+  },
+  {
+    "namespace": "",
+    "key": "128C2365458A858E48BB4E803C4EAA70",
+    "source": "Deerbury",
+    "russian": "Дирбери"
+  },
+  {
+    "namespace": "",
+    "key": "AD3F46EF41802AA359491DB6050E6E94",
+    "source": "Harewic",
+    "russian": "Хэрвик"
+  },
+  {
+    "namespace": "",
+    "key": "91CC8B7C4B36698ACC35EE92A5F3C24D",
+    "source": "Harewood",
+    "russian": "Заячий лес"
+  },
+  {
+    "namespace": "",
+    "key": "775CF48C4E9091B46C8B9F9164CDF95D",
+    "source": "Harefield",
+    "russian": "Заячье поле"
+  },
+  {
+    "namespace": "",
+    "key": "21C4231C40ADB52E92B1F09766D0E538",
+    "source": "Twinhollow",
+    "russian": "Двойная лощина"
+  },
+  {
+    "namespace": "",
+    "key": "F5A11AA444FE5321E491F3A5A4E29970",
+    "source": "Twin Bridge",
+    "russian": "Двойной мост"
+  },
+  {
+    "namespace": "",
+    "key": "0BA0AFBC4224E12C64FCAF8D09127C29",
+    "source": "Twin Hill",
+    "russian": "Двойной холм"
+  },
+  {
+    "namespace": "",
+    "key": "AFA6C318495A16EBAB5F8B8DEA5FEBCD",
+    "source": "Ryeminster",
+    "russian": "Райминстер"
+  },
+  {
+    "namespace": "",
+    "key": "D14D73564AF27757CBD302A79CDAE62C",
+    "source": "Ryefort",
+    "russian": "Райфорт"
+  },
+  {
+    "namespace": "",
+    "key": "A4D8017B4033EE8FA38FF8AFADE4DC38",
+    "source": "Ryeholme",
+    "russian": "Райхолм"
+  },
+  {
+    "namespace": "",
+    "key": "6AA17BEE456C47538362C6BAFB2F5E2D",
+    "source": "Crow Castle",
+    "russian": "Вороний замок"
+  },
+  {
+    "namespace": "",
+    "key": "A1DBB4984F821E08115A12A7E1F564A5",
+    "source": "Crowhollow",
+    "russian": "Воронья лощина"
+  },
+  {
+    "namespace": "",
+    "key": "4C01C8C6490083A41BBE3E8ECC5F6FB8",
+    "source": "Crow Hill",
+    "russian": "Холм Ворона"
+  },
+  {
+    "namespace": "",
+    "key": "DEE6C9DB4FB4733DE69AE18475457E02",
+    "source": "Blud Castle",
+    "russian": "Замок Блад"
+  },
+  {
+    "namespace": "",
+    "key": "71C08E9B410448FE22F0B387D245D776",
+    "source": "Bludworth",
+    "russian": "Бладворт"
+  },
+  {
+    "namespace": "",
+    "key": "C3CEE6B14F57E8C95F0B43ADCFB9861E",
+    "source": "Bludholme",
+    "russian": "Бладхолм"
+  },
+  {
+    "namespace": "",
+    "key": "3D4146B641E3D888145B57A13F90AE8F",
+    "source": "Oxholme",
+    "russian": "Оксхолм"
+  },
+  {
+    "namespace": "",
+    "key": "913C6BB049603521F0EFDCA3A8835E62",
+    "source": "Oxminster",
+    "russian": "Оксминстер"
+  },
+  {
+    "namespace": "",
+    "key": "1840E3DD44741A44569A20BC2C1F8DE0",
+    "source": "Ox Keep",
+    "russian": "Бычья цитадель"
+  },
+  {
+    "namespace": "",
+    "key": "6702F6CB428A60B98F6F98B548E70B48",
+    "source": "Staffworth",
+    "russian": "Стаффворт"
+  },
+  {
+    "namespace": "",
+    "key": "026BC92E4B08C7ED07BA749C3549F276",
+    "source": "Staffort",
+    "russian": "Стаффорт"
+  },
+  {
+    "namespace": "",
+    "key": "A2656865479016906F4689BCAF268E80",
+    "source": "Staff Bridge",
+    "russian": "Мост Посоха"
+  },
+  {
+    "namespace": "",
+    "key": "1C71FB0642D5B574D56958AF2DF26343",
+    "source": "Crookedshire",
+    "russian": "Крукедшир"
+  },
+  {
+    "namespace": "",
+    "key": "FD6841BC419F4CA95C1F35A29899617A",
+    "source": "Crooked Castle",
+    "russian": "Кривой замок"
+  },
+  {
+    "namespace": "",
+    "key": "1DA1004343DE613A909CEC9CDBFE6A2B",
+    "source": "Crooked Bridge",
+    "russian": "Кривой мост"
+  },
+  {
+    "namespace": "",
+    "key": "8F07ADCD448AD5E79C63FE806BC7DC1E",
+    "source": "Worland",
+    "russian": "Ворланд"
+  },
+  {
+    "namespace": "",
+    "key": "B7FF824A4FDDCCE0D2D5A2B7CA5AAA20",
+    "source": "Worstowe",
+    "russian": "Ворстоу"
+  },
+  {
+    "namespace": "",
+    "key": "8BBDAFBC4E29E4BAA51091AB6449FC09",
+    "source": "Worfort",
+    "russian": "Ворфорт"
+  },
+  {
+    "namespace": "",
+    "key": "F7CE8FB742EFEAE80F7D72989D551C8B",
+    "source": "Buckhampton",
+    "russian": "Бакхэмптон"
+  },
+  {
+    "namespace": "",
+    "key": "F74481794F9D7C321820D7A2E4933458",
+    "source": "Buckbury",
+    "russian": "Бакбери"
+  },
+  {
+    "namespace": "",
+    "key": "5153F5504FAFC00BEEEB2F8C7C5CA9E2",
+    "source": "Buckmarch",
+    "russian": "Бакмарч"
+  },
+  {
+    "namespace": "",
+    "key": "269C41BE40813E155E00C899AED66B75",
+    "source": "Bolt Hill",
+    "russian": "Холм Стрелы"
+  },
+  {
+    "namespace": "",
+    "key": "5966C7A74EB914929E6AD6B3F3A1C832",
+    "source": "Boltwic",
+    "russian": "Болтвик"
+  },
+  {
+    "namespace": "",
+    "key": "48A87CBE45AF0A8F64B4428076C775AB",
+    "source": "Boltfield",
+    "russian": "Болтфилд"
+  },
+  {
+    "namespace": "",
+    "key": "AEFC6E0A41C41A8193DC8EA33306AC45",
+    "source": "Bellefort",
+    "russian": "Белльфорт"
+  },
+  {
+    "namespace": "",
+    "key": "ED5C997246C46D1EA0F243AEC0432A83",
+    "source": "Bellestowe",
+    "russian": "Белльстоу"
+  },
+  {
+    "namespace": "",
+    "key": "AEF2FB2D465013FB399C2C920E9F9A5A",
+    "source": "Belleburg",
+    "russian": "Белльбург"
+  },
+  {
+    "namespace": "",
+    "key": "D42ABFE346AD34A9998171868A9E02AD",
+    "source": "Mistholme",
+    "russian": "Мистхолм"
+  },
+  {
+    "namespace": "",
+    "key": "004EC3744E7E259E2D37549C8772E6EF",
+    "source": "Mist Keep",
+    "russian": "Цитадель Тумана"
+  },
+  {
+    "namespace": "",
+    "key": "4F93B06C4561064E65D2D391E7721659",
+    "source": "Misthollow",
+    "russian": "Туманная лощина"
+  },
+  {
+    "namespace": "",
+    "key": "0BB163374330022495248488A83F72DB",
+    "source": "Ironmarch",
+    "russian": "Железный рубеж"
+  },
+  {
+    "namespace": "",
+    "key": "7AC6DA294F7B57ED99E8E9AE622F2EF4",
+    "source": "Iron Bridge",
+    "russian": "Железный мост"
+  },
+  {
+    "namespace": "",
+    "key": "C581106248BCF3BBB0BC7DADE25D270D",
+    "source": "Ironwood",
+    "russian": "Железный лес"
+  },
+  {
+    "namespace": "",
+    "key": "64BA41D948A2ACE53757E8B36DDEF806",
+    "source": "Infinite",
+    "russian": "Бесконечно"
+  },
+  {
+    "namespace": "",
+    "key": "12E2C6E8408AC97FCC70AAB7CF3C85C5",
+    "source": "Once",
+    "russian": "Один раз"
+  },
+  {
+    "namespace": "",
+    "key": "DB83D48F47F0822270D43E8C6437265B",
+    "source": "Multiple",
+    "russian": "Несколько раз"
+  },
+  {
+    "namespace": "",
+    "key": "A30E092241F0992AFAFAED9B8BC9C652",
+    "source": "Fixed",
+    "russian": "Фиксированно"
+  },
+  {
+    "namespace": "",
+    "key": "56E0AA8B46C852157AE694A845C48CEC",
+    "source": "Infinite",
+    "russian": "Бесконечно"
+  },
+  {
+    "namespace": "",
+    "key": "EE33CB3345D717571B02C2BF29DE9BF2",
+    "source": "System",
+    "russian": "Система"
+  },
+  {
+    "namespace": "",
+    "key": "FA4C280448F071BEC2E7DCBB93AAD39C",
+    "source": "Self",
+    "russian": "Свой"
+  },
+  {
+    "namespace": "",
+    "key": "DBFC7C2543EAAE282C2AA388B0D9902C",
+    "source": "System",
+    "russian": "Система"
+  },
+  {
+    "namespace": "",
+    "key": "409D1C8F4A4B65DA008B19AF49C22061",
+    "source": "Self",
+    "russian": "Свой"
+  },
+  {
+    "namespace": "",
+    "key": "5EBD08D148F241FF6864CB90C99B3926",
+    "source": "Complete (Let Particles Finish then Kill Emitter)",
+    "russian": "Завершить частицы, затем удалить эмиттер"
+  },
+  {
+    "namespace": "",
+    "key": "3D6E42B442620BADAC1A11A4FD1C9D0C",
+    "source": "Kill (Emitter and Particles Die Immediately)",
+    "russian": "Сразу удалить эмиттер и частицы"
+  },
+  {
+    "namespace": "",
+    "key": "05B6BB4F45E3E7F2B9FC7EB44EA372BD",
+    "source": "Continue (Emitter Deactivates But Doesn't Die Until System Does)",
+    "russian": "Отключить эмиттер до завершения системы"
+  },
+  {
+    "namespace": "",
+    "key": "64707B4B47CCAFCCDBDA079C9A4F564A",
+    "source": "Complete (Let Emitters Finish then Kill The System)",
+    "russian": "Завершить эмиттеры, затем удалить систему"
+  },
+  {
+    "namespace": "",
+    "key": "42F22BC54CC1B2AC9C8882A5D4872C6A",
+    "source": "Kill (System and Emitters Die Immediately)",
+    "russian": "Сразу удалить систему и эмиттеры"
+  },
+  {
+    "namespace": "",
+    "key": "D47EB1AC4E18283F01F95193A316F096",
+    "source": "Simulation Defaults",
+    "russian": "Настройки симуляции"
+  },
+  {
+    "namespace": "",
+    "key": "355B90D54A8ACC8E298536855EA30D01",
+    "source": "Determinisitic",
+    "russian": "Детерминированный"
+  },
+  {
+    "namespace": "",
+    "key": "FA31CB9A417E2921B67B6193734DCF56",
+    "source": "Non-Deterministic",
+    "russian": "Недетерминированный"
+  },
+  {
+    "namespace": "",
+    "key": "A18CF9DA4BFB3A2244B978A992D6EB5A",
+    "source": "Spawn Only",
+    "russian": "Только при создании"
+  },
+  {
+    "namespace": "",
+    "key": "20843AF24DED2633BC873683D32B31D6",
+    "source": "Every Frame",
+    "russian": "Каждый кадр"
+  },
+  {
+    "namespace": "",
+    "key": "2CAD43EA44FB5F94FBD8A58D288A0314",
+    "source": "Output",
+    "russian": "Выход"
+  },
+  {
+    "namespace": "",
+    "key": "5CC6955C43D0A1A6B1431F87F2A5C4C6",
+    "source": "RGB and Alpha Separately",
+    "russian": "Цвет и прозрачность отдельно"
+  },
+  {
+    "namespace": "",
+    "key": "7E47B90F463C457225E4A69BA2905F62",
+    "source": "RGBA Together",
+    "russian": "Цвет с прозрачностью"
+  },
+  {
+    "namespace": "",
+    "key": "89F307D940A6ADCA6A0102B5F287D250",
+    "source": "RGBA Linear Color Curve",
+    "russian": "Кривая линейного цвета"
+  },
+  {
+    "namespace": "",
+    "key": "519FE9954354D4F2E5C4069AC2F9952C",
+    "source": "Degrees",
+    "russian": "Градусы"
+  },
+  {
+    "namespace": "",
+    "key": "36815211441A756A246F94A5C60E7267",
+    "source": "Normalized Angle (0-1)",
+    "russian": "Нормированный угол (0–1)"
+  },
+  {
+    "namespace": "",
+    "key": "301EA99E4A4A7A281A8A7BAB115302E4",
+    "source": "Radians",
+    "russian": "Радианы"
+  },
+  {
+    "namespace": "",
+    "key": "4A47A9B042CA2719C66DBF99A7EDDEE0",
+    "source": "Default",
+    "russian": "По умолчанию"
+  },
+  {
+    "namespace": "",
+    "key": "2A05F7C841F27112128682A51BB8DDC7",
+    "source": "Custom Matrix",
+    "russian": "Своя матрица"
+  },
+  {
+    "namespace": "",
+    "key": "AD9521184D22924B683D668CFA8D607B",
+    "source": "Scale / Rotate / Offset",
+    "russian": "Масштаб / поворот / сдвиг"
+  },
+  {
+    "namespace": "",
+    "key": "DD7CA97A49EE33B799BEC7B1326BB6E1",
+    "source": "Scale / Offset / Rotate",
+    "russian": "Масштаб / сдвиг / поворот"
+  },
+  {
+    "namespace": "",
+    "key": "44F1F2FC49AC4784F72CD08B016A1036",
+    "source": "Default",
+    "russian": "По умолчанию"
+  },
+  {
+    "namespace": "",
+    "key": "405FD4974A008126B3C52DA2D5F652FF",
+    "source": "Default",
+    "russian": "По умолчанию"
+  },
+  {
+    "namespace": "",
+    "key": "21E3DAD741D1AAE7581067BD94598489",
+    "source": "Axis Angle",
+    "russian": "Ось и угол"
+  },
+  {
+    "namespace": "",
+    "key": "EB2F0FCE433493BF9F425BA97A7A0B1D",
+    "source": "Yaw / Pitch / Roll",
+    "russian": "Рыскание / тангаж / крен"
+  },
+  {
+    "namespace": "",
+    "key": "E44DDC1C4DA062F8429BCEAF01BEB0F4",
+    "source": "Quaternion",
+    "russian": "Кватернион"
+  },
+  {
+    "namespace": "",
+    "key": "09DD2506467DD3D9FD54C68253E25F4E",
+    "source": "Matrix",
+    "russian": "Матрица"
+  },
+  {
+    "namespace": "",
+    "key": "0E90FF4A4328322D2C98B78524A8FF6B",
+    "source": "Default",
+    "russian": "По умолчанию"
+  },
+  {
+    "namespace": "",
+    "key": "59A6E47A4EC44A7A451612823F4AF3B8",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "449C095A4EE19F8477FB46BA9278CF3C",
+    "source": "Direct",
+    "russian": "Напрямую"
+  },
+  {
+    "namespace": "",
+    "key": "5250C7C4408E0AA2FBB080ADC70FF9C6",
+    "source": "Linear",
+    "russian": "Линейно"
+  },
+  {
+    "namespace": "",
+    "key": "92C81CFD4E008478080D7B8338502465",
+    "source": "From Point",
+    "russian": "Из точки"
+  },
+  {
+    "namespace": "",
+    "key": "2192DF83488A45DFBE2F95A504D43198",
+    "source": "In Cone",
+    "russian": "В конусе"
+  },
+  {
+    "namespace": "",
+    "key": "76DB25504E9B2B8CD1CD67AC5BE00EDB",
+    "source": "Uniform",
+    "russian": "Равномерно"
+  },
+  {
+    "namespace": "",
+    "key": "F44D67384EDFCD071127149743C91DCB",
+    "source": "Uniform Curve",
+    "russian": "Равномерная кривая"
+  },
+  {
+    "namespace": "",
+    "key": "5CA8C9B14B5B17189C7B0AB190CC1BA5",
+    "source": "Non-Uniform",
+    "russian": "Неравномерно"
+  },
+  {
+    "namespace": "",
+    "key": "F2C7F04249200683BE1802972DE46F51",
+    "source": "Non-Uniform Curve",
+    "russian": "Неравномерная кривая"
+  },
+  {
+    "namespace": "",
+    "key": "C994584A45533A6948DD89902958B255",
+    "source": "Float",
+    "russian": "Дробное число"
+  },
+  {
+    "namespace": "",
+    "key": "955C59794DD16E3DA7E3529F7A40C5CC",
+    "source": "Vector 2D",
+    "russian": "Двумерный вектор"
+  },
+  {
+    "namespace": "",
+    "key": "145EB60241FF0F6A4BE1C5B9CEAD21AF",
+    "source": "Vector + Float",
+    "russian": "Вектор и число"
+  },
+  {
+    "namespace": "",
+    "key": "2E7BC3134F2126059C2C4A9278DE9A27",
+    "source": "Vector 4",
+    "russian": "Вектор 4D"
+  },
+  {
+    "namespace": "",
+    "key": "77FC236E42ED0D5D069C80A436ACFA73",
+    "source": "Linear Color",
+    "russian": "Линейный цвет"
+  },
+  {
+    "namespace": "",
+    "key": "4DA9120145B7503DCDC30E8170F60CA3",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "6EA182664C63BDB8CA957981D2A4611A",
+    "source": "Random X",
+    "russian": "Случайная ось X"
+  },
+  {
+    "namespace": "",
+    "key": "AF35264544FDF2BBEE5D3887B0514AB0",
+    "source": "Random Y",
+    "russian": "Случайная ось Y"
+  },
+  {
+    "namespace": "",
+    "key": "FA0E147F43AAF2CC4C26E79183E4ACC4",
+    "source": "Random X / Y",
+    "russian": "Случайные оси X / Y"
+  },
+  {
+    "namespace": "",
+    "key": "B0F6E10E4DF5E9E98E822782F9E24FC1",
+    "source": "Custom",
+    "russian": "Свой"
+  },
+  {
+    "namespace": "",
+    "key": "D58F1F0D46BC9B6CB18060B446F72DA7",
+    "source": "Direct Angle (Degrees)",
+    "russian": "Заданный угол (градусы)"
+  },
+  {
+    "namespace": "",
+    "key": "D406A5694BAA31E2BC32B9986BE954A8",
+    "source": "Direct Normalized Angle (0-1)",
+    "russian": "Заданный нормированный угол (0–1)"
+  },
+  {
+    "namespace": "",
+    "key": "C4DCCCE64E36953D88954698F18EACA8",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "1DF3924145282F38CB1AFB80AE90043B",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "FAB1E9FF402FCE059EFCAF88A404CC93",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "2A3F7EA541F135C5682C81B198A8C199",
+    "source": "Random Uniform",
+    "russian": "Случайно, равномерно"
+  },
+  {
+    "namespace": "",
+    "key": "7D8684474147AF5D378281902B5E38AA",
+    "source": "Random Non-Uniform",
+    "russian": "Случайно, неравномерно"
+  },
+  {
+    "namespace": "",
+    "key": "E3C93E4649FB17CBBBA0F6A38F8E36A8",
+    "source": "Uniform",
+    "russian": "Равномерно"
+  },
+  {
+    "namespace": "",
+    "key": "19EAB0B1480517C0B790398338B4C0D7",
+    "source": "Non-Uniform",
+    "russian": "Неравномерно"
+  },
+  {
+    "namespace": "",
+    "key": "8F0AA8F9457CA359822F1D9EA707FF30",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "A2AEF63942FBDD799D9A6891B290AC0A",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "55FE0AFC4E754FBADBC32AB1FF0934FA",
+    "source": "Simulation Position",
+    "russian": "Положение симуляции"
+  },
+  {
+    "namespace": "",
+    "key": "8D76E77A428B0AA5915C31B4E8F9D0AB",
+    "source": "Unset / (Mass of 1)",
+    "russian": "Не задано / (масса 1)"
+  },
+  {
+    "namespace": "",
+    "key": "598490EC47408A97B6178899A9905581",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "A94325E74889A6DA8240639BB9BF678B",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "54C531A24ACB18D297A6A59381C07DEB",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "DD53D82140C6FF8BB6C2609B3431D345",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "CA202E56484936787214D58C7ED32F16",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "DF3A1A6E40C75C0EADD2B6915E17AD8D",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "F2621A0F48EB3C760C98CFB47564F4A6",
+    "source": "Random Range",
+    "russian": "Случайный диапазон"
+  },
+  {
+    "namespace": "",
+    "key": "65239E684A4863CAB30083967D4806C0",
+    "source": "Random Hue/Saturation/Value",
+    "russian": "Случайный тон / насыщенность / яркость"
+  },
+  {
+    "namespace": "",
+    "key": "18F6784344BB124AB9D906994025F8E2",
+    "source": "Link RGBA",
+    "russian": "Связать RGBA"
+  },
+  {
+    "namespace": "",
+    "key": "D66A1558402A624F734D048629820C39",
+    "source": "Link RGB / Link A",
+    "russian": "Связать цвет / альфа"
+  },
+  {
+    "namespace": "",
+    "key": "12B134DE41AD8E96A53C04A5CFFA002B",
+    "source": "Random Individual Channels",
+    "russian": "Случайные отдельные каналы"
+  },
+  {
+    "namespace": "",
+    "key": "5184707849BFB2FC37DEBCBEAEE0AFDD",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "A025C68F4F86E238E9E779806431EA68",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "F1283EBD4EA12FA1B8CB60B3C4D07FF8",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "3EED5FF04520B1C991701CBF8006258E",
+    "source": "Unset",
+    "russian": "Не задано"
+  },
+  {
+    "namespace": "",
+    "key": "014604FE43AC34EEF070899398394D33",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "34C8419847B6164A1E03409B62A85F03",
+    "source": "Inside",
+    "russian": "Внутри"
+  },
+  {
+    "namespace": "",
+    "key": "3E242586476203BC7942C4A43FAE7705",
+    "source": "Centered",
+    "russian": "По центру"
+  },
+  {
+    "namespace": "",
+    "key": "CC1FEDB1432CF9407B04A4AF0D6ED1A0",
+    "source": "Outside",
+    "russian": "Снаружи"
+  },
+  {
+    "namespace": "",
+    "key": "BA4A47B147D2CDCDB68DA9A900EA83BA",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "C6287364436F79B6695EA6A72D6B9C30",
+    "source": "Direct",
+    "russian": "Напрямую"
+  },
+  {
+    "namespace": "",
+    "key": "B457966947726D3AFE9933A04F80942C",
+    "source": "Uniform",
+    "russian": "Равномерно"
+  },
+  {
+    "namespace": "",
+    "key": "D8B7E68C4E52366DBB981EA18CA89ED1",
+    "source": "Simulation",
+    "russian": "Симуляция"
+  },
+  {
+    "namespace": "",
+    "key": "0E8D06034BC9326AB0E787802C8775DB",
+    "source": "Local",
+    "russian": "Локально"
+  },
+  {
+    "namespace": "",
+    "key": "6259CC844D7AFB40CE274DA4E96C6C99",
+    "source": "Mesh",
+    "russian": "Сетка"
+  },
+  {
+    "namespace": "",
+    "key": "C76837D145AA5F7AE4BB5EAD6CEC0187",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "81C14ACF42278016BF03B0993E4F16AA",
+    "source": "System",
+    "russian": "Система"
+  },
+  {
+    "namespace": "",
+    "key": "77376CDE451537A3BCF7658D18BC78A9",
+    "source": "Orient to Vector",
+    "russian": "Ориентация по вектору"
+  },
+  {
+    "namespace": "",
+    "key": "72B3AD01425EC3522A1C26B8BF0C9A4E",
+    "source": "Orient to Quaternion",
+    "russian": "Ориентация по кватерниону"
+  },
+  {
+    "namespace": "",
+    "key": "2A5930584272DD7AA33FCF8CDA827AC2",
+    "source": "Orient to Matrix",
+    "russian": "Ориентация по матрице"
+  },
+  {
+    "namespace": "",
+    "key": "178C652A426A0ECE1E5612B9C2BE87FD",
+    "source": "Bounds",
+    "russian": "Границы"
+  },
+  {
+    "namespace": "",
+    "key": "B1F0B6904836E7A3596B48B57ED3D9C6",
+    "source": "Minimum Axis",
+    "russian": "Минимальная ось"
+  },
+  {
+    "namespace": "",
+    "key": "BE25843A48E728F40F8A67A0C775793B",
+    "source": "Maximum Axis",
+    "russian": "Максимальная ось"
+  },
+  {
+    "namespace": "",
+    "key": "B88FE8884E15124CD903E9BEFD8B2A01",
+    "source": "Rotation Rate",
+    "russian": "Скорость вращения"
+  },
+  {
+    "namespace": "",
+    "key": "B676530B4ECF0B29408672BB49CCEF69",
+    "source": "Orient To Vector(s)",
+    "russian": "Ориентация по векторам"
+  },
+  {
+    "namespace": "",
+    "key": "30F3A1504C28BF1127A91BBCF5160917",
+    "source": "Orient to Position",
+    "russian": "Ориентация по положению"
+  },
+  {
+    "namespace": "",
+    "key": "22AFF077423074B3F197DF91E95237EC",
+    "source": "Flight Orientation",
+    "russian": "Ориентация полёта"
+  },
+  {
+    "namespace": "",
+    "key": "F49A02F140C3472D8B73538C330F4188",
+    "source": "Rolling Orientation",
+    "russian": "Ориентация качения"
+  },
+  {
+    "namespace": "",
+    "key": "6ED9FA314F6003E3389C07AA9F8984DF",
+    "source": "Facing",
+    "russian": "Направление"
+  },
+  {
+    "namespace": "",
+    "key": "5AE37A7340701082915CDCAA16C5EC06",
+    "source": "Facing/Up",
+    "russian": "Направление / верх"
+  },
+  {
+    "namespace": "",
+    "key": "276D4A4E4DD3CDB84DED93AE93C7CDA2",
+    "source": "Facing/Side",
+    "russian": "Направление / бок"
+  },
+  {
+    "namespace": "",
+    "key": "738262E843591A67AF0FF99FB02EBA98",
+    "source": "Facing/Side/Up",
+    "russian": "Направление / бок / верх"
+  },
+  {
+    "namespace": "",
+    "key": "F0D13E8C4FC528C01AF7CE9E86424DFA",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "F0196EC24560D7F46961578FCD21FCF3",
+    "source": "Direct",
+    "russian": "Напрямую"
+  },
+  {
+    "namespace": "",
+    "key": "F66333014D754DF3F8B7BBABE57A80AE",
+    "source": "GPU Depth Buffer",
+    "russian": "Буфер глубины видеокарты"
+  },
+  {
+    "namespace": "",
+    "key": "AB80D7F74A2EFED5C628C9B4A4AA59F9",
+    "source": "GPU Distance Fields",
+    "russian": "Поля расстояний видеокарты"
+  },
+  {
+    "namespace": "",
+    "key": "7E282BBE443D6D9BAA26BA8947846A4F",
+    "source": "Analytical Planes",
+    "russian": "Аналитические плоскости"
+  },
+  {
+    "namespace": "",
+    "key": "A3A93FDA4C99559BDEB44BB6B4A3C5DF",
+    "source": "GPU Ray Traces (Experimental)",
+    "russian": "Трассировка лучей (экспериментально)"
+  },
+  {
+    "namespace": "",
+    "key": "298B5B434E129D9A745FDE84BCF03F2C",
+    "source": "Ray Traced",
+    "russian": "Трассировка лучей"
+  },
+  {
+    "namespace": "",
+    "key": "A039387E47CBF1F94401B1953B35D535",
+    "source": "Analytical Planes",
+    "russian": "Аналитические плоскости"
+  },
+  {
+    "namespace": "",
+    "key": "1CEB75324280885CD4D7D0B707D02308",
+    "source": "Min",
+    "russian": "Мин."
+  },
+  {
+    "namespace": "",
+    "key": "74DB0CF04260CAC30B9092BF5A488DC9",
+    "source": "Max",
+    "russian": "Макс."
+  },
+  {
+    "namespace": "",
+    "key": "B48A576E47E3FDEF13AEA8A866DD2955",
+    "source": "Ignore",
+    "russian": "Игнорировать"
+  },
+  {
+    "namespace": "",
+    "key": "51F8262247C719F913E015B5E4BFAF8D",
+    "source": "Ignore",
+    "russian": "Игнорировать"
+  },
+  {
+    "namespace": "",
+    "key": "21FAC3D14EECC3A447E7C0A3AB5475EE",
+    "source": "Min",
+    "russian": "Мин."
+  },
+  {
+    "namespace": "",
+    "key": "0CFB2E394711F98971616894C6D488C0",
+    "source": "Max",
+    "russian": "Макс."
+  },
+  {
+    "namespace": "",
+    "key": "C797880045595D9146147DBF924BF140",
+    "source": "Sprite",
+    "russian": "Спрайт"
+  },
+  {
+    "namespace": "",
+    "key": "548132034DB24143E0787790861BCEA3",
+    "source": "Mesh",
+    "russian": "Сетка"
+  },
+  {
+    "namespace": "",
+    "key": "A697FADC4A1F7B3806C8F4A2B36E6B12",
+    "source": "Custom",
+    "russian": "Свой"
+  },
+  {
+    "namespace": "",
+    "key": "8E23714348003D3044722B89635E9B0C",
+    "source": "Scene Depth",
+    "russian": "Глубина сцены"
+  },
+  {
+    "namespace": "",
+    "key": "78C4CADF40C3B289877369BCD967E38C",
+    "source": "Custom Depth",
+    "russian": "Своя глубина"
+  },
+  {
+    "namespace": "",
+    "key": "8728909A4FC160CF8CC8A08D1EB50BBD",
+    "source": "Partial Depth",
+    "russian": "Частичная глубина"
+  },
+  {
+    "namespace": "",
+    "key": "601B0A97438A91B964A423853B8CE9A7",
+    "source": "Simulation",
+    "russian": "Симуляция"
+  },
+  {
+    "namespace": "",
+    "key": "F3F32B404A80A3153EDD83B6AA545CD9",
+    "source": "Local",
+    "russian": "Локально"
+  },
+  {
+    "namespace": "",
+    "key": "1CE439C14E8741B2E94E4896C5BB29BB",
+    "source": "X Axis",
+    "russian": "Ось X"
+  },
+  {
+    "namespace": "",
+    "key": "4807FD384418AD133AF56D9DD063A9D8",
+    "source": "Y Axis",
+    "russian": "Ось Y"
+  },
+  {
+    "namespace": "",
+    "key": "0D8EE448409B4A8CD1F47FAB0AC122CF",
+    "source": "Z Axis",
+    "russian": "Ось Z"
+  },
+  {
+    "namespace": "",
+    "key": "074107C94D4050ADF30515896495CB9D",
+    "source": "DeerHorn",
+    "russian": "Олений рог"
+  },
+  {
+    "namespace": "",
+    "key": "0CE4D3E54268DB854A40BCB0112AAD8A",
+    "source": "List Label",
+    "russian": "Подпись списка"
+  },
+  {
+    "namespace": "",
+    "key": "2319483F45056DF57435F997F8394F20",
+    "source": "Label",
+    "russian": "Подпись"
+  },
+  {
+    "namespace": "",
+    "key": "43539245475ADF07AE32CCBA91CE57FF",
+    "source": "Entry Label",
+    "russian": "Подпись записи"
+  },
+  {
+    "namespace": "",
+    "key": "421DDB904857E4147D7D7181A5B801B4",
+    "source": "Slider Label",
+    "russian": "Подпись ползунка"
+  },
+  {
+    "namespace": "",
+    "key": "5111A4814174ED1DB97E258243414C73",
+    "source": "Label",
+    "russian": "Подпись"
+  },
+  {
+    "namespace": "",
+    "key": "23C25B3E42C084EA9C9A9581393B664E",
+    "source": "Label",
+    "russian": "Подпись"
+  },
+  {
+    "namespace": "",
+    "key": "0755B9C94A3BAF85B02383B8FD92FB99",
+    "source": "Label",
+    "russian": "Подпись"
+  },
+  {
+    "namespace": "",
+    "key": "1004B91F49917B1170045FBA0D0431C7",
+    "source": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "russian": "Пример текста для проверки оформления"
+  },
+  {
+    "namespace": "",
+    "key": "EE6DB62A4F0C8A2128E1A8B5DD6B6E17",
+    "source": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "russian": "Пример текста для проверки оформления"
+  },
+  {
+    "namespace": "",
+    "key": "CE852F7A4C8C44C72EFCCDA65343A129",
+    "source": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "russian": "Пример текста для проверки оформления"
+  },
+  {
+    "namespace": "",
+    "key": "A4F837544E07C0E275BD6FA311AA59CC",
+    "source": "RankText",
+    "russian": "Ранг"
+  },
+  {
+    "namespace": "",
+    "key": "C0D68EDF453CFB1D4E428F851361745D",
+    "source": "Text Block",
+    "russian": "Текстовый блок"
+  },
+  {
+    "namespace": "",
+    "key": "682A919D444FB173667A0B8DA490A717",
+    "source": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "russian": "Пример текста для проверки оформления. Этот блок используется для настройки отображения текста."
+  },
+  {
+    "namespace": "",
+    "key": "A6F1CD8346D51510DF40E5B710C55F32",
+    "source": "Player Status Text",
+    "russian": "Состояние игрока"
+  },
+  {
+    "namespace": "",
+    "key": "622FEF57436F28E511B2CB994942E35C",
+    "source": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "russian": "Пример текста для проверки оформления. Этот блок используется для настройки отображения текста."
+  },
+  {
+    "namespace": "",
+    "key": "FC3C961E425815B14B9A89A8C5DC20C0",
+    "source": "Primary Notification",
+    "russian": "Основное уведомление"
+  },
+  {
+    "namespace": "",
+    "key": "42BC648D4ABC76B4225FBA8F4C278059",
+    "source": "PrimaryPromptText",
+    "russian": "Основная подсказка"
+  },
+  {
+    "namespace": "",
+    "key": "1E3C67354D4157D0B9575E87F9153B66",
+    "source": "Secondary Notification",
+    "russian": "Дополнительное уведомление"
+  },
+  {
+    "namespace": "",
+    "key": "1E4A57CA493B9E7FFDF988B63E2BC71B",
+    "source": "SecondaryPromptText",
+    "russian": "Дополнительная подсказка"
+  },
+  {
+    "namespace": "",
+    "key": "64F7165B4E53A4304D1B6888EEFD17B6",
+    "source": "CheckBox Label",
+    "russian": "Подпись флажка"
+  },
+  {
+    "namespace": "",
+    "key": "4BA898874BA5692049D477BB85B31891",
+    "source": "ExamplePlayerName",
+    "russian": "Имя игрока"
+  },
+  {
+    "namespace": "",
+    "key": "07B65FAA428C62ED40D0BDAA98EDD3CD",
+    "source": "Left Button",
+    "russian": "Левая кнопка"
+  },
+  {
+    "namespace": "",
+    "key": "E898336D48C86057C7D1F7A0D3CA4DEF",
+    "source": "Right Button",
+    "russian": "Правая кнопка"
+  },
+  {
+    "namespace": "",
+    "key": "745524234B82A5B188E0308AB825ECB7",
+    "source": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rutrum feugiat consectetur. Integer in odio ullamcorper, porttitor tellus ac, euismod dui.",
+    "russian": "Пример текста для проверки оформления и переноса строк."
+  },
+  {
+    "namespace": "",
+    "key": "361B199A4E2B9622824CA1B1DA0A977A",
+    "source": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "russian": "Пример текста для проверки оформления. Этот блок используется для настройки отображения текста."
+  },
+  {
+    "namespace": "",
+    "key": "BFA448ED4B3803C1E532C3A7C744F915",
+    "source": "Header Text",
+    "russian": "Заголовок"
+  },
+  {
+    "namespace": "",
+    "key": "419C79194C1BE86C55C2D8B38EF22B74",
+    "source": "Text Input Label",
+    "russian": "Подпись поля ввода"
+  },
+  {
+    "namespace": "",
+    "key": "FBED18BF4010B48E3A55D29E016B076D",
+    "source": "Secondary Text Input",
+    "russian": "Дополнительное поле ввода"
+  },
+  {
+    "namespace": "",
+    "key": "1C30A8804A3CC5A9DBCD1C8DE43A4AF6",
+    "source": "SteamId",
+    "russian": "Steam ID"
+  },
+  {
+    "namespace": "",
+    "key": "539A6EB348C4C923804BE0BFEE4B99C9",
+    "source": "ServerName",
+    "russian": "Название сервера"
+  },
+  {
+    "namespace": "",
+    "key": "F9C570634815A69BA79FFEB6AE3EFA2B",
+    "source": "BUILD 23415",
+    "russian": "СБОРКА 23415"
+  },
+  {
+    "namespace": "",
+    "key": "9C56362241399FD5051FB2AA747AD081",
+    "source": "Default Left Column Text",
+    "russian": "Текст левого столбца"
+  },
+  {
+    "namespace": "",
+    "key": "874A1A864144A15CB6BC1B97C2C87E40",
+    "source": "Default Right Column Text",
+    "russian": "Текст правого столбца"
+  },
+  {
+    "namespace": "",
+    "key": "DAC8B56E440C6897E896F7BCFD1721E4",
+    "source": "Default Left Column Text",
+    "russian": "Текст левого столбца"
+  },
+  {
+    "namespace": "",
+    "key": "8B3E89BE42B91E49931773A92D9F838A",
+    "source": "Default Right Column Text",
+    "russian": "Текст правого столбца"
+  },
+  {
+    "namespace": "",
+    "key": "377909A94EE52BAED7DAB3A8F99EBCE3",
+    "source": "Render Preview",
+    "russian": "Предпросмотр рендера"
+  },
+  {
+    "namespace": "",
+    "key": "0ED0C57D401FCFE538702A9376E51525",
+    "source": "Initializing",
+    "russian": "Инициализация"
+  },
+  {
+    "namespace": "",
+    "key": "D125CD7C4F546891CA81F29679DD909A",
+    "source": "Current Camera Cut",
+    "russian": "Текущий план камеры"
+  },
+  {
+    "namespace": "",
+    "key": "3619ADDB48E36F7B253D73ACEE4CACD0",
+    "source": "Overall",
+    "russian": "Всего"
+  },
+  {
+    "namespace": "",
+    "key": "F0428B3B4B06C11A94BC95889D5ED296",
+    "source": "Current Sequence:",
+    "russian": "Текущая последовательность:"
+  },
+  {
+    "namespace": "",
+    "key": "2CBCC46E4020F91526330389492A9A1E",
+    "source": "Pipeline Test Sequence",
+    "russian": "Тестовая последовательность"
+  },
+  {
+    "namespace": "",
+    "key": "D4060258426A84CA5B1F7DBBEEC0EA00",
+    "source": "Elapsed Time:",
+    "russian": "Прошло времени:"
+  },
+  {
+    "namespace": "",
+    "key": "C3C41122438A601C8B424586CA48B5A8",
+    "source": "Est. Time Remaining:",
+    "russian": "Осталось примерно:"
+  },
+  {
+    "namespace": "",
+    "key": "C7F6D2C34E12013B371082BF00446E62",
+    "source": "Pipeline State:",
+    "russian": "Состояние обработки:"
+  },
+  {
+    "namespace": "",
+    "key": "C163EF464A53511E7A163B927774487E",
+    "source": "Producing Frames",
+    "russian": "Создание кадров"
+  },
+  {
+    "namespace": "",
+    "key": "B4E1941B4E4D572E300BBE95A64BE1E5",
+    "source": "Engine Warm Up Frames:",
+    "russian": "Кадры прогрева движка:"
+  },
+  {
+    "namespace": "",
+    "key": "A8C2C47C43677CB9F18DB9BDBBF8FF82",
+    "source": "Frame:",
+    "russian": "Кадр:"
+  },
+  {
+    "namespace": "",
+    "key": "2EF7567A42CD730EA6D0C5AEE059AB5A",
+    "source": "1230 of 3000 (20%)",
+    "russian": "1230 из 3000 (20%)"
+  },
+  {
+    "namespace": "",
+    "key": "BDF1B4374AC2CD163951D89B168BC023",
+    "source": "Handle Frames:",
+    "russian": "Добавочные кадры:"
+  },
+  {
+    "namespace": "",
+    "key": "93ED45A441C250DD7E5366845C736B17",
+    "source": "4 of 12",
+    "russian": "4 из 12"
+  },
+  {
+    "namespace": "",
+    "key": "702492B043505188D12CAAAE4EC95803",
+    "source": "Cut Name:",
+    "russian": "Название плана:"
+  },
+  {
+    "namespace": "",
+    "key": "820BA28E49F530A4BD99508153B56658",
+    "source": "02_0400 (1 of 5)",
+    "russian": "02_0400 (1 из 5)"
+  },
+  {
+    "namespace": "",
+    "key": "5F8C4F5944E03EAE88F149ACC8DD1465",
+    "source": "Cut State:",
+    "russian": "Состояние плана:"
+  },
+  {
+    "namespace": "",
+    "key": "EDB6D9EE44574A040DEE9099CE73262D",
+    "source": "Uninitialized",
+    "russian": "Не инициализировано"
+  },
+  {
+    "namespace": "",
+    "key": "00D207E944D3BE8A50B29780066DD3F3",
+    "source": "Sub Sample:",
+    "russian": "Подвыборка:"
+  },
+  {
+    "namespace": "",
+    "key": "AC1770A748B102CAA77E95AE66E83F3F",
+    "source": "32 of 84",
+    "russian": "32 из 84"
+  },
+  {
+    "namespace": "",
+    "key": "1752EB294880EA66681D67BB446A33AD",
+    "source": "Total Frames:",
+    "russian": "Всего кадров:"
+  },
+  {
+    "namespace": "",
+    "key": "C6759FFF499FBFB421EEB0AF76EB4741",
+    "source": "1245 of 6000 (20%)",
+    "russian": "1245 из 6000 (20%)"
+  },
+  {
+    "namespace": "",
+    "key": "4A7B9FBB4E0E437B427EDBAFF69DF309",
+    "source": "LAYER NAME",
+    "russian": "НАЗВАНИЕ СЛОЯ"
+  },
+  {
+    "namespace": "",
+    "key": "C20F0D5540D79CE002A65D852F6EFCAA",
+    "source": "Render Preview",
+    "russian": "Предпросмотр рендера"
+  },
+  {
+    "namespace": "",
+    "key": "BE82B36C4130493B2B86B19792AF14EC",
+    "source": "Initializing",
+    "russian": "Инициализация"
+  },
+  {
+    "namespace": "",
+    "key": "FE34C78F4088E566DF5EBFA84A5C1EB9",
+    "source": "Current Sequence:",
+    "russian": "Текущая последовательность:"
+  },
+  {
+    "namespace": "",
+    "key": "885EC2E847CAB3479C3AE3BAAC8C852D",
+    "source": "Pipeline Test Sequence",
+    "russian": "Тестовая последовательность"
+  },
+  {
+    "namespace": "",
+    "key": "0CE949D94CA12EA2D91BB9B18D259F8F",
+    "source": "Elapsed Time:",
+    "russian": "Прошло времени:"
+  },
+  {
+    "namespace": "",
+    "key": "60C6648A4C70C53DCC7549924BE47340",
+    "source": "Est. Time Remaining:",
+    "russian": "Осталось примерно:"
+  },
+  {
+    "namespace": "",
+    "key": "37A0031A463421D673588B8833178FCE",
+    "source": "Pipeline State:",
+    "russian": "Состояние обработки:"
+  },
+  {
+    "namespace": "",
+    "key": "EF930CD64626FA3D24609CA97BF33583",
+    "source": "Producing Frames",
+    "russian": "Создание кадров"
+  },
+  {
+    "namespace": "",
+    "key": "41B670BE43BDA765C0074F8A7D753798",
+    "source": "Engine Warm Up Frames:",
+    "russian": "Кадры прогрева движка:"
+  },
+  {
+    "namespace": "",
+    "key": "B6B366B840323793A446CDBA60EE2AA2",
+    "source": "Frame:",
+    "russian": "Кадр:"
+  },
+  {
+    "namespace": "",
+    "key": "72E604724A6283A6F870358FCF8E2353",
+    "source": "1230 of 3000 (20%)",
+    "russian": "1230 из 3000 (20%)"
+  },
+  {
+    "namespace": "",
+    "key": "2FE06F364679592CD3996A9A43C21173",
+    "source": "Handle Frames:",
+    "russian": "Добавочные кадры:"
+  },
+  {
+    "namespace": "",
+    "key": "DEE4D3D54F51550A5D032BAF3821E921",
+    "source": "4 of 12",
+    "russian": "4 из 12"
+  },
+  {
+    "namespace": "",
+    "key": "665DBFDD47BA47DD9653F8A5889E35AE",
+    "source": "Cut Name:",
+    "russian": "Название плана:"
+  },
+  {
+    "namespace": "",
+    "key": "74FEB7A145D97A1A98D295BB10CE8C2E",
+    "source": "02_0400 (1 of 5)",
+    "russian": "02_0400 (1 из 5)"
+  },
+  {
+    "namespace": "",
+    "key": "FA422C5146FD7C322E886BB8167EC121",
+    "source": "Cut State:",
+    "russian": "Состояние плана:"
+  },
+  {
+    "namespace": "",
+    "key": "E7DC6F514EA5B9F9C4BF059EF74029B4",
+    "source": "Uninitialized",
+    "russian": "Не инициализировано"
+  },
+  {
+    "namespace": "",
+    "key": "3A96042C42BBDE96044AE5AF7FD05336",
+    "source": "Sub Sample:",
+    "russian": "Подвыборка:"
+  },
+  {
+    "namespace": "",
+    "key": "7B6CDAFF4721336163BD2BA824F295D5",
+    "source": "32 of 84",
+    "russian": "32 из 84"
+  },
+  {
+    "namespace": "",
+    "key": "0D231EA4419DCDA0D7FE91A87E72187E",
+    "source": "Total Frames:",
+    "russian": "Всего кадров:"
+  },
+  {
+    "namespace": "",
+    "key": "F35DE0694FCB89B8D54FF9A1D5BBD239",
+    "source": "1245 of 6000 (20%)",
+    "russian": "1245 из 6000 (20%)"
+  },
+  {
+    "namespace": "",
+    "key": "285C1CF74E11560EABA1A3B67DCE04B6",
+    "source": "This is a really long comment entered by a user on a MRQ job. This field could be used for making notes about what they changed in this shot so that the director or lead can know what parts of the shot to pay attention to, and so you can remember what was changed after it goes into an edit. This is a long field that has multiple lines of text to show multi-line handling. If the comment field is left empty on the job then this will not be visible.\r\n\r\nYou can even use Shift+Enter to create multiple lines.\r\n\r\nLike this!\r\n\r\nOr this!\r\n\r\nReally tall text!",
+    "russian": "Пример длинного комментария к заданию рендера. Здесь можно описать изменения в кадре и указать, на что обратить внимание. Пустое поле не отображается.\r\n\r\nДля переноса строки используйте Shift+Enter.\r\n\r\nПример новой строки.\r\n\r\nЕщё одна строка."
+  },
+  {
+    "namespace": "",
+    "key": "D369363845CF5D1F5B87799C183619AD",
+    "source": "60mm f/2.5",
+    "russian": "60 мм f/2.5"
+  },
+  {
+    "namespace": "",
+    "key": "5CED15A74B9ED4BE3DF531A92E24F9EA",
+    "source": "Timecode: [00:00:14:8] (344f)",
+    "russian": "Таймкод: [00:00:14:8] (344 к.)"
+  },
+  {
+    "namespace": "",
+    "key": "DB54903846D3574C4C52DA8BDF6F76A1",
+    "source": "Shot: RenderFarmSeqB Cam: CineCameraActor1 [00:00:3:13] (109f)",
+    "russian": "Кадр: тестовый план Камера: кинокамера [00:00:3:13] (109 к.)"
+  },
+  {
+    "namespace": "",
+    "key": "084B67C3403166CF5282A28D6E27FBFA",
+    "source": "Job: PipelineTestSeq 03:44pm 01/19/2020 World: MoviePipelineTestMap Author: MannyMannequin",
+    "russian": "Задание: тестовая последовательность 15:44 19.01.2020 Мир: тестовая карта Автор: манекен"
+  },
+  {
+    "namespace": "",
+    "key": "E0629CDF4473E9B209B0C288854F7D2C",
+    "source": "Branch: Dev-Editor-11047590",
+    "russian": "Ветка: редактор-11047590"
+  },
+  {
+    "namespace": "",
+    "key": "C2B39A0747DFB085BDD05CB8F22405EA",
+    "source": "Major",
+    "russian": "Основной"
+  },
+  {
+    "namespace": "",
+    "key": "B79CF0ED473F7C8F91126796D72B3D6F",
+    "source": "Minor",
+    "russian": "Дополнительный"
+  },
+  {
+    "namespace": "",
+    "key": "DBF145DF472919448A6C4A80F91A5AA7",
+    "source": "Grinning Maw",
+    "russian": "Оскаленная пасть"
+  },
+  {
+    "namespace": "",
+    "key": "EF249C0B40FC908975EE8EB5558EF9D9",
+    "source": "Sawlung",
+    "russian": "Соланг"
+  },
+  {
+    "namespace": "",
+    "key": "F5BD52A44FB8F724F056CDA6B4F8BD46",
+    "source": "Black Star",
+    "russian": "Чёрная звезда"
+  },
+  {
+    "namespace": "",
+    "key": "916C82934CA9D647435A60B203B0CC37",
+    "source": "Stormcaller's Crown",
+    "russian": "Корона Буревестника"
+  },
+  {
+    "namespace": "",
+    "key": "29F3EEFF4EBE5C3AE30873A7DEF5BC73",
+    "source": "Booter's Bluff",
+    "russian": "Утёс Бутера"
+  },
+  {
+    "namespace": "",
+    "key": "DA4F679D40FB7B683FD86B9FC676C61B",
+    "source": "Brand Lake",
+    "russian": "Озеро Бранд"
+  },
+  {
+    "namespace": "",
+    "key": "20171B1A4E05650C7EDE799478680070",
+    "source": "Lake of the Crone",
+    "russian": "Озеро Старухи"
+  },
+  {
+    "namespace": "",
+    "key": "564C29324AB03727F88794A3D6C6E1FF",
+    "source": "Wight Isles",
+    "russian": "Острова Умертвий"
+  },
+  {
+    "namespace": "",
+    "key": "32C5844E495F4E9E546684B722313D33",
+    "source": "Wulfséaþ",
+    "russian": "Вулфсет"
+  },
+  {
+    "namespace": "",
+    "key": "33A902E74927A3C7686556989E4E73E7",
+    "source": "The Beorma",
+    "russian": "Беорма"
+  },
+  {
+    "namespace": "",
+    "key": "F6E909884AE8114BAB218F94F8CE2442",
+    "source": "Sudorness",
+    "russian": "Судорнесс"
+  },
+  {
+    "namespace": "",
+    "key": "657449394BAFB2D5156CCF9137F50A24",
+    "source": "Billhook Bay",
+    "russian": "Залив Багра"
+  },
+  {
+    "namespace": "",
+    "key": "8267EB9A4D06FBD8DC46C3831C358952",
+    "source": "Fludweald",
+    "russian": "Флудвальд"
+  },
+  {
+    "namespace": "",
+    "key": "6ABA3C99442F654B3BE879849A0557DA",
+    "source": "North Astria",
+    "russian": "Северная Астрия"
+  },
+  {
+    "namespace": "",
+    "key": "0D1D9C074CCA630B0E2603A59A437B43",
+    "source": "Fealcen Comb",
+    "russian": "Фалкенская долина"
+  },
+  {
+    "namespace": "",
+    "key": "D1B4557A4F6E470D2E9938A50DFECA5D",
+    "source": "Roaming Scales",
+    "russian": "Блуждающая чешуя"
+  },
+  {
+    "namespace": "",
+    "key": "C5C2194B4BB46C688A35C8B1CACBF6CF",
+    "source": "Little Duck",
+    "russian": "Малая Утка"
+  },
+  {
+    "namespace": "",
+    "key": "537150984AB9B47E9FE699B805E5280F",
+    "source": "Wulflod",
+    "russian": "Вулфлод"
+  },
+  {
+    "namespace": "",
+    "key": "57D9E9FD4C575F751E016FB300E8C1FF",
+    "source": "Collon-cróh",
+    "russian": "Коллон-Кро"
+  },
+  {
+    "namespace": "",
+    "key": "2EB434F04DDD8BF85E88449A029A5BA8",
+    "source": "Solefald",
+    "russian": "Солефальд"
+  },
+  {
+    "namespace": "",
+    "key": "4B309094485A42C1BCCDD7BFAE5EB444",
+    "source": "Lost Sister",
+    "russian": "Потерянная Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "6C3F88E6477BDD1F2EAB2295C417CAA8",
+    "source": "Astrian Sea",
+    "russian": "Астрийское море"
+  },
+  {
+    "namespace": "",
+    "key": "F7953D034B3BA792E16AE1AC8266C77B",
+    "source": "Myrce",
+    "russian": "Мирс"
+  },
+  {
+    "namespace": "",
+    "key": "C05E29D74510F218F617C082C069074F",
+    "source": "Utres Corridor",
+    "russian": "Коридор Утрес"
+  },
+  {
+    "namespace": "",
+    "key": "16EE7FD94AA79E8F7B9FD6A2A175F38E",
+    "source": "The Hræcen",
+    "russian": "Хрэкен"
+  },
+  {
+    "namespace": "",
+    "key": "F7E813D145AD92570419A4A6A51890C1",
+    "source": "Western Vens",
+    "russian": "Западные Вены"
+  },
+  {
+    "namespace": "",
+    "key": "8E064F24467AB17F4941BEB2C50D2DC1",
+    "source": "First Sister",
+    "russian": "Первая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "02FBE3BA4E78AA62FBB9188CA649B7F9",
+    "source": "Humberweald",
+    "russian": "Хамберский лес"
+  },
+  {
+    "namespace": "",
+    "key": "39F870AE492F8E95B3DA6A8FE90A4A42",
+    "source": "Modorhold",
+    "russian": "Модорхолд"
+  },
+  {
+    "namespace": "",
+    "key": "CC059319482295C2BDE3E3915B5AB216",
+    "source": "Shrine of Waking Blood",
+    "russian": "Святилище Пробуждённой Крови"
+  },
+  {
+    "namespace": "",
+    "key": "50F29B414E839EA0F6CDF0BF9191ABB3",
+    "source": "Pyri's Post",
+    "russian": "Застава Пири"
+  },
+  {
+    "namespace": "",
+    "key": "22E56800431DDBC121D790AF78D9925E",
+    "source": "Wyrmlíc River",
+    "russian": "Река Вирмлик"
+  },
+  {
+    "namespace": "",
+    "key": "5CF52EF44C5A67F928DC718CF28EDE00",
+    "source": "Ent's Ear",
+    "russian": "Ухо Энта"
+  },
+  {
+    "namespace": "",
+    "key": "517F35754A457F47770DD8A7F8BBD54D",
+    "source": "Folcú",
+    "russian": "Фолку"
+  },
+  {
+    "namespace": "",
+    "key": "A8ACB960423B84A54FC94F9CF36638C7",
+    "source": "Wight Isles",
+    "russian": "Острова Умертвий"
+  },
+  {
+    "namespace": "",
+    "key": "D5F353DD44761A0E600A77860737AAC4",
+    "source": "Third Sister",
+    "russian": "Третья Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "5B3440EF48E7081D3EE2958FE768265A",
+    "source": "Fóregenga Crossing",
+    "russian": "Переправа Форегенга"
+  },
+  {
+    "namespace": "",
+    "key": "60CAF6AB4D1075E5A7399190C2BA715A",
+    "source": "The Warding Pools",
+    "russian": "Защитные пруды"
+  },
+  {
+    "namespace": "",
+    "key": "DEA6245E48F4DC5B6EE0C4AF541BA4C0",
+    "source": "The Gield",
+    "russian": "Гильд"
+  },
+  {
+    "namespace": "",
+    "key": "E7751E1440D46AD6363EDEB775E7BFED",
+    "source": "Upper Wights",
+    "russian": "Верхние Умертвия"
+  },
+  {
+    "namespace": "",
+    "key": "88C010C843B3FB34221BB78225D2A688",
+    "source": "Ire",
+    "russian": "Ярость"
+  },
+  {
+    "namespace": "",
+    "key": "3249AF314F1D35CD47DCBCBC16FF240B",
+    "source": "Fly River",
+    "russian": "Мушиная река"
+  },
+  {
+    "namespace": "",
+    "key": "56A9AFFE4A019828A1E998AA78BE0E0B",
+    "source": "Second Sister",
+    "russian": "Вторая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "2660F55A4091A409D3FEE685F9A3B687",
+    "source": "Brood's Eye",
+    "russian": "Глаз Выводка"
+  },
+  {
+    "namespace": "",
+    "key": "E937C901430DDA1946BB8AA06FEAE4C7",
+    "source": "The Weed",
+    "russian": "Сорняк"
+  },
+  {
+    "namespace": "",
+    "key": "706A8D73483334C134DA7D99792E83EF",
+    "source": "Fífelbyt",
+    "russian": "Фифельбит"
+  },
+  {
+    "namespace": "",
+    "key": "E16712B745AAE6124B834CA517022185",
+    "source": "Major",
+    "russian": "Основной"
+  },
+  {
+    "namespace": "",
+    "key": "EA5725F74133C81CD47129B170FED73C",
+    "source": "Second Sister",
+    "russian": "Вторая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "3E79027A4F35621C5A22F3BDDD1E6CC5",
+    "source": "Ent’s Ear",
+    "russian": "Ухо Энта"
+  },
+  {
+    "namespace": "",
+    "key": "588AE68C4C229F54C59085A0DD97DFED",
+    "source": "Broodwood",
+    "russian": "Лес Выводка"
+  },
+  {
+    "namespace": "",
+    "key": "3FBA50864C23C4275AA55BA87FD35B5C",
+    "source": "The Gield",
+    "russian": "Гильд"
+  },
+  {
+    "namespace": "",
+    "key": "3D25A2E24C2A0015029621A6FE9EB93A",
+    "source": "Briarcourt",
+    "russian": "Терновый двор"
+  },
+  {
+    "namespace": "",
+    "key": "90AE712449A197F32A214FBDCA398933",
+    "source": "The Beorma",
+    "russian": "Беорма"
+  },
+  {
+    "namespace": "",
+    "key": "84DF772F4CF9C0484DCD57894F1451CE",
+    "source": "Wyrmlíc River",
+    "russian": "Река Вирмлик"
+  },
+  {
+    "namespace": "",
+    "key": "993A98204A16020E81FE1EB432603661",
+    "source": "Tunnecomb",
+    "russian": "Таннекомб"
+  },
+  {
+    "namespace": "",
+    "key": "6E8AF37C441BE1E18B6C049F9AC51E84",
+    "source": "Dream’s Whisper",
+    "russian": "Шёпот Сна"
+  },
+  {
+    "namespace": "",
+    "key": "8F2BE5A5492D187F06931F9302D1F584",
+    "source": "Upper Wights",
+    "russian": "Верхние Умертвия"
+  },
+  {
+    "namespace": "",
+    "key": "9612E72B437F939B1B4962BE8C60C69E",
+    "source": "Billhook Bay",
+    "russian": "Залив Багра"
+  },
+  {
+    "namespace": "",
+    "key": "50F2B9424E98AE7A6CE8C1BAE06228E8",
+    "source": "Trivium",
+    "russian": "Тривиум"
+  },
+  {
+    "namespace": "",
+    "key": "6783C77D4E55B3CE133A7D8C98E7EE51",
+    "source": "Crus Pulli",
+    "russian": "Крус Пулли"
+  },
+  {
+    "namespace": "",
+    "key": "73A26DA34962202D7DB19AA1453E51FA",
+    "source": "Roaming Scales",
+    "russian": "Блуждающая чешуя"
+  },
+  {
+    "namespace": "",
+    "key": "8D7B3C9143085F09C21859983F3BAFF9",
+    "source": "Anchor Ridge",
+    "russian": "Якорный хребет"
+  },
+  {
+    "namespace": "",
+    "key": "2B434B654BF8A5EF982B6F90337F33B6",
+    "source": "Myrce",
+    "russian": "Мирс"
+  },
+  {
+    "namespace": "",
+    "key": "F52A637346F93D2F92FCFB8208EB60E4",
+    "source": "Stella Lucida",
+    "russian": "Стелла Люцида"
+  },
+  {
+    "namespace": "",
+    "key": "3177798742AE38C2BEB83BBEA4007090",
+    "source": "Lost Sister",
+    "russian": "Потерянная Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "D2FFED23452036783A675E9A788F72BB",
+    "source": "First Sister",
+    "russian": "Первая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "30D7219C4F6A68FDBBF4CAA23DA16CC1",
+    "source": "Brimrad",
+    "russian": "Бримрад"
+  },
+  {
+    "namespace": "",
+    "key": "518067294D0FFFCB373726AAACD550DC",
+    "source": "Princemarch",
+    "russian": "Княжий рубеж"
+  },
+  {
+    "namespace": "",
+    "key": "D4F6A41D42B08B95AE3F32A3083F45AF",
+    "source": "Ellernford",
+    "russian": "Эллернфорд"
+  },
+  {
+    "namespace": "",
+    "key": "5DEF18464979024508E370A0EC271222",
+    "source": "Solopgang",
+    "russian": "Солопганг"
+  },
+  {
+    "namespace": "",
+    "key": "2437D80C46B27D1CBFBBAB8DA8CD7134",
+    "source": "Módorhold",
+    "russian": "Модорхолд"
+  },
+  {
+    "namespace": "",
+    "key": "C8889341484FEFBCDB31DC98D387DA89",
+    "source": "Raven's Hook",
+    "russian": "Вороний крюк"
+  },
+  {
+    "namespace": "",
+    "key": "45C8DF50499597679BC9E5802A8A34DA",
+    "source": "Thunder Copse",
+    "russian": "Громовая роща"
+  },
+  {
+    "namespace": "",
+    "key": "4F975749479655B8A264C3A6A404025A",
+    "source": "Isa’s Glory",
+    "russian": "Слава Исы"
+  },
+  {
+    "namespace": "",
+    "key": "7539DD7540A3ED5DA58E928570E05815",
+    "source": "Gildra Sker",
+    "russian": "Гильдра-Скер"
+  },
+  {
+    "namespace": "",
+    "key": "B755AFF9482134A72A1B06B0D9F9EE18",
+    "source": " Krákur Perch",
+    "russian": "Насест Кракура"
+  },
+  {
+    "namespace": "",
+    "key": "8B63BADC42BD0C833E3990A33D693521",
+    "source": "Beitholt",
+    "russian": "Бейтхольт"
+  },
+  {
+    "namespace": "",
+    "key": "CC0D6C9B484E200FACAF84A7DEB387DC",
+    "source": "Gnatfield",
+    "russian": "Комариное поле"
+  },
+  {
+    "namespace": "",
+    "key": "628C613543CACE3A2376A3A7080AD43D",
+    "source": "The Crackling",
+    "russian": "Трескучие земли"
+  },
+  {
+    "namespace": "",
+    "key": "793F69D0461992C99E3B2BADAC250ABB",
+    "source": "Gorgo Shallows",
+    "russian": "Мели Горго"
+  },
+  {
+    "namespace": "",
+    "key": "1676007E4FD1B69343412E8542BF2384",
+    "source": "Reefward Isle",
+    "russian": "Остров Рифов"
+  },
+  {
+    "namespace": "",
+    "key": "F98147094FD4BDF3C991D689DAFE87D8",
+    "source": "The Berde",
+    "russian": "Берде"
+  },
+  {
+    "namespace": "",
+    "key": "6EBED5D94FD68ECC6EFB3998DC94043E",
+    "source": "Blind Eye",
+    "russian": "Слепой глаз"
+  },
+  {
+    "namespace": "",
+    "key": "A55F36884149CC48A27C058FF48949D2",
+    "source": "Grubstone",
+    "russian": "Грабстоун"
+  },
+  {
+    "namespace": "",
+    "key": "B4351A7941B34BEECBB80C987B6FAF08",
+    "source": "Eldingará",
+    "russian": "Эльдингара"
+  },
+  {
+    "namespace": "",
+    "key": "362CEC1D42F3DD86A5BB0BA4A9108316",
+    "source": "Skycollar",
+    "russian": "Небесный ворот"
+  },
+  {
+    "namespace": "",
+    "key": "23CAA26B4DBE5A435EA128B8400F93D7",
+    "source": "Opinn Pathway",
+    "russian": "Тропа Опинн"
+  },
+  {
+    "namespace": "",
+    "key": "0CD3BFAC406264B04883D0B80BDCEA61",
+    "source": "Hildr's Hideaway",
+    "russian": "Убежище Хильд"
+  },
+  {
+    "namespace": "",
+    "key": "BCFBDC684443EA8E1405EA99629B60DA",
+    "source": "Guffhil",
+    "russian": "Гаффхил"
+  },
+  {
+    "namespace": "",
+    "key": "49B06315484C2D492C03F09696E56444",
+    "source": "Wending",
+    "russian": "Вендинг"
+  },
+  {
+    "namespace": "",
+    "key": "5F7E4DC14CA3F68F4D18B687C13071F1",
+    "source": "The Ditch",
+    "russian": "Ров"
+  },
+  {
+    "namespace": "",
+    "key": "CD043FD248191EC0DC8C438412299E16",
+    "source": "Catfall",
+    "russian": "Кэтфолл"
+  },
+  {
+    "namespace": "",
+    "key": "F3B7C62641BC086F4D978CA825F700AC",
+    "source": "Humberhearth",
+    "russian": "Хамберхарт"
+  },
+  {
+    "namespace": "",
+    "key": "2632A9FC428FEECFC10EEAB337FD98CC",
+    "source": "Sabre Headland",
+    "russian": "Сабельный мыс"
+  },
+  {
+    "namespace": "",
+    "key": "409C608E455A5AC78D4FCC9F3F058E06",
+    "source": "Baker's Row",
+    "russian": "Пекарский ряд"
+  },
+  {
+    "namespace": "",
+    "key": "53F511D24A53460A7DAC709D1CFA30C4",
+    "source": "The Halyard",
+    "russian": "Фал"
+  },
+  {
+    "namespace": "",
+    "key": "65ED0FF046B028749E0E6B81B80FDBC2",
+    "source": "Whistlewood",
+    "russian": "Свистящий лес"
+  },
+  {
+    "namespace": "",
+    "key": "07109B434F1B5A270C5A0199AE319152",
+    "source": "Yiltpaths",
+    "russian": "Тропы Йилта"
+  },
+  {
+    "namespace": "",
+    "key": "58FF97A746214F8849514B9210DC397D",
+    "source": "Porsil Forc",
+    "russian": "Порсил-Форк"
+  },
+  {
+    "namespace": "",
+    "key": "4F427A1E4809DC9502E2E8BF5767B928",
+    "source": "The Duckroad",
+    "russian": "Утиная дорога"
+  },
+  {
+    "namespace": "",
+    "key": "FBDC672A4A497CB385A13787A39F6463",
+    "source": "Boulderby",
+    "russian": "Боулдерби"
+  },
+  {
+    "namespace": "",
+    "key": "3DBA2ED44FCAF73B935256A253B89DCD",
+    "source": "Cape Swine",
+    "russian": "Свиной мыс"
+  },
+  {
+    "namespace": "",
+    "key": "EBD1D46742D69CADDA2328B7DC84E10E",
+    "source": "Looter's Law",
+    "russian": "Закон Мародёра"
+  },
+  {
+    "namespace": "",
+    "key": "E3DB14F64AA5E1711F966FB4111BA5D4",
+    "source": "Bleeder's Vale",
+    "russian": "Кровавая долина"
+  },
+  {
+    "namespace": "",
+    "key": "18688F2D45AD25CB18C85EAD50DB972C",
+    "source": "Mago Herepath",
+    "russian": "Военная тропа Маго"
+  },
+  {
+    "namespace": "",
+    "key": "67DA90BE432403F760D1438F9A90F78B",
+    "source": "Speaker's Will",
+    "russian": "Воля Оратора"
+  },
+  {
+    "namespace": "",
+    "key": "A7BCEB264C083E3E27B12DB1E5994FE1",
+    "source": "Muddied Star",
+    "russian": "Потускневшая звезда"
+  },
+  {
+    "namespace": "",
+    "key": "287733C94BA2ED78392400A4FCB6FFA3",
+    "source": "Grinning Maw",
+    "russian": "Оскаленная пасть"
+  },
+  {
+    "namespace": "",
+    "key": "693F37C14FD35D7B84A42CB5F58FB9F3",
+    "source": "Downy Tor",
+    "russian": "Пушистый холм"
+  },
+  {
+    "namespace": "",
+    "key": "484CB3A2497C54322A12F788EB47AFD4",
+    "source": "Sefa's Rest",
+    "russian": "Покой Сефы"
+  },
+  {
+    "namespace": "",
+    "key": "5EFBDFB344BC504D8CB6AD9BF380950D",
+    "source": "Southern Vens",
+    "russian": "Южные Вены"
+  },
+  {
+    "namespace": "",
+    "key": "0224263F4FB9A3A41741C6845C8169C3",
+    "source": "Venroad",
+    "russian": "Венская дорога"
+  },
+  {
+    "namespace": "",
+    "key": "3DBF0683498389AAEFB2F1824319807E",
+    "source": "The Drought",
+    "russian": "Засуха"
+  },
+  {
+    "namespace": "",
+    "key": "F17F322E46186971BFEC049F019AA608",
+    "source": "Slatshaw",
+    "russian": "Слэтшоу"
+  },
+  {
+    "namespace": "",
+    "key": "C4CDF38245C5E25953C1B18EB5F635AE",
+    "source": "Burdon Point",
+    "russian": "Мыс Бёрдон"
+  },
+  {
+    "namespace": "",
+    "key": "5B80E3A44C1D3636DD691E80BF86EF6E",
+    "source": "Crone Lake",
+    "russian": "Озеро Старухи"
+  },
+  {
+    "namespace": "",
+    "key": "53F8BC414B227243404B11AE32107773",
+    "source": "Affray",
+    "russian": "Схватка"
+  },
+  {
+    "namespace": "",
+    "key": "100DEB284698A4FF09D93E8FFDD17765",
+    "source": "Fæderwick",
+    "russian": "Фадервик"
+  },
+  {
+    "namespace": "",
+    "key": "C46A44D14222ABFD86F59AB0C7DF26E5",
+    "source": "Fals Crownland",
+    "russian": "Коронные земли Фалса"
+  },
+  {
+    "namespace": "",
+    "key": "F974A09F480DF1BE5A3191AAE16A16EF",
+    "source": "Saltlands",
+    "russian": "Солёные земли"
+  },
+  {
+    "namespace": "",
+    "key": "2C099EBE4C8C21A09D3F7CA1CC9B44D6",
+    "source": "Filch River",
+    "russian": "Воровская река"
+  },
+  {
+    "namespace": "",
+    "key": "2FF5BA9D40DC7B0B55AB85B9A825FEE1",
+    "source": "Orcarum Domus",
+    "russian": "Оркарум Домус"
+  },
+  {
+    "namespace": "",
+    "key": "6D73FBE64F0A82AC38DC97AD0E1A619E",
+    "source": "Ictus",
+    "russian": "Иктус"
+  },
+  {
+    "namespace": "",
+    "key": "52AE0B65491EE8E04564D0A8EAB634F8",
+    "source": "Castula",
+    "russian": "Кастула"
+  },
+  {
+    "namespace": "",
+    "key": "F3FBF11843177D28AF98EAA7027F1657",
+    "source": "Lost Lung",
+    "russian": "Потерянное Лёгкое"
+  },
+  {
+    "namespace": "",
+    "key": "B664D3054709598ECFA1BD876E34B873",
+    "source": "Cirri",
+    "russian": "Цирри"
+  },
+  {
+    "namespace": "",
+    "key": "9F4851734B5CA8438AAE46AFA050C806",
+    "source": "Flagella Causeway",
+    "russian": "Дамба Флагелла"
+  },
+  {
+    "namespace": "",
+    "key": "5C74D4F24619413FFC1162BDFB7C0ABD",
+    "source": "Os Firth",
+    "russian": "Залив Ос"
+  },
+  {
+    "namespace": "",
+    "key": "D7AC3D7F42A8719BFC149E8757F6F51F",
+    "source": "The Pulmo",
+    "russian": "Пульмо"
+  },
+  {
+    "namespace": "",
+    "key": "09AF135F4B0A468934B41EB04F2604F3",
+    "source": "Arcus Terrae",
+    "russian": "Аркус Терре"
+  },
+  {
+    "namespace": "",
+    "key": "C67091AB487A4E60A7AA0BA69FBB13DF",
+    "source": "Washwood",
+    "russian": "Затопленный лес"
+  },
+  {
+    "namespace": "",
+    "key": "63D397184E438A5BB84328BEF2904CC0",
+    "source": "Clivus",
+    "russian": "Кливус"
+  },
+  {
+    "namespace": "",
+    "key": "9941B98245ACA29D8C2C23AFE3C1E7F6",
+    "source": "Retributary",
+    "russian": "Река Возмездия"
+  },
+  {
+    "namespace": "",
+    "key": "CB0EA8C447837F831BAFB9B0D548DC45",
+    "source": "Astria Australis",
+    "russian": "Южная Астрия"
+  },
+  {
+    "namespace": "",
+    "key": "2143FDD04BCCAD148A5D1D91BA52A113",
+    "source": "Burnfall",
+    "russian": "Бёрнфолл"
+  },
+  {
+    "namespace": "",
+    "key": "392C2BC74ED4FAEAB23A2180F85D8481",
+    "source": "Torsio",
+    "russian": "Торсио"
+  },
+  {
+    "namespace": "",
+    "key": "7F4878E448D0037B7AAADAB27CED60E1",
+    "source": "Star Common",
+    "russian": "Звёздный луг"
+  },
+  {
+    "namespace": "",
+    "key": "5AE26CCA43F2D7E8E1684B8425656552",
+    "source": "Wyrd Wold",
+    "russian": "Вирдский лес"
+  },
+  {
+    "namespace": "",
+    "key": "E6587523482A5A26F6BF0BB473CD7040",
+    "source": "Knavescurl",
+    "russian": "Плутовской завиток"
+  },
+  {
+    "namespace": "",
+    "key": "B34CD5A1437F90DEC6536E908F0045A1",
+    "source": "Fleeting Valley",
+    "russian": "Мимолётная долина"
+  },
+  {
+    "namespace": "",
+    "key": "884D501B4E1FF849B917EEB4CA4AD22B",
+    "source": "Western Vens",
+    "russian": "Западные Вены"
+  },
+  {
+    "namespace": "",
+    "key": "E02E6C184692BF3C63ED30BA821891A0",
+    "source": "Ealhstan's Pram",
+    "russian": "Ладья Элстана"
+  },
+  {
+    "namespace": "",
+    "key": "43327ECF45B6A44C011E0281AF1CB456",
+    "source": "Twinswail",
+    "russian": "Плач Близнецов"
+  },
+  {
+    "namespace": "",
+    "key": "F6CE77F3486C4AB3A9DCE78EA85A0847",
+    "source": "Underhill",
+    "russian": "Подгорье"
+  },
+  {
+    "namespace": "",
+    "key": "AB8092F34FC92DD08DB201B70D063B3A",
+    "source": "The Dryfields",
+    "russian": "Сухие поля"
+  },
+  {
+    "namespace": "",
+    "key": "51B6FBAC4238B9A0285019B8474A242D",
+    "source": "Wigmund Row",
+    "russian": "Ряд Вигмунда"
+  },
+  {
+    "namespace": "",
+    "key": "66081C934A4CD3941795D5A47D255CA5",
+    "source": "The Bend",
+    "russian": "Излучина"
+  },
+  {
+    "namespace": "",
+    "key": "0B00A72B4129340D273146A82C3E500C",
+    "source": "The Wander",
+    "russian": "Странствие"
+  },
+  {
+    "namespace": "",
+    "key": "E0CB3BDF4C98F8600C86E7AA65D583E2",
+    "source": "This is a really long comment entered by a user on a MRQ job. This field could be used for making notes about what they changed in this shot so that the director or lead can know what parts of the shot to pay attention to, and so you can remember what was changed after it goes into an edit. This is a long field that has multiple lines of text to show multi-line handling. If the comment field is left empty on the job then this will not be visible.\r\n\r\nYou can even use Shift+Enter to create multiple lines.\r\n\r\nLike this!\r\n\r\nOr this!\r\n\r\nReally tall text!",
+    "russian": "Пример длинного комментария к заданию рендера. Здесь можно описать изменения в кадре и указать, на что обратить внимание. Пустое поле не отображается.\r\n\r\nДля переноса строки используйте Shift+Enter.\r\n\r\nПример новой строки.\r\n\r\nЕщё одна строка."
+  },
+  {
+    "namespace": "",
+    "key": "34C3018A4C15EB42E11E84A274269631",
+    "source": "Cam: MyCameraName 60mm f/2.5 100,000",
+    "russian": "Камера: пример 60 мм f/2.5 100,000"
+  },
+  {
+    "namespace": "",
+    "key": "C2904F7D4D4F6E81A9D87BB3237668F2",
+    "source": "Timecode: [00:00:14:8] (344f)",
+    "russian": "Таймкод: [00:00:14:8] (344 к.)"
+  },
+  {
+    "namespace": "",
+    "key": "5423E8A1458F78844F230093B5DA8741",
+    "source": "Shot: RenderFarmSeqB 00:00:3:13] (109f)",
+    "russian": "Кадр: тестовый план 00:00:3:13] (109 к.)"
+  },
+  {
+    "namespace": "",
+    "key": "1B0D190F450D19E01C38C1B350247557",
+    "source": "Job: PipelineTestSeq 03:44pm 01/19/2020 World: MoviePipelineTestMap Author: MannyMannequin",
+    "russian": "Задание: тестовая последовательность 15:44 19.01.2020 Мир: тестовая карта Автор: манекен"
+  },
+  {
+    "namespace": "",
+    "key": "720C1B854B305A5F2E7F9C87E191A1D9",
+    "source": "Branch: Dev-Editor-11047590",
+    "russian": "Ветка: редактор-11047590"
+  },
+  {
+    "namespace": "",
+    "key": "5280C6E548A74001C469CC9AF7E7E562",
+    "source": "TODO",
+    "russian": "ДОРАБОТАТЬ"
+  },
+  {
+    "namespace": "",
+    "key": "82D079BD4454402D1BC7CB8DBDB9410F",
+    "source": "TEMP",
+    "russian": "ВРЕМЕННО"
+  },
+  {
+    "namespace": "",
+    "key": "D78B83A04F39DD03CD51F69B736DE1C0",
+    "source": "TEMP",
+    "russian": "ВРЕМЕННО"
+  },
+  {
+    "namespace": "",
+    "key": "79A95E194D88CB23C8B6DBAAB7C67348",
+    "source": "CrabSpawner",
+    "russian": "Генератор крабов"
+  },
+  {
+    "namespace": "",
+    "key": "24DF97594898CF7EA4A9698E479E8E79",
+    "source": "LinearBlendSkin_Morph_Cloth",
+    "russian": "Скиннинг: морфинг и ткань"
+  },
+  {
+    "namespace": "",
+    "key": "6609F05944823ECA5BA3E9944956D5CE",
+    "source": "Skeleton",
+    "russian": "Скелет"
+  },
+  {
+    "namespace": "",
+    "key": "E713C9A54917F0D87E9E2EBD0B959DFF",
+    "source": "Morph Target",
+    "russian": "Цель морфинга"
+  },
+  {
+    "namespace": "",
+    "key": "DC29A0E8489FCD63009103A8D55B3E4B",
+    "source": "LinearBlendSkin_Morph_Cloth",
+    "russian": "Скиннинг: морфинг и ткань"
+  },
+  {
+    "namespace": "",
+    "key": "BBF2E87E4534831669B8B4B8F3D3337D",
+    "source": "Read Skinned Mesh",
+    "russian": "Чтение деформированной сетки"
+  },
+  {
+    "namespace": "",
+    "key": "BB997F024EF1A5600DD8B383BAA69BF1",
+    "source": "Write Skinned Mesh",
+    "russian": "Запись деформированной сетки"
+  },
+  {
+    "namespace": "",
+    "key": "9F927B31424BA4D53B341980A943C1D0",
+    "source": "LinearBlendSkin_Morph_Cloth",
+    "russian": "Скиннинг: морфинг и ткань"
+  },
+  {
+    "namespace": "",
+    "key": "806B42AC47675279723D49A01FCCF6B0",
+    "source": "LinearBlendSkin_Morph_Cloth_PositionOnly",
+    "russian": "Скиннинг: морфинг и ткань, только позиции"
+  },
+  {
+    "namespace": "",
+    "key": "FDF64D9644982C415D7DF6AA6008A72D",
+    "source": "Skeleton",
+    "russian": "Скелет"
+  },
+  {
+    "namespace": "",
+    "key": "8025FA044DFF57BCA356BA9167F5C162",
+    "source": "Morph Target",
+    "russian": "Цель морфинга"
+  },
+  {
+    "namespace": "",
+    "key": "663F37CF49FB4E1925040BB29D3DFF36",
+    "source": "LinearBlendSkin_Morph_Cloth_PositionOnly",
+    "russian": "Скиннинг: морфинг и ткань, только позиции"
+  },
+  {
+    "namespace": "",
+    "key": "E11EA0624C485EDF004A1DA7AC3B23F2",
+    "source": "ComputeNormalsTangents",
+    "russian": "Вычисление нормалей и касательных"
+  },
+  {
+    "namespace": "",
+    "key": "B20C74EE46EFD66BAF97168FE70D6555",
+    "source": "Skinned Mesh",
+    "russian": "Деформированная сетка"
+  },
+  {
+    "namespace": "",
+    "key": "DCB76ADA486C2C654EBFDDA2FAEFAB2C",
+    "source": "HalfEdge",
+    "russian": "Полуребро"
+  },
+  {
+    "namespace": "",
+    "key": "8E69265B41EE9140391414BDFE7CE273",
+    "source": "ComputeNormalsTangents",
+    "russian": "Вычисление нормалей и касательных"
+  },
+  {
+    "namespace": "",
+    "key": "1F1414024191BFBC8D693B8DF32AC417",
+    "source": "Read Skinned Mesh",
+    "russian": "Чтение деформированной сетки"
+  },
+  {
+    "namespace": "",
+    "key": "BCA71F4F438E0D6CBC8C4498FD426769",
+    "source": "LinearBlendSkin_Morph_Cloth_PositionOnly",
+    "russian": "Скиннинг: морфинг и ткань, только позиции"
+  },
+  {
+    "namespace": "",
+    "key": "D7AB446F4077F429B644929010C5C08F",
+    "source": "ComputeNormalsTangents",
+    "russian": "Вычисление нормалей и касательных"
+  },
+  {
+    "namespace": "",
+    "key": "BB4566934F9ACC3B391AD69708FE435D",
+    "source": "Utres Corridor",
+    "russian": "Коридор Утрес"
+  },
+  {
+    "namespace": "",
+    "key": "67B2746C4CA22771A61310AB7BBCC5AF",
+    "source": "Solefald",
+    "russian": "Солефальд"
+  },
+  {
+    "namespace": "",
+    "key": "A4F300EC43EF183CE78CD4BDE08A8563",
+    "source": "Humberweald",
+    "russian": "Хамберский лес"
+  },
+  {
+    "namespace": "",
+    "key": "5B94F19042CFA278C99D64B6FBD845B0",
+    "source": "Stormcaller's Crown",
+    "russian": "Корона Буревестника"
+  },
+  {
+    "namespace": "",
+    "key": "1096E4774B47D4109E8CA8BA38D463F1",
+    "source": "Third Sister",
+    "russian": "Третья Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "52B5D1AD4E7015F19F9669A48E657B85",
+    "source": "Pyri's Post",
+    "russian": "Застава Пири"
+  },
+  {
+    "namespace": "",
+    "key": "3B135AE8418783BEC509839B24DF7545",
+    "source": "Grinning Maw",
+    "russian": "Оскаленная пасть"
+  },
+  {
+    "namespace": "",
+    "key": "218F1CAB4AA29A2BDD8D248281917DC1",
+    "source": "Fludweald",
+    "russian": "Флудвальд"
+  },
+  {
+    "namespace": "",
+    "key": "B22287F24F58C120FB3D8494D469ED39",
+    "source": "Western Vens",
+    "russian": "Западные Вены"
+  },
+  {
+    "namespace": "",
+    "key": "1B50F91D4EB6ED571D45CE904004E911",
+    "source": "Modorhold",
+    "russian": "Модорхолд"
+  },
+  {
+    "namespace": "",
+    "key": "0BEB3DDE4EA7EB21DE111EAD0DDAFF15",
+    "source": "Astrian Sea",
+    "russian": "Астрийское море"
+  },
+  {
+    "namespace": "",
+    "key": "FD5B6CE4430035A1403ABF9FDD043F7D",
+    "source": "Wight Isles",
+    "russian": "Острова Умертвий"
+  },
+  {
+    "namespace": "",
+    "key": "9000ADCD41191683A6EB61AE65E1D49C",
+    "source": "Myrce",
+    "russian": "Мирс"
+  },
+  {
+    "namespace": "",
+    "key": "4C363FDE4890EE03B8A236B39DC11852",
+    "source": "Brand Lake",
+    "russian": "Озеро Бранд"
+  },
+  {
+    "namespace": "",
+    "key": "F16F786B44B02BB6F9D6F2B6787E4A22",
+    "source": "Billhook Bay",
+    "russian": "Залив Багра"
+  },
+  {
+    "namespace": "",
+    "key": "D19C4C8B43643761C540D6B9CEAFDC60",
+    "source": "Sudorness",
+    "russian": "Судорнесс"
+  },
+  {
+    "namespace": "",
+    "key": "54E27FB6429A43BF6BC04E858EBBFF6E",
+    "source": "Roaming Scales",
+    "russian": "Блуждающая чешуя"
+  },
+  {
+    "namespace": "",
+    "key": "85F1A23F45C97367F62A59A8D99F9996",
+    "source": "Wight Isles",
+    "russian": "Острова Умертвий"
+  },
+  {
+    "namespace": "",
+    "key": "39C7B06E4F5B4BEAA437D6A24DC1E8D3",
+    "source": "Wyrmlíc River",
+    "russian": "Река Вирмлик"
+  },
+  {
+    "namespace": "",
+    "key": "B33E509D464EE18BC9B295A1D4447491",
+    "source": "The Beorma",
+    "russian": "Беорма"
+  },
+  {
+    "namespace": "",
+    "key": "56EAEB8143015216FDEA51B1A776A032",
+    "source": "North Astria",
+    "russian": "Северная Астрия"
+  },
+  {
+    "namespace": "",
+    "key": "0EB1DE1E45C85F7CB4F8DE830501879B",
+    "source": "Wulfséaþ",
+    "russian": "Вулфсет"
+  },
+  {
+    "namespace": "",
+    "key": "5A107CD04DBB4282AB142395F4D7C958",
+    "source": "Wulflod",
+    "russian": "Вулфлод"
+  },
+  {
+    "namespace": "",
+    "key": "142AEBC74499B392EBDF7CABA655FFD1",
+    "source": "Collon-cróh",
+    "russian": "Коллон-Кро"
+  },
+  {
+    "namespace": "",
+    "key": "BB38C5AE4AD24B84EF40E9AAED5CD669",
+    "source": "Black Star",
+    "russian": "Чёрная звезда"
+  },
+  {
+    "namespace": "",
+    "key": "37A932C344FCB959AF91129E6FE0684E",
+    "source": "First Sister",
+    "russian": "Первая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "40AAEB5A4D4EF84EA73D29BEBA7FBBE5",
+    "source": "Sawlung",
+    "russian": "Соланг"
+  },
+  {
+    "namespace": "",
+    "key": "6475FE274C5C0D64900590B44913676E",
+    "source": "The Hræcen",
+    "russian": "Хрэкен"
+  },
+  {
+    "namespace": "",
+    "key": "4749E1594D57F2FB2F84B9A723FF972E",
+    "source": "Booter's Bluff",
+    "russian": "Утёс Бутера"
+  },
+  {
+    "namespace": "",
+    "key": "359CFB2748224574506328897CF4897C",
+    "source": "Folcú",
+    "russian": "Фолку"
+  },
+  {
+    "namespace": "",
+    "key": "B875ACBD41744944374FD1837A56328C",
+    "source": "Fealcen Comb",
+    "russian": "Фалкенская долина"
+  },
+  {
+    "namespace": "",
+    "key": "429026DE4FA33223A2EE9C92F2A36768",
+    "source": "Lost Sister",
+    "russian": "Потерянная Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "75BDDE6D48F20377FF79B6BA03718FCC",
+    "source": "Little Duck",
+    "russian": "Малая Утка"
+  },
+  {
+    "namespace": "",
+    "key": "4FE7FFA046FF626804A521A39CBCBAFF",
+    "source": "Lake of the Crone",
+    "russian": "Озеро Старухи"
+  },
+  {
+    "namespace": "",
+    "key": "6023EFDC4F505A6DA7620EBD67F83C50",
+    "source": "Ent's Ear",
+    "russian": "Ухо Энта"
+  },
+  {
+    "namespace": "",
+    "key": "9E1B275A4D80F849C16939B801938CFA",
+    "source": "Shrine of Waking Blood",
+    "russian": "Святилище Пробуждённой Крови"
+  },
+  {
+    "namespace": "",
+    "key": "C1EBFD154239BC941B3DD6A7265180CF",
+    "source": "The Kettle",
+    "russian": "Котёл"
+  },
+  {
+    "namespace": "",
+    "key": "9C308E284A0C1FD4A73EBFA0D1C97A5F",
+    "source": "The Warding Pools",
+    "russian": "Защитные пруды"
+  },
+  {
+    "namespace": "",
+    "key": "943842804C4F256BBB221CBBF841807A",
+    "source": "Second Sister",
+    "russian": "Вторая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "EABEEFE046FD0A68EEA7CE938B2323D2",
+    "source": "Upper Wights",
+    "russian": "Верхние Умертвия"
+  },
+  {
+    "namespace": "",
+    "key": "53FC87C84CC388E340B7C49330B54E34",
+    "source": "Fly River",
+    "russian": "Мушиная река"
+  },
+  {
+    "namespace": "",
+    "key": "17858C3C485B4EFA97BC39AFF804FAAC",
+    "source": "Fífelbyt",
+    "russian": "Фифельбит"
+  },
+  {
+    "namespace": "",
+    "key": "296827E1452C5DF29994FEB0EACBBCB3",
+    "source": "Ire",
+    "russian": "Ярость"
+  },
+  {
+    "namespace": "",
+    "key": "A18B9045478366C4C4373F8B2F857401",
+    "source": "The Weed",
+    "russian": "Сорняк"
+  },
+  {
+    "namespace": "",
+    "key": "4316E75448374DE18C44ABA55812D1D3",
+    "source": "Brood's Eye",
+    "russian": "Глаз Выводка"
+  },
+  {
+    "namespace": "",
+    "key": "A42CBFE945766D9E3AD99888BD952DD4",
+    "source": "The Gield",
+    "russian": "Гильд"
+  },
+  {
+    "namespace": "",
+    "key": "24521CF64A451C1F35F5168AEA63E3B1",
+    "source": "Baked (Low)",
+    "russian": "Запечённый (низкое)"
+  },
+  {
+    "namespace": "",
+    "key": "18B3F39842385056F4BE95B171364C29",
+    "source": "Baked (Medium)",
+    "russian": "Запечённый (среднее)"
+  },
+  {
+    "namespace": "",
+    "key": "B29D97964A0799B51D8B25A2BF140F4E",
+    "source": "Baked (High)",
+    "russian": "Запечённый (высокое)"
+  },
+  {
+    "namespace": "",
+    "key": "A51527FB440014C71BAAB9B07A3D8DCD",
+    "source": "Evaluated (Ultra)",
+    "russian": "Вычисляемый (ультра)"
+  },
+  {
+    "namespace": "",
+    "key": "7695043A49A89A7975B32B8328127E3C",
+    "source": "Note: These cliffs should be replaced",
+    "russian": "Заметка: заменить эти скалы"
+  },
+  {
+    "namespace": "",
+    "key": "B04CC49E4307927146D546BF1A065C42",
+    "source": "Reminder: Cliffs here need to be reworked",
+    "russian": "Напоминание: переделать скалы здесь"
+  },
+  {
+    "namespace": "",
+    "key": "8CFDDD614BE85B912E66E7BE78AC54CC",
+    "source": "Cliffs here need to be reworked",
+    "russian": "Переделать скалы здесь"
+  },
+  {
+    "namespace": "",
+    "key": "1671A2E84953F82C6D214F90D749E247",
+    "source": "Cliffs here need work",
+    "russian": "Доработать скалы здесь"
+  },
+  {
+    "namespace": "",
+    "key": "553575634DD5969029C9E08A5E8AF82C",
+    "source": "This should also be a small homestead.\r\nInclude a farm, but it should look like something uprooted the field",
+    "russian": "Здесь также нужна небольшая усадьба.\r\nДобавьте ферму с разорённым полем."
+  },
+  {
+    "namespace": "",
+    "key": "84BA625145353F3EF42B00A8E7DA34CC",
+    "source": "E - Fix around lake",
+    "russian": "Исправить берег озера"
+  },
+  {
+    "namespace": "",
+    "key": "A50FB0D54AA490BDA75021AB752BBEE0",
+    "source": "E -Fix Island",
+    "russian": "Исправить остров"
+  },
+  {
+    "namespace": "",
+    "key": "E78AA24F43A6C23E722A4B9B7D494FB5",
+    "source": "Note: Add cliffs to improve \r\nvisual interest around this lake",
+    "russian": "Заметка: добавить скалы\r\nвокруг озера"
+  },
+  {
+    "namespace": "",
+    "key": "CD1122014D0DCC5DC2F260B846B3740E",
+    "source": "Cover and narrow river \r\nwith rocks here",
+    "russian": "Перекрыть и сузить реку\r\nкамнями здесь"
+  },
+  {
+    "namespace": "",
+    "key": "B4764656444395BE2AA9AB8FA20FB491",
+    "source": "TODO",
+    "russian": "ДОРАБОТАТЬ"
+  },
+  {
+    "namespace": "",
+    "key": "B40C9AC348ED4ECA2BB0C99D476E9B71",
+    "source": "TODO",
+    "russian": "ДОРАБОТАТЬ"
+  },
+  {
+    "namespace": "",
+    "key": "FBF1E8254AF42D844C8BA2B76ABB7CEC",
+    "source": "TEMP",
+    "russian": "ВРЕМЕННО"
+  },
+  {
+    "namespace": "",
+    "key": "B910594B4CEA6FD27C82A287B8CCD942",
+    "source": "Random",
+    "russian": "Случайно"
+  },
+  {
+    "namespace": "",
+    "key": "530FECD84988C23EBA6F6A9AC65BF4EA",
+    "source": "Direct",
+    "russian": "Напрямую"
+  },
+  {
+    "namespace": "",
+    "key": "7F1DB09144CFDAE255870CAB1681802C",
+    "source": "Exponent",
+    "russian": "Степень"
+  },
+  {
+    "namespace": "",
+    "key": "14301A6A4FDD3137B6B66392BB1896CA",
+    "source": "Curve",
+    "russian": "Кривая"
+  },
+  {
+    "namespace": "",
+    "key": "D36BF5484ABEC9BE8D34A782477F82D3",
+    "source": "Surface Distance",
+    "russian": "Расстояние до поверхности"
+  },
+  {
+    "namespace": "",
+    "key": "AB4F661943AEAAE326E63AA4860E77B2",
+    "source": "Distance Limit",
+    "russian": "Предел расстояния"
+  },
+  {
+    "namespace": "",
+    "key": "770EC04B45D7C56C0F1D25A408DB393D",
+    "source": "Falloff Start / End",
+    "russian": "Начало / конец затухания"
+  },
+  {
+    "namespace": "",
+    "key": "034FBA41435C4592E65F54A41D2795E8",
+    "source": "Surface Distance",
+    "russian": "Расстояние до поверхности"
+  },
+  {
+    "namespace": "",
+    "key": "DDD64CEF4F2AB825108C2B9B4343AE42",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "7A8DCF9345D26732C3403BA27009894C",
+    "source": "Landscape",
+    "russian": "Ландшафт"
+  },
+  {
+    "namespace": "",
+    "key": "DAA99BD84C774C7BB10E4C9704A6B7F0",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "2CE489D04B762A3623DC0BBF434AD038",
+    "source": "Time Offset",
+    "russian": "Сдвиг времени"
+  },
+  {
+    "namespace": "",
+    "key": "4F54407B45F30444C9F605B692776B47",
+    "source": "Direct Set",
+    "russian": "Прямое задание"
+  },
+  {
+    "namespace": "",
+    "key": "4C24521D4C1D2F30C92E8DB0E602DE02",
+    "source": "Speed Range",
+    "russian": "Диапазон скорости"
+  },
+  {
+    "namespace": "",
+    "key": "043B34F84B03F01A1F604085AEE0217F",
+    "source": "Speed Range Curve",
+    "russian": "Кривая диапазона скорости"
+  },
+  {
+    "namespace": "",
+    "key": "38BBDEF14FEB9A41B68C2989255E6AF5",
+    "source": "Constant",
+    "russian": "Постоянный"
+  },
+  {
+    "namespace": "",
+    "key": "B31DA8594144519E5B977D8D651F9D50",
+    "source": "Varying",
+    "russian": "Переменный"
+  },
+  {
+    "namespace": "",
+    "key": "CDA4BFC44CAC3FAFE3FE92B4F02CCF0C",
+    "source": "Curl Noise",
+    "russian": "Вихревой шум"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "MarketCrateQuantityTextFormat",
+    "source": "{0} x {1}",
+    "russian": "{0} × {1}"
+  },
+  {
+    "namespace": "Core",
+    "key": "False",
+    "source": "False",
+    "russian": "Ложь"
+  },
+  {
+    "namespace": "Core",
+    "key": "No",
+    "source": "No",
+    "russian": "Нет"
+  },
+  {
+    "namespace": "Core",
+    "key": "None",
+    "source": "None",
+    "russian": "Нет"
+  },
+  {
+    "namespace": "Core",
+    "key": "True",
+    "source": "True",
+    "russian": "Истина"
+  },
+  {
+    "namespace": "Core",
+    "key": "Yes",
+    "source": "Yes",
+    "russian": "Да"
+  },
+  {
+    "namespace": "OnlinePresence",
+    "key": "Away",
+    "source": "Away",
+    "russian": "Отошёл"
+  },
+  {
+    "namespace": "OnlinePresence",
+    "key": "Chat",
+    "source": "Chat",
+    "russian": "Готов общаться"
+  },
+  {
+    "namespace": "OnlinePresence",
+    "key": "DoNotDisturb",
+    "source": "Do Not Disturb",
+    "russian": "Не беспокоить"
+  },
+  {
+    "namespace": "OnlinePresence",
+    "key": "Offline",
+    "source": "Offline",
+    "russian": "Не в сети"
+  },
+  {
+    "namespace": "OnlinePresence",
+    "key": "Online",
+    "source": "Online",
+    "russian": "В сети"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "AuthenticationFailure",
+    "source": "Failed to verify user authentication.",
+    "russian": "Не удалось проверить подлинность пользователя."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "ControlFlowError",
+    "source": "Control flow error: {0}.",
+    "russian": "Ошибка последовательности команд: {0}."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "UnableToParsePacket",
+    "source": "Unable to parse expected packet structure: {0}.",
+    "russian": "Не удалось распознать структуру пакета: {0}."
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "ReportHangError_Title",
+    "source": "Application Hang Detected",
+    "russian": "Приложение не отвечает"
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "ReportHangError_Body",
+    "source": "The application has hung and will now close. We apologize for the inconvenience.",
+    "russian": "Приложение зависло и будет закрыто. Приносим извинения за неудобства."
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "DefaultDebugMessageTitle",
+    "source": "ShowDebugMessagef",
+    "russian": "Отладочное сообщение"
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "DefaultSystemErrorTitle",
+    "source": "System Error",
+    "russian": "Системная ошибка"
+  },
+  {
+    "namespace": "Core",
+    "key": "PathContainsInvalidCharacters",
+    "source": "Path may not contain the following characters: {IllegalPathCharacters}",
+    "russian": "Путь не должен содержать следующие символы: {IllegalPathCharacters}"
+  },
+  {
+    "namespace": "Core",
+    "key": "PathContainsRestrictedName",
+    "source": "Path may not contain a restricted name: {RestrictedName}",
+    "russian": "Путь не должен содержать зарезервированное имя: {RestrictedName}"
+  },
+  {
+    "namespace": "Core",
+    "key": "NameDefaultErrorCtx",
+    "source": "Name",
+    "russian": "Имя"
+  },
+  {
+    "namespace": "Core",
+    "key": "NameContainsInvalidWhitespaceCharacters",
+    "source": "{ErrorCtx} may not contain whitespace characters ({InvalidWhitespaceChars})",
+    "russian": "{ErrorCtx}: недопустимы пробельные символы ({InvalidWhitespaceChars})"
+  },
+  {
+    "namespace": "WindowsPlatform",
+    "key": "GameExplorerInstallationSuccessful",
+    "source": "GameExplorer installation was successful, quitting now.",
+    "russian": "Установка GameExplorer завершена. Приложение будет закрыто."
+  },
+  {
+    "namespace": "WindowsPlatform",
+    "key": "GameExplorerInstallationFailed",
+    "source": "GameExplorer installation was a failure, quitting now.",
+    "russian": "Не удалось установить GameExplorer. Приложение будет закрыто."
+  },
+  {
+    "namespace": "WindowsPlatform",
+    "key": "GameExplorerInstallationFailedDoToAccessPermissions",
+    "source": "GameExplorer installation failed because you don't have access (check parental control levels and that you are running XP). You should not need Admin access",
+    "russian": "Нет доступа для установки GameExplorer. Проверьте родительский контроль и версию Windows. Права администратора не требуются."
+  },
+  {
+    "namespace": "WindowsPlatform",
+    "key": "GameExplorerUninstallationFailedDoToNotRunningVista",
+    "source": "GameExplorer uninstallation failed because you are probably not running Vista.",
+    "russian": "Не удалось удалить GameExplorer. Возможно, используется версия Windows, отличная от Vista."
+  },
+  {
+    "namespace": "Core",
+    "key": "UrlFailed",
+    "source": "Failed launching URL",
+    "russian": "Не удалось открыть ссылку"
+  },
+  {
+    "namespace": "Launch",
+    "key": "Error_ResolutionTooLow",
+    "source": "The current resolution is too low to run this game.",
+    "russian": "Текущее разрешение слишком низкое для запуска игры."
+  },
+  {
+    "namespace": "Launch",
+    "key": "Error_CPUNotSupported",
+    "source": "This CPU does not support a required feature (SSE4.2).",
+    "russian": "Этот процессор не поддерживает необходимый набор команд SSE4.2."
+  },
+  {
+    "namespace": "Core",
+    "key": "PureVirtualFunctionCalledWhileRunningApp",
+    "source": "Pure virtual function being called while application was running (GIsRunning == 1).",
+    "russian": "Во время работы приложения вызвана чисто виртуальная функция (GIsRunning == 1)."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNameUnknownError",
+    "source": "Input '{InPath}' caused undocumented internal error.",
+    "russian": "Ввод «{InPath}» вызвал неизвестную внутреннюю ошибку."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNameEmptyPath",
+    "source": "Input '{InPath}' was empty.",
+    "russian": "Пустой ввод «{InPath}»."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNamePathNotMounted",
+    "source": "Input '{InPath}' is not a child of an existing mount point.",
+    "russian": "Путь «{InPath}» не относится ни к одной точке подключения."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNamePathIsMemoryOnly",
+    "source": "Input '{InPath}' is in a memory-only mount point.",
+    "russian": "Путь «{InPath}» относится к точке подключения, доступной только в памяти."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNameSpacesNotAllowed",
+    "source": "Input '{InPath}' includes a space. A space is not valid in ObjectPaths unless it is delimiting a ClassName in a full ObjectPath, and full ObjectPaths are not supported in this function.",
+    "russian": "Путь «{InPath}» содержит пробел. Пробел допустим только между именем класса и полным путём объекта; эта функция не поддерживает полные пути объектов."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNameContainsInvalidCharacters",
+    "source": "Input '{InPath}' contains one of the invalid characters for LongPackageNames: '{IllegalNameCharacters}'.",
+    "russian": "Путь «{InPath}» содержит недопустимые символы: «{IllegalNameCharacters}»."
+  },
+  {
+    "namespace": "Core",
+    "key": "LongPackageNames_PathTooShort",
+    "source": "Input '{1}' contains fewer than the minimum number of characters {0} for LongPackageNames.",
+    "russian": "Путь «{1}» короче минимальной длины имени пакета ({0})."
+  },
+  {
+    "namespace": "Core",
+    "key": "LongPackageNames_PathWithNoStartingSlash",
+    "source": "Input '{InPath}' does not start with a '/', which is required for LongPackageNames.",
+    "russian": "Путь «{InPath}» должен начинаться с «/»."
+  },
+  {
+    "namespace": "Core",
+    "key": "LongPackageNames_PathWithTrailingSlash",
+    "source": "Input '{InPath}' ends with a '/', which is invalid for LongPackageNames.",
+    "russian": "Путь «{InPath}» не должен заканчиваться на «/»."
+  },
+  {
+    "namespace": "Core",
+    "key": "LongPackageNames_PathWithDoubleSlash",
+    "source": "Input '{InPath}' contains '//', which is invalid for LongPackageNames.",
+    "russian": "Путь «{InPath}» не должен содержать «//»."
+  },
+  {
+    "namespace": "Core",
+    "key": "PackageNameUndocumentedError",
+    "source": "Input '{InPath} caused undocumented internal error.",
+    "russian": "Ввод «{InPath}» вызвал неизвестную внутреннюю ошибку."
+  },
+  {
+    "namespace": "Core",
+    "key": "ObjectPath_EndWithPeriod",
+    "source": "Object Path may not end with .",
+    "russian": "Путь объекта не должен заканчиваться точкой."
+  },
+  {
+    "namespace": "Core",
+    "key": "ObjectPathContext",
+    "source": "Object Path",
+    "russian": "Путь объекта"
+  },
+  {
+    "namespace": "Core",
+    "key": "ObjectPath_SlashAfterPeriod",
+    "source": "Object Path may not have / after first .",
+    "russian": "В пути объекта недопустим символ «/» после первой точки."
+  },
+  {
+    "namespace": "Core",
+    "key": "ObjectPath_PathWithTrailingSeperator",
+    "source": "Object Path may not end with : or .",
+    "russian": "Путь объекта не должен заканчиваться на «:» или «.»."
+  },
+  {
+    "namespace": "Core",
+    "key": "BadProperty",
+    "source": "'{Message}': Bad or missing property '{PropertyName}' when trying to call {FunctionName}",
+    "russian": "«{Message}»: неверное или отсутствующее свойство «{PropertyName}» при вызове {FunctionName}"
+  },
+  {
+    "namespace": "Core",
+    "key": "LoadClassMismatch",
+    "source": "{ClassName} is not a child class of {BaseClassName}",
+    "russian": "{ClassName} не является дочерним классом {BaseClassName}"
+  },
+  {
+    "namespace": "Core",
+    "key": "ObjectNotFound",
+    "source": "Failed to find object '{ClassName} {OuterName}.{ObjectName}'",
+    "russian": "Не удалось найти объект «{ClassName} {OuterName}.{ObjectName}»"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeButton",
+    "source": "button",
+    "russian": "Кнопка"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeCheckBox",
+    "source": "check box",
+    "russian": "Флажок"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeComboBox",
+    "source": "combobox",
+    "russian": "Раскрывающийся список"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeHyperlink",
+    "source": "hyperlink",
+    "russian": "Ссылка"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeImage",
+    "source": "image",
+    "russian": "Изображение"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeLayout",
+    "source": "pane",
+    "russian": "Панель"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeScrollBar",
+    "source": "scroll bar",
+    "russian": "Полоса прокрутки"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeSlider",
+    "source": "slider",
+    "russian": "Ползунок"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeText",
+    "source": "text",
+    "russian": "Текст"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeTextEdit",
+    "source": "edit",
+    "russian": "Поле ввода"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeWindow",
+    "source": "window",
+    "russian": "Окно"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeList",
+    "source": "List",
+    "russian": "Список"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeListItem",
+    "source": "ListItem",
+    "russian": "Элемент списка"
+  },
+  {
+    "namespace": "SlateAccessibility",
+    "key": "ControlTypeCustom",
+    "source": "custom",
+    "russian": "Другой элемент"
+  },
+  {
+    "namespace": "WindowTitleBar",
+    "key": "Maximize",
+    "source": "Maximize",
+    "russian": "Развернуть"
+  },
+  {
+    "namespace": "WindowTitleBar",
+    "key": "MaximizeRestoreDown",
+    "source": "Restore Down",
+    "russian": "Восстановить размер"
+  },
+  {
+    "namespace": "WindowTitleBar",
+    "key": "MaximizeExitWindowedFullscreen",
+    "source": "Exit Full Screen",
+    "russian": "Выйти из полноэкранного режима"
+  },
+  {
+    "namespace": "Engine",
+    "key": "UpdateReflectionCaptures",
+    "source": "Building reflection captures...",
+    "russian": "Подготовка отражений…"
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "LatestDriver",
+    "source": "latest driver available",
+    "russian": "последний доступный драйвер"
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "VideoCardDriverRHIIssueReport",
+    "source": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install the recommended driver version or switch to a different rendering API.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "russian": "У установленного драйвера видеокарты {Vendor} есть известные проблемы с {RHI}.\nУстановите рекомендуемую версию или выберите другой графический API.\n\nОткрыть страницу загрузки драйвера?\n\n{Hyperlink}\n\n{AdapterName}\nУстановлено: {InstalledVer}\nРекомендуется: {RecommendedVer}"
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "TitleVideoCardDriverIssue",
+    "source": "WARNING: Known issues with graphics driver",
+    "russian": "Внимание: известные проблемы с драйвером видеокарты"
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "MissingGlobalShaderLibraryFiles_Title",
+    "source": "Missing game files",
+    "russian": "Отсутствуют файлы игры"
+  },
+  {
+    "namespace": "InputKeySelector",
+    "key": "DefaultEmptyText",
+    "source": "Empty",
+    "russian": "Не назначено"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "ClientReliableBufferOverflow",
+    "source": "Outgoing reliable buffer overflow",
+    "russian": "Переполнен буфер надёжной отправки"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "HostHasLeft",
+    "source": "Host has left the game.",
+    "russian": "Хост покинул игру."
+  },
+  {
+    "namespace": "Core",
+    "key": "Transform",
+    "source": "Translation: {T} Rotation: {R} Scale: {S}",
+    "russian": "Положение: {T} Поворот: {R} Масштаб: {S}"
+  },
+  {
+    "namespace": "Engine",
+    "key": "ConnectionFailed",
+    "source": "Your connection to the host has been lost.",
+    "russian": "Соединение с хостом потеряно."
+  },
+  {
+    "namespace": "Engine",
+    "key": "ClientOutdated",
+    "source": "The match you are trying to join is running an incompatible version of the game.  Please try upgrading your game version.",
+    "russian": "На сервере установлена несовместимая версия игры. Обновите игру и попробуйте снова."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "HostClosedConnection",
+    "source": "Host closed the connection.",
+    "russian": "Хост закрыл соединение."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "DataStreamChannelWriteData",
+    "source": "DataStreamChannel failed to write data.",
+    "russian": "Не удалось записать данные в канал DataStreamChannel."
+  },
+  {
+    "namespace": "Engine",
+    "key": "NetworkDriverInit",
+    "source": "Error creating network driver.",
+    "russian": "Ошибка создания сетевого драйвера."
+  },
+  {
+    "namespace": "Engine",
+    "key": "NetworkInit",
+    "source": "Error initializing network layer.",
+    "russian": "Ошибка инициализации сети."
+  },
+  {
+    "namespace": "Engine",
+    "key": "UsedCheatCommands",
+    "source": "Console commands were used which are disallowed in netplay.  You must restart the game to create a match.",
+    "russian": "Использованы консольные команды, запрещённые в сетевой игре. Перезапустите игру для создания сеанса."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "GenericPendingConnectionFailed",
+    "source": "Pending Connection Failed.",
+    "russian": "Не удалось установить соединение."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "GenericConnectionFailed",
+    "source": "Connection Failed.",
+    "russian": "Ошибка соединения."
+  },
+  {
+    "namespace": "Engine",
+    "key": "ActorLocatorFragment",
+    "source": "Actor",
+    "russian": "Объект"
+  },
+  {
+    "namespace": "Engine",
+    "key": "AssetLocatorFragment",
+    "source": "Asset",
+    "russian": "Ресурс"
+  },
+  {
+    "namespace": "Engine",
+    "key": "AnimInstanceLocatorFragment",
+    "source": "AnimInstance",
+    "russian": "Экземпляр анимации"
+  },
+  {
+    "namespace": "Engine",
+    "key": "PendingNetGameInitFailure",
+    "source": "Error initializing the network driver.",
+    "russian": "Ошибка инициализации сетевого драйвера."
+  },
+  {
+    "namespace": "Engine",
+    "key": "ServerOpen",
+    "source": "Servers can't open network URLs",
+    "russian": "Серверы не могут открывать сетевые адреса"
+  },
+  {
+    "namespace": "Engine",
+    "key": "PlayWorldBeingCreated",
+    "source": "(World Being Created)",
+    "russian": "(Создание мира)"
+  },
+  {
+    "namespace": "Engine",
+    "key": "PlayWorldIsEditor",
+    "source": "Editor",
+    "russian": "Редактор"
+  },
+  {
+    "namespace": "Engine",
+    "key": "PlayWorldIsListenServer",
+    "source": "Listen Server",
+    "russian": "Совмещённый сервер"
+  },
+  {
+    "namespace": "Engine",
+    "key": "PlayWorldIsDedicatedServer",
+    "source": "Dedicated Server",
+    "russian": "Выделенный сервер"
+  },
+  {
+    "namespace": "Engine",
+    "key": "PlayWorldIsStandalone",
+    "source": "Standalone",
+    "russian": "Автономный режим"
+  },
+  {
+    "namespace": "Engine",
+    "key": "EditorNotSupported",
+    "source": "Editor not supported in this mode.",
+    "russian": "В этом режиме редактор недоступен."
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "NotConnected",
+    "source": "No valid connection",
+    "russian": "Нет соединения"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "RequestFailure",
+    "source": "Failed to send request",
+    "russian": "Не удалось отправить запрос"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "InvalidCreds",
+    "source": "Invalid credentials",
+    "russian": "Неверные учётные данные"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "InvalidUser",
+    "source": "No valid user",
+    "russian": "Пользователь не определён"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "InvalidAuth",
+    "source": "No valid auth",
+    "russian": "Нет действительной авторизации"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "AccessDenied",
+    "source": "Access denied",
+    "russian": "Доступ запрещён"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "TooManyRequests",
+    "source": "Too many requests",
+    "russian": "Слишком много запросов"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "AlreadyPending",
+    "source": "Request already pending",
+    "russian": "Запрос уже обрабатывается"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "InvalidParams",
+    "source": "Invalid params specified",
+    "russian": "Указаны неверные параметры"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "CantParse",
+    "source": "Cannot parse results",
+    "russian": "Не удалось обработать результат"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "InvalidResults",
+    "source": "Results were invalid",
+    "russian": "Получены неверные результаты"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "IncompatibleVersion",
+    "source": "Incompatible client version",
+    "russian": "Несовместимая версия клиента"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "NotConfigured",
+    "source": "No valid configuration",
+    "russian": "Нет действительных настроек"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "NotImplemented",
+    "source": "Not implemented",
+    "russian": "Не реализовано"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "MissingInterface",
+    "source": "Interface not found",
+    "russian": "Интерфейс не найден"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "Canceled",
+    "source": "Operation was canceled",
+    "russian": "Операция отменена"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "FailExtended",
+    "source": "Extended error",
+    "russian": "Расширенная ошибка"
+  },
+  {
+    "namespace": "OnlineError",
+    "key": "Unknown",
+    "source": "Unknown error",
+    "russian": "Неизвестная ошибка"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnNetGUIDAckError1",
+    "source": "Join failure, no host object at NetGUIDAck.",
+    "russian": "Ошибка подключения: не найден объект хоста при подтверждении NetGUIDAck."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnNetGUIDAckError2",
+    "source": "Join failure, no actor at NetGUIDAck.",
+    "russian": "Ошибка подключения: не найден объект при подтверждении NetGUIDAck."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconEncryptionNotBoundError",
+    "source": "Encryption failure",
+    "russian": "Ошибка шифрования"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnUnexpectedError",
+    "source": "Join failure, unexpected control message.",
+    "russian": "Ошибка подключения: неожиданное управляющее сообщение."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconAuthVerifyError",
+    "source": "Unable to authenticate for beacon. Verifying auth for beacon type {0} failed for connection owned by {1}",
+    "russian": "Не удалось авторизоваться для сетевого маяка. Проверка типа {0} не пройдена для соединения пользователя {1}"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconAuthError",
+    "source": "Unable to authenticate for beacon. {0} is not valid for connection owned by {1}",
+    "russian": "Не удалось авторизоваться для сетевого маяка. Тип {0} недопустим для соединения пользователя {1}"
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnClientWorldPackageNameError",
+    "source": "Join failure, existing ClientWorldPackageName.",
+    "russian": "Ошибка подключения: имя мира клиента уже задано."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnExistingActorError",
+    "source": "Join failure, existing beacon actor.",
+    "russian": "Ошибка подключения: объект сетевого маяка уже существует."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnFailureError",
+    "source": "Join failure, Couldn't spawn client beacon actor.",
+    "russian": "Ошибка подключения: не удалось создать клиентский сетевой маяк."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconSpawnFailureError.UnknownSpawner",
+    "source": "Join failure, Couldn't spawn client beacon actor (unknown beacon spawner).",
+    "russian": "Ошибка подключения: неизвестный механизм создания сетевого маяка."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconLoginInvalidIdError",
+    "source": "Login Failure. Invalid ID.",
+    "russian": "Ошибка входа: неверный идентификатор."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "BeaconLoginInvalidAuthHandlerError",
+    "source": "Login Failure. Unable to process authentication.",
+    "russian": "Ошибка входа: не удалось обработать авторизацию."
+  },
+  {
+    "namespace": "NetworkErrors",
+    "key": "GenericBeaconConnectionFailed",
+    "source": "Beacon Connection Failed.",
+    "russian": "Ошибка соединения с сетевым маяком."
+  },
+  {
+    "namespace": "MessageDialog",
+    "key": "VideoCardDriverIssueReport",
+    "source": "The installed version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "russian": "У установленного драйвера видеокарты {Vendor} есть известные проблемы.\nУстановите рекомендуемую версию.\n\nОткрыть страницу загрузки драйвера?\n\n{Hyperlink}\n\n{AdapterName}\nУстановлено: {InstalledVer}\nРекомендуется: {RecommendedVer}"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Bottom",
+    "source": "Gamepad X",
+    "russian": "Геймпад X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Right",
+    "source": "Gamepad Circle",
+    "russian": "Геймпад Круг"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Left",
+    "source": "Gamepad Square",
+    "russian": "Геймпад Квадрат"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_FaceButton_Top",
+    "source": "Gamepad Triangle",
+    "russian": "Геймпад Треугольник"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_Special_Left",
+    "source": "Gamepad Touchpad Button",
+    "russian": "Геймпад Сенсорная кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_Special_Left_Touched",
+    "source": "Gamepad Touchpad Touched",
+    "russian": "Геймпад Касание панели"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_Special_Right",
+    "source": "Gamepad Options",
+    "russian": "Геймпад Параметры"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftShoulder",
+    "source": "Gamepad L1",
+    "russian": "Геймпад L1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightShoulder",
+    "source": "Gamepad R1",
+    "russian": "Геймпад R1"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftTrigger",
+    "source": "Gamepad L2",
+    "russian": "Геймпад L2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightTrigger",
+    "source": "Gamepad R2",
+    "russian": "Геймпад R2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftTriggerAxis",
+    "source": "Gamepad L2 Axis",
+    "russian": "Геймпад L2 ось"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightTriggerAxis",
+    "source": "Gamepad R2 Axis",
+    "russian": "Геймпад R2 ось"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_LeftThumbstick",
+    "source": "Gamepad L3",
+    "russian": "Геймпад L3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "PS4_Gamepad_RightThumbstick",
+    "source": "Gamepad R3",
+    "russian": "Геймпад R3"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Bottom",
+    "source": "Gamepad A",
+    "russian": "Геймпад A"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Right",
+    "source": "Gamepad B",
+    "russian": "Геймпад B"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Left",
+    "source": "Gamepad X",
+    "russian": "Геймпад X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_FaceButton_Top",
+    "source": "Gamepad Y",
+    "russian": "Геймпад Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_Special_Left",
+    "source": "Gamepad Back",
+    "russian": "Геймпад Назад"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "XBoxOne_Gamepad_Special_Right",
+    "source": "Gamepad Start",
+    "russian": "Геймпад Старт"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftShoulder",
+    "source": "Gamepad Left Shoulder",
+    "russian": "Геймпад Левый бампер"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightShoulder",
+    "source": "Gamepad Right Shoulder",
+    "russian": "Геймпад Правый бампер"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftTrigger",
+    "source": "Gamepad Left Trigger",
+    "russian": "Геймпад Левый курок"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightTrigger",
+    "source": "Gamepad Right Trigger",
+    "russian": "Геймпад Правый курок"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftTriggerAxis",
+    "source": "Gamepad Left Trigger Axis",
+    "russian": "Геймпад Левый курок ось"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightTriggerAxis",
+    "source": "Gamepad Right Trigger Axis",
+    "russian": "Геймпад Правый курок ось"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftThumbstick",
+    "source": "Gamepad Left Thumbstick Button",
+    "russian": "Геймпад Левый стик: нажатие"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightThumbstick",
+    "source": "Gamepad Right Thumbstick Button",
+    "russian": "Геймпад Правый стик: нажатие"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Bottom",
+    "source": "Gamepad Face Button Bottom",
+    "russian": "Геймпад Нижняя кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Right",
+    "source": "Gamepad Face Button Right",
+    "russian": "Геймпад Правая кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Left",
+    "source": "Gamepad Face Button Left",
+    "russian": "Геймпад Левая кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_FaceButton_Top",
+    "source": "Gamepad Face Button Top",
+    "russian": "Геймпад Верхняя кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left",
+    "source": "Gamepad Special Left",
+    "russian": "Геймпад Левая доп. кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Right",
+    "source": "Gamepad Special Right",
+    "russian": "Геймпад Правая доп. кнопка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "GamepadSubCategory",
+    "source": "Gamepad",
+    "russian": "Геймпад"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseSubCategory",
+    "source": "Mouse",
+    "russian": "Мышь"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "KeyboardSubCategory",
+    "source": "Keyboard",
+    "russian": "Клавиатура"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "AnyKey",
+    "source": "Any Key",
+    "russian": "Любая клавиша"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseX",
+    "source": "Mouse X",
+    "russian": "Мышь: X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseY",
+    "source": "Mouse Y",
+    "russian": "Мышь: Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Mouse2D",
+    "source": "Mouse XY 2D-Axis",
+    "russian": "Мышь: XY"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseWheelAxis",
+    "source": "Mouse Wheel Axis",
+    "russian": "Ось колеса мыши"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseScrollUp",
+    "source": "Mouse Wheel Up",
+    "russian": "Колесо вверх"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MouseScrollDown",
+    "source": "Mouse Wheel Down",
+    "russian": "Колесо вниз"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftMouseButtonShort",
+    "source": "LMB",
+    "russian": "ЛКМ"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftMouseButton",
+    "source": "Left Mouse Button",
+    "russian": "Левая кнопка мыши"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightMouseButtonShort",
+    "source": "RMB",
+    "russian": "ПКМ"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightMouseButton",
+    "source": "Right Mouse Button",
+    "russian": "Правая кнопка мыши"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MiddleMouseButton",
+    "source": "Middle Mouse Button",
+    "russian": "Средняя кнопка мыши"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ThumbMouseButton",
+    "source": "Thumb Mouse Button",
+    "russian": "Боковая кнопка мыши"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "ThumbMouseButton2",
+    "source": "Thumb Mouse Button 2",
+    "russian": "Боковая кнопка мыши 2"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SpaceBarShort",
+    "source": "Space",
+    "russian": "Пробел"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SpaceBar",
+    "source": "Space Bar",
+    "russian": "Пробел"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Left",
+    "source": "Left",
+    "russian": "Влево"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Up",
+    "source": "Up",
+    "russian": "Вверх"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Right",
+    "source": "Right",
+    "russian": "Вправо"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Down",
+    "source": "Down",
+    "russian": "Вниз"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftShift",
+    "source": "Left Shift",
+    "russian": "Левый Shift"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightShift",
+    "source": "Right Shift",
+    "russian": "Правый Shift"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftControl",
+    "source": "Left Ctrl",
+    "russian": "Левый Ctrl"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightControl",
+    "source": "Right Ctrl",
+    "russian": "Правый Ctrl"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftAlt",
+    "source": "Left Alt",
+    "russian": "Левый Alt"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightAlt",
+    "source": "Right Alt",
+    "russian": "Правый Alt"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftCommand",
+    "source": "Left Cmd",
+    "russian": "Левый Cmd"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightCommand",
+    "source": "Right Cmd",
+    "russian": "Правый Cmd"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Semicolon",
+    "source": "Semicolon",
+    "russian": ";"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Equals",
+    "source": "Equals",
+    "russian": "="
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Comma",
+    "source": "Comma",
+    "russian": ","
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Hyphen",
+    "source": "Hyphen",
+    "russian": "-"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Underscore",
+    "source": "Underscore",
+    "russian": "_"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Period",
+    "source": "Period",
+    "russian": "."
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Slash",
+    "source": "Slash",
+    "russian": "/"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftBracket",
+    "source": "Left Bracket",
+    "russian": "["
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Backslash",
+    "source": "Backslash",
+    "russian": "\\"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightBracket",
+    "source": "Right Bracket",
+    "russian": "]"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Apostrophe",
+    "source": "Apostrophe",
+    "russian": "'"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Quote",
+    "source": "Quote",
+    "russian": "\""
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "LeftParantheses",
+    "source": "Left Parantheses",
+    "russian": "("
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RightParantheses",
+    "source": "Right Parantheses",
+    "russian": ")"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Ampersand",
+    "source": "Ampersand",
+    "russian": "&"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Asterix",
+    "source": "Asterisk",
+    "russian": "*"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Caret",
+    "source": "Caret",
+    "russian": "^"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Dollar",
+    "source": "Dollar",
+    "russian": "$"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Exclamation",
+    "source": "Exclamation",
+    "russian": "!"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Colon",
+    "source": "Colon",
+    "russian": ":"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftX",
+    "source": "Gamepad Left Thumbstick X-Axis",
+    "russian": "Геймпад Левый стик ось X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftY",
+    "source": "Gamepad Left Thumbstick Y-Axis",
+    "russian": "Геймпад Левый стик ось Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Left2D",
+    "source": "Gamepad Left Thumbstick 2D-Axis",
+    "russian": "Геймпад Левый стик оси XY"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightX",
+    "source": "Gamepad Right Thumbstick X-Axis",
+    "russian": "Геймпад Правый стик ось X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightY",
+    "source": "Gamepad Right Thumbstick Y-Axis",
+    "russian": "Геймпад Правый стик ось Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Right2D",
+    "source": "Gamepad Right Thumbstick 2D-Axis",
+    "russian": "Геймпад Правый стик оси XY"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Up",
+    "source": "Gamepad D-pad Up",
+    "russian": "Геймпад Крестовина вверх"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Down",
+    "source": "Gamepad D-pad Down",
+    "russian": "Геймпад Крестовина вниз"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Right",
+    "source": "Gamepad D-pad Right",
+    "russian": "Геймпад Крестовина вправо"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_DPad_Left",
+    "source": "Gamepad D-pad Left",
+    "russian": "Геймпад Крестовина влево"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Up",
+    "source": "Gamepad Left Thumbstick Up",
+    "russian": "Геймпад Левый стик вверх"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Down",
+    "source": "Gamepad Left Thumbstick Down",
+    "russian": "Геймпад Левый стик вниз"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Right",
+    "source": "Gamepad Left Thumbstick Right",
+    "russian": "Геймпад Левый стик вправо"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_LeftStick_Left",
+    "source": "Gamepad Left Thumbstick Left",
+    "russian": "Геймпад Левый стик влево"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Up",
+    "source": "Gamepad Right Thumbstick Up",
+    "russian": "Геймпад Правый стик вверх"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Down",
+    "source": "Gamepad Right Thumbstick Down",
+    "russian": "Геймпад Правый стик вниз"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Right",
+    "source": "Gamepad Right Thumbstick Right",
+    "russian": "Геймпад Правый стик вправо"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_RightStick_Left",
+    "source": "Gamepad Right Thumbstick Left",
+    "russian": "Геймпад Правый стик влево"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "MotionSubCateogry",
+    "source": "Motion",
+    "russian": "Движение"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Tilt",
+    "source": "Tilt",
+    "russian": "Наклон"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "RotationRate",
+    "source": "Rotation Rate",
+    "russian": "Скорость вращения"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gravity",
+    "source": "Gravity",
+    "russian": "Гравитация"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Acceleration",
+    "source": "Acceleration",
+    "russian": "Ускорение"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "TouchSubCateogry",
+    "source": "Touch",
+    "russian": "Касание"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "TouchFormat",
+    "source": "Touch {0}",
+    "russian": "Касание {0}"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "GestureSubCateogry",
+    "source": "Gesture",
+    "russian": "Жест"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gesture_Pinch",
+    "source": "Pinch",
+    "russian": "Щипок"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gesture_Flick",
+    "source": "Flick",
+    "russian": "Смахивание"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gesture_Rotate",
+    "source": "Rotate",
+    "russian": "Поворот"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "SpecialGamepadSubCategory",
+    "source": "SpecialGamepad",
+    "russian": "Особый геймпад"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left_X",
+    "source": "Touchpad Button X Axis",
+    "russian": "Сенсорная панель: ось X"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left_Y",
+    "source": "Touchpad Button Y Axis",
+    "russian": "Сенсорная панель: ось Y"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Gamepad_Special_Left_Touched",
+    "source": "Touchpad Touched",
+    "russian": "Касание сенсорной панели"
   }
 ]

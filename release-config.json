@@ -1,11 +1,12 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "gameVersion": "0.1.228.6 / 92362",
   "exeHash": "ed55bc7966847d909b23bf425e39b9453d720b549e201f01e7f2a96b3ecb201e",
   "pakSize": 38803117108,
   "pakTailHash": "99be3df7f75ec6788f3fefb6094a01286fa28317d7fae4d7acfa6b05b83ccd63",
   "previousLocresHashes": [
     "cd87d6d9e56407d096a61bd6fb869e4d9dd8cf46033d4d794c64d96351817ec9",
-    "9463a8e5fb154db58c8fc166c2ff2961c1b61a05dd75e0f3efdd984ecc7358c9"
+    "9463a8e5fb154db58c8fc166c2ff2961c1b61a05dd75e0f3efdd984ecc7358c9",
+    "1bccc59df3d7ac2603991461b8e887d63068fb7a0f26e0125a71e36f46ad69b6"
   ]
 }
