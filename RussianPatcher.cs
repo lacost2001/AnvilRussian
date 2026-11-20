@@ -28,9 +28,6 @@ public static class Patch {
   if(System.Version.Parse(next.Version)<=System.Version.Parse(Current.Version))return false;
   ValidateGameWith(root,next);Current=next;CurrentXml=xml;return true;
  }
- public const string Version = "0.1.228.6 / 92362";
- const string ExeHash = "ed55bc7966847d909b23bf425e39b9453d720b549e201f01e7f2a96b3ecb201e";
- const string TailHash = "99be3df7f75ec6788f3fefb6094a01286fa28317d7fae4d7acfa6b05b83ccd63";
  const string Marker = "AnvilRussianPatch\\receipt.xml";
  const string Legacy = "Anvil\\Content\\Paks\\Anvil_Russian_Probe_P.pak";
  static readonly string[] LegacyHashes = {"4dc40d19652c3b4adbd8b65ec8c1c31f13cf2ee0cbe99dfb904fce841556c9ac", "776a1ab07deb0de065d2c525a8093378cd5f7f6fe84f2a66c9fc5bc0bcaaf90c"};

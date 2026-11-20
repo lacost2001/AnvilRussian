@@ -590,8 +590,8 @@
   {
     "namespace": "",
     "key": "6E2980D9406EB04DB511E4B18AA7E2EC",
-    "source": "<Deemphasized>- You will lose all access to Homestead House storage.</>\r\n\r\n<Deemphasized>- You will lose access to Town & Fortress House storage.</>",
-    "russian": "<Deemphasized>- Вы потеряете доступ к хранилищам дома в усадьбах.</>\n\n<Deemphasized>- Вы потеряете доступ к хранилищам дома в городах и крепостях.</>"
+    "source": "<Deemphasized>You will lose all access to Homestead House storage</>\r\n\r\n<Deemphasized>You will lose access to Town & Fortress House storage</>\r\n\r\n<Deemphasized>You will lose access to House Avatars</>",
+    "russian": "<Deemphasized>Вы потеряете доступ к хранилищам дома в усадьбах</>\r\n\r\n<Deemphasized>Вы потеряете доступ к хранилищам дома в городах и крепостях</>\r\n\r\n<Deemphasized>Вы потеряете доступ к персонажам дома</>"
   },
   {
     "namespace": "",
@@ -650,8 +650,8 @@
   {
     "namespace": "",
     "key": "0509E420435AFC858AFCAAAE73261DF9",
-    "source": "<Deemphasized>- Homesteads will become public and claimable by other Houses.</>\r\n\r\n<Deemphasized>- The House will lose access to all storage in Town Keeps and Fortresses.</>\r\n\r\n<Deemphasized>- Fortresses will become public and claimable by other Houses.</>",
-    "russian": "<Deemphasized>- Усадьбы станут общими, и другие дома смогут их занять.</>\n\n<Deemphasized>- Дом потеряет доступ ко всем хранилищам в городских и крепостных цитаделях.</>\n\n<Deemphasized>- Крепости станут общими, и другие дома смогут их занять.</>"
+    "source": "<Deemphasized>Homesteads will become public and claimable by other Houses</>\r\n\r\n<Deemphasized>The House will lose access to all storage in Town Keeps and Fortresses</>\r\n\r\n<Deemphasized>Fortresses will become public and claimable by other Houses</>\r\n\r\n<Deemphasized>House Avatars will become public</>",
+    "russian": "<Deemphasized>Усадьбы станут общими, и другие дома смогут их занять</>\r\n\r\n<Deemphasized>Дом потеряет доступ ко всем хранилищам в городских и крепостных цитаделях</>\r\n\r\n<Deemphasized>Крепости станут общими, и другие дома смогут их занять</>\r\n\r\n<Deemphasized>Персонажи дома станут общедоступными</>"
   },
   {
     "namespace": "",
@@ -1129,24 +1129,6 @@
   },
   {
     "namespace": "",
-    "key": "05BDE5554DC33BA1A120A9A24A16E7BE",
-    "source": "Pillage Pagan Territory",
-    "russian": "Разграбление земель Язычников"
-  },
-  {
-    "namespace": "",
-    "key": "0B4E33594BCEF3402BF8478CAD14DE5C",
-    "source": "Pillage Ancient Territory",
-    "russian": "Разграбление земель Древних"
-  },
-  {
-    "namespace": "",
-    "key": "111E9BBB47B7F66B05A6DA8709580E10",
-    "source": "Pillage Remnant Territory",
-    "russian": "Разграбление земель Наследников"
-  },
-  {
-    "namespace": "",
     "key": "E86D3BE4431C8194E5A86C85D8E97DDE",
     "source": "Religious Relics",
     "russian": "Священные реликвии"
@@ -1234,24 +1216,6 @@
     "key": "CF8EEE844D351B336EBB4188C2AAC1EE",
     "source": "Hunt Bats roosting in the Underworld.",
     "russian": "Охотьтесь на летучих мышей, обитающих в Подземье."
-  },
-  {
-    "namespace": "",
-    "key": "83079A0E445C7FC908953DAE1DB58AB1",
-    "source": "Pillage farms in Pagan territory. This can be done by torching farms with Torches or Oil Flasks and retrieving the valuables within.",
-    "russian": "Разграбьте фермы на землях Язычников: подожгите их факелами или флягами масла и заберите ценности."
-  },
-  {
-    "namespace": "",
-    "key": "2BEF9D6C432B05F994E1BFA7D099B70C",
-    "source": "Pillage farms in Ancient territory. This can be done by torching farms with Torches or Oil Flasks and retrieving the valuables within.",
-    "russian": "Разграбьте фермы на землях Древних: подожгите их факелами или флягами масла и заберите ценности."
-  },
-  {
-    "namespace": "",
-    "key": "6DE8A6934E25BC980F57DF8EA940432D",
-    "source": "Pillage farms in Remnant territory. This can be done by torching farms with Torches or Oil Flasks and retrieving the valuables within.",
-    "russian": "Разграбьте фермы на землях Наследников: подожгите их факелами или флягами масла и заберите ценности."
   },
   {
     "namespace": "",
@@ -3487,12 +3451,6 @@
   },
   {
     "namespace": "",
-    "key": "96CD98054F752E5C51C8B59EF07B13CF",
-    "source": "Upgrade",
-    "russian": "Улучшить"
-  },
-  {
-    "namespace": "",
     "key": "C8F8B53A46F111E79D1601871CBF80D3",
     "source": "Use/Interact",
     "russian": "Взаимодействие"
@@ -4237,24 +4195,6 @@
   },
   {
     "namespace": "",
-    "key": "435791D74C1A6DA2B46BC1B6A9078AD5",
-    "source": "Nearby Players",
-    "russian": "Игроки поблизости"
-  },
-  {
-    "namespace": "",
-    "key": "10C6B3A442E9954E1DE147912E21546B",
-    "source": "Alliance",
-    "russian": "Союз"
-  },
-  {
-    "namespace": "",
-    "key": "885D9C274A29FB24A617B480AB0CA71E",
-    "source": "Player",
-    "russian": "Игрок"
-  },
-  {
-    "namespace": "",
     "key": "12E2818745F477837E7F0497C05A0289",
     "source": "Population",
     "russian": "Население"
@@ -4594,84 +4534,6 @@
     "key": "52EE51314EB787CC26B2299F6ACC299C",
     "source": "Minnow",
     "russian": "Пескарь"
-  },
-  {
-    "namespace": "",
-    "key": "BE6711184E5C21163BC5D5AB19A3E5A5",
-    "source": "Zone A",
-    "russian": "Зона A"
-  },
-  {
-    "namespace": "",
-    "key": "FEC2BBB04814E0EE072CF4AFE5BECD46",
-    "source": "Zone B",
-    "russian": "Зона B"
-  },
-  {
-    "namespace": "",
-    "key": "C44B12AF498CE3487AE1EF8444AE334F",
-    "source": "Zone C",
-    "russian": "Зона C"
-  },
-  {
-    "namespace": "",
-    "key": "21A93E0447605F03FFF684B93059EA21",
-    "source": "Zone C",
-    "russian": "Зона C"
-  },
-  {
-    "namespace": "",
-    "key": "9452CC994A3658826B4995AF2F638BAC",
-    "source": "Mead",
-    "russian": "Медовуха"
-  },
-  {
-    "namespace": "",
-    "key": "849F251B40018FD5283AFC8FFD990A8B",
-    "source": "Snare",
-    "russian": "Силок"
-  },
-  {
-    "namespace": "",
-    "key": "38DB4DDE4565987E1FE510B81027D4F2",
-    "source": "Hunter's Earring",
-    "russian": "Серьга охотника"
-  },
-  {
-    "namespace": "",
-    "key": "8C5B8CDB4251B1D79641ED9B298D9885",
-    "source": "Spawning Stew",
-    "russian": "Похлёбка размножения"
-  },
-  {
-    "namespace": "",
-    "key": "D4545A8E46C6DC77A791528F930F283B",
-    "source": "The Speaker's Voice",
-    "russian": "Голос Вещателя"
-  },
-  {
-    "namespace": "",
-    "key": "32C008134117809B870F93A95713515E",
-    "source": "The Speaker's Warning",
-    "russian": "Предупреждение Вещателя"
-  },
-  {
-    "namespace": "",
-    "key": "593C77E84B20CEF33DA2C8B8C60B8433",
-    "source": "Billet",
-    "russian": "Полено"
-  },
-  {
-    "namespace": "",
-    "key": "1A7149A2463CA91E12E2DAAC760F4A8E",
-    "source": "Minnow",
-    "russian": "Пескарь"
-  },
-  {
-    "namespace": "",
-    "key": "EC7ECD6A4AC5D596AB4AD282074030D1",
-    "source": "Crag Gourd",
-    "russian": "Скальная тыква"
   },
   {
     "namespace": "",
@@ -7351,12 +7213,6 @@
   },
   {
     "namespace": "",
-    "key": "FCA259C04DFAD9AE0502EDBB28BE820F",
-    "source": "Stockpile at Keeps or Camps",
-    "russian": "Храните в цитаделях или лагерях"
-  },
-  {
-    "namespace": "",
     "key": "911AE71A48D133C5448968B4175CB852",
     "source": "Auxiliary Spearmen Kit",
     "russian": "Комплект вспомогательного копейщика"
@@ -7369,12 +7225,6 @@
   },
   {
     "namespace": "",
-    "key": "8329606D452016C3433F9C815EB6D019",
-    "source": "Stockpile at Keeps or Camps",
-    "russian": "Храните в цитаделях или лагерях"
-  },
-  {
-    "namespace": "",
     "key": "463FC2784E3D8A279E8D24B8A007AA82",
     "source": "Auxiliary Ration Supply",
     "russian": "Запас вспомогательных пайков"
@@ -7384,12 +7234,6 @@
     "key": "61039A0D4E299D84E7964BAF7CD12687",
     "source": "A container full of Auxiliary Rations. Deliver to a Keep or Camp to keep Auxiliary Avatars fed.",
     "russian": "Контейнер с пайками вспомогательных войск. Доставьте его в цитадель или лагерь для снабжения вспомогательных персонажей."
-  },
-  {
-    "namespace": "",
-    "key": "A837D1C04FFF07E5089C5C8CDF78E452",
-    "source": "Stockpile at Keeps or Camps",
-    "russian": "Храните в цитаделях или лагерях"
   },
   {
     "namespace": "",
@@ -7420,12 +7264,6 @@
     "key": "1DA7844F46264DF5CB14339EE2972023",
     "source": "A basic set of armour and weapons for an Auxiliary Bowmen. This is used to stockpile Keeps or Camps with equipment that can be used by players deploying in as Auxiliary Avatars.",
     "russian": "Базовый комплект брони и оружия вспомогательного лучника. Хранится в цитаделях и лагерях для игроков, появляющихся вспомогательными персонажами."
-  },
-  {
-    "namespace": "",
-    "key": "64795D6142066ADE3F2127A977BCCB30",
-    "source": "Stockpile at Keeps or Camps",
-    "russian": "Храните в цитаделях или лагерях"
   },
   {
     "namespace": "",
@@ -8980,18 +8818,6 @@
     "key": "9397E110488F308CB1116CB003D7AE98",
     "source": "A structure for storing a small number of any item.",
     "russian": "Хранилище для небольшого количества любых предметов."
-  },
-  {
-    "namespace": "",
-    "key": "A200244D4EEFEA793E99D9A1A2FC959C",
-    "source": "Tower",
-    "russian": "Башня"
-  },
-  {
-    "namespace": "",
-    "key": "C76411224ED2F836AB0A5D931EABE1C0",
-    "source": "Provides an elevated position that allows defenders to fire at an invading force below.",
-    "russian": "Возвышенная позиция для обстрела наступающих врагов."
   },
   {
     "namespace": "",
@@ -14437,18 +14263,6 @@
   },
   {
     "namespace": "Anvil",
-    "key": "RefineryRequiresResearchText",
-    "source": "Requires Research",
-    "russian": "Требуется исследование"
-  },
-  {
-    "namespace": "Anvil",
-    "key": "RefineryCrateProducedText",
-    "source": "Produces Barrel of Items",
-    "russian": "Производит бочку предметов"
-  },
-  {
-    "namespace": "Anvil",
     "key": "Health",
     "source": "Health",
     "russian": "Здоровье"
@@ -14878,18 +14692,6 @@
     "key": "RecruitAvatarBody",
     "source": "This will recruit a Personal Avatar for your own private use.",
     "russian": "Нанимает личного персонажа только для вас."
-  },
-  {
-    "namespace": "Anvil",
-    "key": "RecruitAuxAvatarHeader",
-    "source": "Auxiliary Avatar",
-    "russian": "Вспомогательный персонаж"
-  },
-  {
-    "namespace": "Anvil",
-    "key": "RecruitAuxAvatarBody",
-    "source": "This will recruit a Public Avatar.\n\nWARNING: You should not recruit a Public Avatar unless you are preparing to defend a location or lay siege to an enemy target.",
-    "russian": "Нанимает общего персонажа.\n\nВНИМАНИЕ: делайте это только при подготовке к обороне или осаде."
   },
   {
     "namespace": "Anvil",
@@ -16027,12 +15829,6 @@
   },
   {
     "namespace": "Anvil",
-    "key": "TemperaturetooLowToPlant",
-    "source": "Too cold to grow this plant in this season",
-    "russian": "В этом сезоне слишком холодно для растения"
-  },
-  {
-    "namespace": "Anvil",
     "key": "TooSoonToTravel",
     "source": "Too soon to travel",
     "russian": "Ещё рано путешествовать"
@@ -16210,12 +16006,6 @@
     "key": "RelicSiteClaimedFormat",
     "source": "Relic Site has been claimed for the {0}",
     "russian": "Место реликвий захвачено: {0}"
-  },
-  {
-    "namespace": "Anvil",
-    "key": "FamilyLockExpiryTextFormat",
-    "source": "Vehicle Claim expires in {0}",
-    "russian": "Закрепление транспорта истекает через {0}"
   },
   {
     "namespace": "Anvil",
@@ -17818,12 +17608,6 @@
     "key": "BAC7F59F438898062C8D5AB8F93C071F",
     "source": "Header Text",
     "russian": "Заголовок"
-  },
-  {
-    "namespace": "",
-    "key": "B97E2C394E9FAA1D9E38EDBE94F0BD97",
-    "source": "Resources Footer",
-    "russian": "Подпись ресурсов"
   },
   {
     "namespace": "",
@@ -19945,618 +19729,6 @@
   },
   {
     "namespace": "",
-    "key": "E16712B745AAE6124B834CA517022185",
-    "source": "Major",
-    "russian": "Основной"
-  },
-  {
-    "namespace": "",
-    "key": "EA5725F74133C81CD47129B170FED73C",
-    "source": "Second Sister",
-    "russian": "Вторая Сестра"
-  },
-  {
-    "namespace": "",
-    "key": "3E79027A4F35621C5A22F3BDDD1E6CC5",
-    "source": "Ent’s Ear",
-    "russian": "Ухо Энта"
-  },
-  {
-    "namespace": "",
-    "key": "588AE68C4C229F54C59085A0DD97DFED",
-    "source": "Broodwood",
-    "russian": "Лес Выводка"
-  },
-  {
-    "namespace": "",
-    "key": "3FBA50864C23C4275AA55BA87FD35B5C",
-    "source": "The Gield",
-    "russian": "Гильд"
-  },
-  {
-    "namespace": "",
-    "key": "3D25A2E24C2A0015029621A6FE9EB93A",
-    "source": "Briarcourt",
-    "russian": "Терновый двор"
-  },
-  {
-    "namespace": "",
-    "key": "90AE712449A197F32A214FBDCA398933",
-    "source": "The Beorma",
-    "russian": "Беорма"
-  },
-  {
-    "namespace": "",
-    "key": "84DF772F4CF9C0484DCD57894F1451CE",
-    "source": "Wyrmlíc River",
-    "russian": "Река Вирмлик"
-  },
-  {
-    "namespace": "",
-    "key": "993A98204A16020E81FE1EB432603661",
-    "source": "Tunnecomb",
-    "russian": "Таннекомб"
-  },
-  {
-    "namespace": "",
-    "key": "6E8AF37C441BE1E18B6C049F9AC51E84",
-    "source": "Dream’s Whisper",
-    "russian": "Шёпот Сна"
-  },
-  {
-    "namespace": "",
-    "key": "8F2BE5A5492D187F06931F9302D1F584",
-    "source": "Upper Wights",
-    "russian": "Верхние Умертвия"
-  },
-  {
-    "namespace": "",
-    "key": "9612E72B437F939B1B4962BE8C60C69E",
-    "source": "Billhook Bay",
-    "russian": "Залив Багра"
-  },
-  {
-    "namespace": "",
-    "key": "50F2B9424E98AE7A6CE8C1BAE06228E8",
-    "source": "Trivium",
-    "russian": "Тривиум"
-  },
-  {
-    "namespace": "",
-    "key": "6783C77D4E55B3CE133A7D8C98E7EE51",
-    "source": "Crus Pulli",
-    "russian": "Крус Пулли"
-  },
-  {
-    "namespace": "",
-    "key": "73A26DA34962202D7DB19AA1453E51FA",
-    "source": "Roaming Scales",
-    "russian": "Блуждающая чешуя"
-  },
-  {
-    "namespace": "",
-    "key": "8D7B3C9143085F09C21859983F3BAFF9",
-    "source": "Anchor Ridge",
-    "russian": "Якорный хребет"
-  },
-  {
-    "namespace": "",
-    "key": "2B434B654BF8A5EF982B6F90337F33B6",
-    "source": "Myrce",
-    "russian": "Мирс"
-  },
-  {
-    "namespace": "",
-    "key": "F52A637346F93D2F92FCFB8208EB60E4",
-    "source": "Stella Lucida",
-    "russian": "Стелла Люцида"
-  },
-  {
-    "namespace": "",
-    "key": "3177798742AE38C2BEB83BBEA4007090",
-    "source": "Lost Sister",
-    "russian": "Потерянная Сестра"
-  },
-  {
-    "namespace": "",
-    "key": "D2FFED23452036783A675E9A788F72BB",
-    "source": "First Sister",
-    "russian": "Первая Сестра"
-  },
-  {
-    "namespace": "",
-    "key": "30D7219C4F6A68FDBBF4CAA23DA16CC1",
-    "source": "Brimrad",
-    "russian": "Бримрад"
-  },
-  {
-    "namespace": "",
-    "key": "518067294D0FFFCB373726AAACD550DC",
-    "source": "Princemarch",
-    "russian": "Княжий рубеж"
-  },
-  {
-    "namespace": "",
-    "key": "D4F6A41D42B08B95AE3F32A3083F45AF",
-    "source": "Ellernford",
-    "russian": "Эллернфорд"
-  },
-  {
-    "namespace": "",
-    "key": "5DEF18464979024508E370A0EC271222",
-    "source": "Solopgang",
-    "russian": "Солопганг"
-  },
-  {
-    "namespace": "",
-    "key": "2437D80C46B27D1CBFBBAB8DA8CD7134",
-    "source": "Módorhold",
-    "russian": "Модорхолд"
-  },
-  {
-    "namespace": "",
-    "key": "C8889341484FEFBCDB31DC98D387DA89",
-    "source": "Raven's Hook",
-    "russian": "Вороний крюк"
-  },
-  {
-    "namespace": "",
-    "key": "45C8DF50499597679BC9E5802A8A34DA",
-    "source": "Thunder Copse",
-    "russian": "Громовая роща"
-  },
-  {
-    "namespace": "",
-    "key": "4F975749479655B8A264C3A6A404025A",
-    "source": "Isa’s Glory",
-    "russian": "Слава Исы"
-  },
-  {
-    "namespace": "",
-    "key": "7539DD7540A3ED5DA58E928570E05815",
-    "source": "Gildra Sker",
-    "russian": "Гильдра-Скер"
-  },
-  {
-    "namespace": "",
-    "key": "B755AFF9482134A72A1B06B0D9F9EE18",
-    "source": " Krákur Perch",
-    "russian": "Насест Кракура"
-  },
-  {
-    "namespace": "",
-    "key": "8B63BADC42BD0C833E3990A33D693521",
-    "source": "Beitholt",
-    "russian": "Бейтхольт"
-  },
-  {
-    "namespace": "",
-    "key": "CC0D6C9B484E200FACAF84A7DEB387DC",
-    "source": "Gnatfield",
-    "russian": "Комариное поле"
-  },
-  {
-    "namespace": "",
-    "key": "628C613543CACE3A2376A3A7080AD43D",
-    "source": "The Crackling",
-    "russian": "Трескучие земли"
-  },
-  {
-    "namespace": "",
-    "key": "793F69D0461992C99E3B2BADAC250ABB",
-    "source": "Gorgo Shallows",
-    "russian": "Мели Горго"
-  },
-  {
-    "namespace": "",
-    "key": "1676007E4FD1B69343412E8542BF2384",
-    "source": "Reefward Isle",
-    "russian": "Остров Рифов"
-  },
-  {
-    "namespace": "",
-    "key": "F98147094FD4BDF3C991D689DAFE87D8",
-    "source": "The Berde",
-    "russian": "Берде"
-  },
-  {
-    "namespace": "",
-    "key": "6EBED5D94FD68ECC6EFB3998DC94043E",
-    "source": "Blind Eye",
-    "russian": "Слепой глаз"
-  },
-  {
-    "namespace": "",
-    "key": "A55F36884149CC48A27C058FF48949D2",
-    "source": "Grubstone",
-    "russian": "Грабстоун"
-  },
-  {
-    "namespace": "",
-    "key": "B4351A7941B34BEECBB80C987B6FAF08",
-    "source": "Eldingará",
-    "russian": "Эльдингара"
-  },
-  {
-    "namespace": "",
-    "key": "362CEC1D42F3DD86A5BB0BA4A9108316",
-    "source": "Skycollar",
-    "russian": "Небесный ворот"
-  },
-  {
-    "namespace": "",
-    "key": "23CAA26B4DBE5A435EA128B8400F93D7",
-    "source": "Opinn Pathway",
-    "russian": "Тропа Опинн"
-  },
-  {
-    "namespace": "",
-    "key": "0CD3BFAC406264B04883D0B80BDCEA61",
-    "source": "Hildr's Hideaway",
-    "russian": "Убежище Хильд"
-  },
-  {
-    "namespace": "",
-    "key": "BCFBDC684443EA8E1405EA99629B60DA",
-    "source": "Guffhil",
-    "russian": "Гаффхил"
-  },
-  {
-    "namespace": "",
-    "key": "49B06315484C2D492C03F09696E56444",
-    "source": "Wending",
-    "russian": "Вендинг"
-  },
-  {
-    "namespace": "",
-    "key": "5F7E4DC14CA3F68F4D18B687C13071F1",
-    "source": "The Ditch",
-    "russian": "Ров"
-  },
-  {
-    "namespace": "",
-    "key": "CD043FD248191EC0DC8C438412299E16",
-    "source": "Catfall",
-    "russian": "Кэтфолл"
-  },
-  {
-    "namespace": "",
-    "key": "F3B7C62641BC086F4D978CA825F700AC",
-    "source": "Humberhearth",
-    "russian": "Хамберхарт"
-  },
-  {
-    "namespace": "",
-    "key": "2632A9FC428FEECFC10EEAB337FD98CC",
-    "source": "Sabre Headland",
-    "russian": "Сабельный мыс"
-  },
-  {
-    "namespace": "",
-    "key": "409C608E455A5AC78D4FCC9F3F058E06",
-    "source": "Baker's Row",
-    "russian": "Пекарский ряд"
-  },
-  {
-    "namespace": "",
-    "key": "53F511D24A53460A7DAC709D1CFA30C4",
-    "source": "The Halyard",
-    "russian": "Фал"
-  },
-  {
-    "namespace": "",
-    "key": "65ED0FF046B028749E0E6B81B80FDBC2",
-    "source": "Whistlewood",
-    "russian": "Свистящий лес"
-  },
-  {
-    "namespace": "",
-    "key": "07109B434F1B5A270C5A0199AE319152",
-    "source": "Yiltpaths",
-    "russian": "Тропы Йилта"
-  },
-  {
-    "namespace": "",
-    "key": "58FF97A746214F8849514B9210DC397D",
-    "source": "Porsil Forc",
-    "russian": "Порсил-Форк"
-  },
-  {
-    "namespace": "",
-    "key": "4F427A1E4809DC9502E2E8BF5767B928",
-    "source": "The Duckroad",
-    "russian": "Утиная дорога"
-  },
-  {
-    "namespace": "",
-    "key": "FBDC672A4A497CB385A13787A39F6463",
-    "source": "Boulderby",
-    "russian": "Боулдерби"
-  },
-  {
-    "namespace": "",
-    "key": "3DBA2ED44FCAF73B935256A253B89DCD",
-    "source": "Cape Swine",
-    "russian": "Свиной мыс"
-  },
-  {
-    "namespace": "",
-    "key": "EBD1D46742D69CADDA2328B7DC84E10E",
-    "source": "Looter's Law",
-    "russian": "Закон Мародёра"
-  },
-  {
-    "namespace": "",
-    "key": "E3DB14F64AA5E1711F966FB4111BA5D4",
-    "source": "Bleeder's Vale",
-    "russian": "Кровавая долина"
-  },
-  {
-    "namespace": "",
-    "key": "18688F2D45AD25CB18C85EAD50DB972C",
-    "source": "Mago Herepath",
-    "russian": "Военная тропа Маго"
-  },
-  {
-    "namespace": "",
-    "key": "67DA90BE432403F760D1438F9A90F78B",
-    "source": "Speaker's Will",
-    "russian": "Воля Оратора"
-  },
-  {
-    "namespace": "",
-    "key": "A7BCEB264C083E3E27B12DB1E5994FE1",
-    "source": "Muddied Star",
-    "russian": "Потускневшая звезда"
-  },
-  {
-    "namespace": "",
-    "key": "287733C94BA2ED78392400A4FCB6FFA3",
-    "source": "Grinning Maw",
-    "russian": "Оскаленная пасть"
-  },
-  {
-    "namespace": "",
-    "key": "693F37C14FD35D7B84A42CB5F58FB9F3",
-    "source": "Downy Tor",
-    "russian": "Пушистый холм"
-  },
-  {
-    "namespace": "",
-    "key": "484CB3A2497C54322A12F788EB47AFD4",
-    "source": "Sefa's Rest",
-    "russian": "Покой Сефы"
-  },
-  {
-    "namespace": "",
-    "key": "5EFBDFB344BC504D8CB6AD9BF380950D",
-    "source": "Southern Vens",
-    "russian": "Южные Вены"
-  },
-  {
-    "namespace": "",
-    "key": "0224263F4FB9A3A41741C6845C8169C3",
-    "source": "Venroad",
-    "russian": "Венская дорога"
-  },
-  {
-    "namespace": "",
-    "key": "3DBF0683498389AAEFB2F1824319807E",
-    "source": "The Drought",
-    "russian": "Засуха"
-  },
-  {
-    "namespace": "",
-    "key": "F17F322E46186971BFEC049F019AA608",
-    "source": "Slatshaw",
-    "russian": "Слэтшоу"
-  },
-  {
-    "namespace": "",
-    "key": "C4CDF38245C5E25953C1B18EB5F635AE",
-    "source": "Burdon Point",
-    "russian": "Мыс Бёрдон"
-  },
-  {
-    "namespace": "",
-    "key": "5B80E3A44C1D3636DD691E80BF86EF6E",
-    "source": "Crone Lake",
-    "russian": "Озеро Старухи"
-  },
-  {
-    "namespace": "",
-    "key": "53F8BC414B227243404B11AE32107773",
-    "source": "Affray",
-    "russian": "Схватка"
-  },
-  {
-    "namespace": "",
-    "key": "100DEB284698A4FF09D93E8FFDD17765",
-    "source": "Fæderwick",
-    "russian": "Фадервик"
-  },
-  {
-    "namespace": "",
-    "key": "C46A44D14222ABFD86F59AB0C7DF26E5",
-    "source": "Fals Crownland",
-    "russian": "Коронные земли Фалса"
-  },
-  {
-    "namespace": "",
-    "key": "F974A09F480DF1BE5A3191AAE16A16EF",
-    "source": "Saltlands",
-    "russian": "Солёные земли"
-  },
-  {
-    "namespace": "",
-    "key": "2C099EBE4C8C21A09D3F7CA1CC9B44D6",
-    "source": "Filch River",
-    "russian": "Воровская река"
-  },
-  {
-    "namespace": "",
-    "key": "2FF5BA9D40DC7B0B55AB85B9A825FEE1",
-    "source": "Orcarum Domus",
-    "russian": "Оркарум Домус"
-  },
-  {
-    "namespace": "",
-    "key": "6D73FBE64F0A82AC38DC97AD0E1A619E",
-    "source": "Ictus",
-    "russian": "Иктус"
-  },
-  {
-    "namespace": "",
-    "key": "52AE0B65491EE8E04564D0A8EAB634F8",
-    "source": "Castula",
-    "russian": "Кастула"
-  },
-  {
-    "namespace": "",
-    "key": "F3FBF11843177D28AF98EAA7027F1657",
-    "source": "Lost Lung",
-    "russian": "Потерянное Лёгкое"
-  },
-  {
-    "namespace": "",
-    "key": "B664D3054709598ECFA1BD876E34B873",
-    "source": "Cirri",
-    "russian": "Цирри"
-  },
-  {
-    "namespace": "",
-    "key": "9F4851734B5CA8438AAE46AFA050C806",
-    "source": "Flagella Causeway",
-    "russian": "Дамба Флагелла"
-  },
-  {
-    "namespace": "",
-    "key": "5C74D4F24619413FFC1162BDFB7C0ABD",
-    "source": "Os Firth",
-    "russian": "Залив Ос"
-  },
-  {
-    "namespace": "",
-    "key": "D7AC3D7F42A8719BFC149E8757F6F51F",
-    "source": "The Pulmo",
-    "russian": "Пульмо"
-  },
-  {
-    "namespace": "",
-    "key": "09AF135F4B0A468934B41EB04F2604F3",
-    "source": "Arcus Terrae",
-    "russian": "Аркус Терре"
-  },
-  {
-    "namespace": "",
-    "key": "C67091AB487A4E60A7AA0BA69FBB13DF",
-    "source": "Washwood",
-    "russian": "Затопленный лес"
-  },
-  {
-    "namespace": "",
-    "key": "63D397184E438A5BB84328BEF2904CC0",
-    "source": "Clivus",
-    "russian": "Кливус"
-  },
-  {
-    "namespace": "",
-    "key": "9941B98245ACA29D8C2C23AFE3C1E7F6",
-    "source": "Retributary",
-    "russian": "Река Возмездия"
-  },
-  {
-    "namespace": "",
-    "key": "CB0EA8C447837F831BAFB9B0D548DC45",
-    "source": "Astria Australis",
-    "russian": "Южная Астрия"
-  },
-  {
-    "namespace": "",
-    "key": "2143FDD04BCCAD148A5D1D91BA52A113",
-    "source": "Burnfall",
-    "russian": "Бёрнфолл"
-  },
-  {
-    "namespace": "",
-    "key": "392C2BC74ED4FAEAB23A2180F85D8481",
-    "source": "Torsio",
-    "russian": "Торсио"
-  },
-  {
-    "namespace": "",
-    "key": "7F4878E448D0037B7AAADAB27CED60E1",
-    "source": "Star Common",
-    "russian": "Звёздный луг"
-  },
-  {
-    "namespace": "",
-    "key": "5AE26CCA43F2D7E8E1684B8425656552",
-    "source": "Wyrd Wold",
-    "russian": "Вирдский лес"
-  },
-  {
-    "namespace": "",
-    "key": "E6587523482A5A26F6BF0BB473CD7040",
-    "source": "Knavescurl",
-    "russian": "Плутовской завиток"
-  },
-  {
-    "namespace": "",
-    "key": "B34CD5A1437F90DEC6536E908F0045A1",
-    "source": "Fleeting Valley",
-    "russian": "Мимолётная долина"
-  },
-  {
-    "namespace": "",
-    "key": "884D501B4E1FF849B917EEB4CA4AD22B",
-    "source": "Western Vens",
-    "russian": "Западные Вены"
-  },
-  {
-    "namespace": "",
-    "key": "E02E6C184692BF3C63ED30BA821891A0",
-    "source": "Ealhstan's Pram",
-    "russian": "Ладья Элстана"
-  },
-  {
-    "namespace": "",
-    "key": "43327ECF45B6A44C011E0281AF1CB456",
-    "source": "Twinswail",
-    "russian": "Плач Близнецов"
-  },
-  {
-    "namespace": "",
-    "key": "F6CE77F3486C4AB3A9DCE78EA85A0847",
-    "source": "Underhill",
-    "russian": "Подгорье"
-  },
-  {
-    "namespace": "",
-    "key": "AB8092F34FC92DD08DB201B70D063B3A",
-    "source": "The Dryfields",
-    "russian": "Сухие поля"
-  },
-  {
-    "namespace": "",
-    "key": "51B6FBAC4238B9A0285019B8474A242D",
-    "source": "Wigmund Row",
-    "russian": "Ряд Вигмунда"
-  },
-  {
-    "namespace": "",
-    "key": "66081C934A4CD3941795D5A47D255CA5",
-    "source": "The Bend",
-    "russian": "Излучина"
-  },
-  {
-    "namespace": "",
-    "key": "0B00A72B4129340D273146A82C3E500C",
-    "source": "The Wander",
-    "russian": "Странствие"
-  },
-  {
-    "namespace": "",
     "key": "E0CB3BDF4C98F8600C86E7AA65D583E2",
     "source": "This is a really long comment entered by a user on a MRQ job. This field could be used for making notes about what they changed in this shot so that the director or lead can know what parts of the shot to pay attention to, and so you can remember what was changed after it goes into an edit. This is a long field that has multiple lines of text to show multi-line handling. If the comment field is left empty on the job then this will not be visible.\r\n\r\nYou can even use Shift+Enter to create multiple lines.\r\n\r\nLike this!\r\n\r\nOr this!\r\n\r\nReally tall text!",
     "russian": "Пример длинного комментария к заданию рендера. Здесь можно описать изменения в кадре и указать, на что обратить внимание. Пустое поле не отображается.\r\n\r\nДля переноса строки используйте Shift+Enter.\r\n\r\nПример новой строки.\r\n\r\nЕщё одна строка."
@@ -22672,5 +21844,1505 @@
     "key": "Gamepad_Special_Left_Touched",
     "source": "Touchpad Touched",
     "russian": "Касание сенсорной панели"
+  },
+  {
+    "namespace": "",
+    "key": "D713A9D949EAD0940944CE90CB74DF5D",
+    "source": "Resources Footer",
+    "russian": "Подпись ресурсов"
+  },
+  {
+    "namespace": "",
+    "key": "B269C1AA4323ED76F119479B6F6557B9",
+    "source": "Nearby Players",
+    "russian": "Игроки поблизости"
+  },
+  {
+    "namespace": "",
+    "key": "2DBDFFB4472C7DE8A359CEA1E3D5FAC7",
+    "source": "Alliance",
+    "russian": "Союз"
+  },
+  {
+    "namespace": "",
+    "key": "6C1BF6CA4D1F32E1928836A436FB484C",
+    "source": "Player",
+    "russian": "Игрок"
+  },
+  {
+    "namespace": "",
+    "key": "E5803B4D4ECECF403156BE966224A7CB",
+    "source": "Gate",
+    "russian": "Ворота"
+  },
+  {
+    "namespace": "",
+    "key": "6389B6BB4C898F9596750D9DE29E7136",
+    "source": "Slows down your enemies and protects your settlements.",
+    "russian": "Замедляет врагов и защищает поселения."
+  },
+  {
+    "namespace": "",
+    "key": "38C2E9E343BE9A315A7E1089E48A54D9",
+    "source": "Slows down your enemies and protects your settlements.",
+    "russian": "Замедляет врагов и защищает поселения."
+  },
+  {
+    "namespace": "",
+    "key": "40CE3AAF4C0638FA5AA16380D234E31F",
+    "source": "Back",
+    "russian": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "AE6664D44B5B9FDE136683B774E2BC6C",
+    "source": "Major",
+    "russian": "Основной"
+  },
+  {
+    "namespace": "",
+    "key": "B51378934EC83F3F8BC5FEB1F2C5EB65",
+    "source": "Zone A",
+    "russian": "Зона A"
+  },
+  {
+    "namespace": "",
+    "key": "F80520E7436A08703E975793EA0D5B9B",
+    "source": "Zone B",
+    "russian": "Зона B"
+  },
+  {
+    "namespace": "",
+    "key": "2F82D364468F990D9C68D08C5D869DFC",
+    "source": "Zone C",
+    "russian": "Зона C"
+  },
+  {
+    "namespace": "",
+    "key": "B4C11C8B4801AE5F51ACC4BD61D00DD5",
+    "source": "Second Sister",
+    "russian": "Вторая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "353558604ABACDCAC7F5598324D8671D",
+    "source": "Ent’s Ear",
+    "russian": "Ухо Энта"
+  },
+  {
+    "namespace": "",
+    "key": "A82F1BC24576D877A4E74FBBCD3391F2",
+    "source": "Broodwood",
+    "russian": "Лес Выводка"
+  },
+  {
+    "namespace": "",
+    "key": "4DD086934FEBE8C4B28DF58FA1B61AC8",
+    "source": "The Gield",
+    "russian": "Гильд"
+  },
+  {
+    "namespace": "",
+    "key": "759F3116400B28DD02B8CCBD2BA2185A",
+    "source": "Briarcourt",
+    "russian": "Терновый двор"
+  },
+  {
+    "namespace": "",
+    "key": "117100FD455A3ACF983B3D97B3E60081",
+    "source": "The Beorma",
+    "russian": "Беорма"
+  },
+  {
+    "namespace": "",
+    "key": "C9A37F1244AB9E79CE83AB944EA3D7A1",
+    "source": "Wyrmlíc River",
+    "russian": "Река Вирмлик"
+  },
+  {
+    "namespace": "",
+    "key": "DEF318354F8409BA8066869CF6725096",
+    "source": "Tunnecomb",
+    "russian": "Таннекомб"
+  },
+  {
+    "namespace": "",
+    "key": "DE8B45E14F98FC8E323ECDB6C64E0D22",
+    "source": "Dream’s Whisper",
+    "russian": "Шёпот Сна"
+  },
+  {
+    "namespace": "",
+    "key": "D668E54A4FDC129E084EB59D86EBECDE",
+    "source": "Upper Wights",
+    "russian": "Верхние Умертвия"
+  },
+  {
+    "namespace": "",
+    "key": "E95423244A7EE43D0404098874845D89",
+    "source": "Billhook Bay",
+    "russian": "Залив Багра"
+  },
+  {
+    "namespace": "",
+    "key": "2C460F2544B961ACE2A79AA80195E637",
+    "source": "Trivium",
+    "russian": "Тривиум"
+  },
+  {
+    "namespace": "",
+    "key": "7D05106F4BDF8B936F133CA2A586709B",
+    "source": "Crus Pulli",
+    "russian": "Крус Пулли"
+  },
+  {
+    "namespace": "",
+    "key": "90352D03483477C61B981DA3D7A80EA9",
+    "source": "Roaming Scales",
+    "russian": "Блуждающая чешуя"
+  },
+  {
+    "namespace": "",
+    "key": "2455312D46840335A7557CB8C39190B1",
+    "source": "Anchor Ridge",
+    "russian": "Якорный хребет"
+  },
+  {
+    "namespace": "",
+    "key": "E037562D4750BFBD42128A923F837CBE",
+    "source": "Myrce",
+    "russian": "Мирс"
+  },
+  {
+    "namespace": "",
+    "key": "EB0F9DF941DE25F87CF9808B17579EAE",
+    "source": "Stella Lucida",
+    "russian": "Стелла Люцида"
+  },
+  {
+    "namespace": "",
+    "key": "BB97844E487816AF439194A604A78D13",
+    "source": "Lost Sister",
+    "russian": "Потерянная Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "9E78427447B6366693BE69BC8EB36199",
+    "source": "First Sister",
+    "russian": "Первая Сестра"
+  },
+  {
+    "namespace": "",
+    "key": "6454632949FA9A26D9A3F4BE207C973B",
+    "source": "Brimrad",
+    "russian": "Бримрад"
+  },
+  {
+    "namespace": "",
+    "key": "662EFA0846AFE712405C5EBED027B7EE",
+    "source": "Princemarch",
+    "russian": "Княжий рубеж"
+  },
+  {
+    "namespace": "",
+    "key": "CD22DE384BACDA6EB522AB8727EB44B9",
+    "source": "Ellernford",
+    "russian": "Эллернфорд"
+  },
+  {
+    "namespace": "",
+    "key": "35E16B2D4B03D7AA43F9C09849E66032",
+    "source": "Solopgang",
+    "russian": "Солопганг"
+  },
+  {
+    "namespace": "",
+    "key": "A3E364C143A947B8FC9D3BA7A41DB3DF",
+    "source": "Módorhold",
+    "russian": "Модорхолд"
+  },
+  {
+    "namespace": "",
+    "key": "1C102BBB402FD5563F8C64B49722133E",
+    "source": "Raven's Hook",
+    "russian": "Вороний крюк"
+  },
+  {
+    "namespace": "",
+    "key": "37A89AFD4B07A54D7F3C46906B6F6F81",
+    "source": "Thunder Copse",
+    "russian": "Громовая роща"
+  },
+  {
+    "namespace": "",
+    "key": "07D1E8F649D1FFD9FBB3228FA69E6994",
+    "source": "Isa’s Glory",
+    "russian": "Слава Исы"
+  },
+  {
+    "namespace": "",
+    "key": "C144DB134879FA0BFC94EE808ADCBD06",
+    "source": "Gildra Sker",
+    "russian": "Гильдра-Скер"
+  },
+  {
+    "namespace": "",
+    "key": "46276849432F0E48790C39BE26B9750C",
+    "source": " Krákur Perch",
+    "russian": "Насест Кракура"
+  },
+  {
+    "namespace": "",
+    "key": "5C6B51724780C164841B2A91BBCCD1CB",
+    "source": "Beitholt",
+    "russian": "Бейтхольт"
+  },
+  {
+    "namespace": "",
+    "key": "1BDEAEBD4B57CFEB9729C2B434779A2B",
+    "source": "Gnatfield",
+    "russian": "Комариное поле"
+  },
+  {
+    "namespace": "",
+    "key": "C360D2F54D1835984C105CA86112511B",
+    "source": "The Crackling",
+    "russian": "Трескучие земли"
+  },
+  {
+    "namespace": "",
+    "key": "2C44203C45C1A0549B117197C3E529CD",
+    "source": "Gorgo Shallows",
+    "russian": "Мели Горго"
+  },
+  {
+    "namespace": "",
+    "key": "CEF6B27747B7EA1EA5E1C58B4BF3D887",
+    "source": "Reefward Isle",
+    "russian": "Остров Рифов"
+  },
+  {
+    "namespace": "",
+    "key": "B48442BF47E2EA8CD129F6B957CA71D0",
+    "source": "The Berde",
+    "russian": "Берде"
+  },
+  {
+    "namespace": "",
+    "key": "7A217516496079788C207EAAD90E301F",
+    "source": "Blind Eye",
+    "russian": "Слепой глаз"
+  },
+  {
+    "namespace": "",
+    "key": "0A4A87CB48833D581B0EE398AC457DEC",
+    "source": "Mead",
+    "russian": "Медовуха"
+  },
+  {
+    "namespace": "",
+    "key": "F2BBC1564C7E362C89F7D3B26ABC111A",
+    "source": "Grubstone",
+    "russian": "Грабстоун"
+  },
+  {
+    "namespace": "",
+    "key": "F6CF129A49D9AD1065F5A5BDE8690EBB",
+    "source": "Eldingará",
+    "russian": "Эльдингара"
+  },
+  {
+    "namespace": "",
+    "key": "697052D64EB72CEF174ED6A09C74E4C2",
+    "source": "Skycollar",
+    "russian": "Небесный ворот"
+  },
+  {
+    "namespace": "",
+    "key": "9EA03FA04A9C4F5CC0ED558F8E794F3E",
+    "source": "Opinn Pathway",
+    "russian": "Тропа Опинн"
+  },
+  {
+    "namespace": "",
+    "key": "F6E891A34AE21090C7CB7597A14B5A0A",
+    "source": "Hildr's Hideaway",
+    "russian": "Убежище Хильд"
+  },
+  {
+    "namespace": "",
+    "key": "84CFB1C5430F916316724E9F9F334B41",
+    "source": "Guffhil",
+    "russian": "Гаффхил"
+  },
+  {
+    "namespace": "",
+    "key": "37647EEA4BD334FEAF69CDA4E0036C24",
+    "source": "Snare",
+    "russian": "Силок"
+  },
+  {
+    "namespace": "",
+    "key": "C1890D2B40B210F145A448B16B1A0482",
+    "source": "Wending",
+    "russian": "Вендинг"
+  },
+  {
+    "namespace": "",
+    "key": "729EF5E94C02B8D1A1B5D0B90169A7F8",
+    "source": "The Ditch",
+    "russian": "Ров"
+  },
+  {
+    "namespace": "",
+    "key": "57B42CD64FFDA23EE6141D9B42992B3E",
+    "source": "Hunter's Earring",
+    "russian": "Серьга охотника"
+  },
+  {
+    "namespace": "",
+    "key": "8B147BD44E88F06D1C6B7EBC5F91D5B5",
+    "source": "Catfall",
+    "russian": "Кэтфолл"
+  },
+  {
+    "namespace": "",
+    "key": "40010F894F38CBBD449D5D8C04B69197",
+    "source": "Humberhearth",
+    "russian": "Хамберхарт"
+  },
+  {
+    "namespace": "",
+    "key": "44D170724B638830606209AFC987F5AA",
+    "source": "Sabre Headland",
+    "russian": "Сабельный мыс"
+  },
+  {
+    "namespace": "",
+    "key": "27FD1F4A4193AFF6DAC994B22B23DB67",
+    "source": "Baker's Row",
+    "russian": "Пекарский ряд"
+  },
+  {
+    "namespace": "",
+    "key": "05EFC17F4A93D3CBE4F426904634DBA9",
+    "source": "Spawning Stew",
+    "russian": "Похлёбка размножения"
+  },
+  {
+    "namespace": "",
+    "key": "90049CDA4EEEF1BDBEE40AA803EFFD0E",
+    "source": "The Halyard",
+    "russian": "Фал"
+  },
+  {
+    "namespace": "",
+    "key": "39AFCD04407E4EB941455CAB08428647",
+    "source": "Whistlewood",
+    "russian": "Свистящий лес"
+  },
+  {
+    "namespace": "",
+    "key": "02F5AECB4B113AC3D091AA89BF62C6BF",
+    "source": "Yiltpaths",
+    "russian": "Тропы Йилта"
+  },
+  {
+    "namespace": "",
+    "key": "C9331ABF41A143B46085FFB5C2EE1AF0",
+    "source": "Porsil Forc",
+    "russian": "Порсил-Форк"
+  },
+  {
+    "namespace": "",
+    "key": "8BACCB7F48119E2FE033DABFC127DD93",
+    "source": "The Duckroad",
+    "russian": "Утиная дорога"
+  },
+  {
+    "namespace": "",
+    "key": "C9D9956C46788A1B8A96F4928AFE75E6",
+    "source": "Boulderby",
+    "russian": "Боулдерби"
+  },
+  {
+    "namespace": "",
+    "key": "5267F3DA4DF48F469AFEB88BB34EA413",
+    "source": "Cape Swine",
+    "russian": "Свиной мыс"
+  },
+  {
+    "namespace": "",
+    "key": "F1D362F0479B4F3DB1FF5A9DA851C200",
+    "source": "Looter's Law",
+    "russian": "Закон Мародёра"
+  },
+  {
+    "namespace": "",
+    "key": "617A9886496A426D2574029FD9AD029D",
+    "source": "Bleeder's Vale",
+    "russian": "Кровавая долина"
+  },
+  {
+    "namespace": "",
+    "key": "6F4C83894372B4E319F5EA9D03D240F1",
+    "source": "Mago Herepath",
+    "russian": "Военная тропа Маго"
+  },
+  {
+    "namespace": "",
+    "key": "C496E9BD4A4648E696CEEEACCA84F21C",
+    "source": "Speaker's Will",
+    "russian": "Воля Оратора"
+  },
+  {
+    "namespace": "",
+    "key": "70843DF64D0A960A024592B25E7EB49B",
+    "source": "The Speaker's Voice",
+    "russian": "Голос Вещателя"
+  },
+  {
+    "namespace": "",
+    "key": "DA77706D498C4848D1D9A19616D838C4",
+    "source": "Muddied Star",
+    "russian": "Потускневшая звезда"
+  },
+  {
+    "namespace": "",
+    "key": "91482ADF4060B71689FB249B027B40E4",
+    "source": "Grinning Maw",
+    "russian": "Оскаленная пасть"
+  },
+  {
+    "namespace": "",
+    "key": "A94F206C47E74C4C2FCD549AE9B4E530",
+    "source": "Downy Tor",
+    "russian": "Пушистый холм"
+  },
+  {
+    "namespace": "",
+    "key": "118C5AD941CBAC11DFFC8DB28737FD29",
+    "source": "Sefa's Rest",
+    "russian": "Покой Сефы"
+  },
+  {
+    "namespace": "",
+    "key": "323B076B403EE5FC036EB794E2188068",
+    "source": "Southern Vens",
+    "russian": "Южные Вены"
+  },
+  {
+    "namespace": "",
+    "key": "CA866D194313BD99C79CC2B7D818E070",
+    "source": "Venroad",
+    "russian": "Венская дорога"
+  },
+  {
+    "namespace": "",
+    "key": "4BF746DD45BD35336BC0A399D2823725",
+    "source": "The Drought",
+    "russian": "Засуха"
+  },
+  {
+    "namespace": "",
+    "key": "D7CB2A75417FEA928B3B00A0D506B71D",
+    "source": "Slatshaw",
+    "russian": "Слэтшоу"
+  },
+  {
+    "namespace": "",
+    "key": "C0F9DCCF41541E4D8FE8C58EDFAED328",
+    "source": "Burdon Point",
+    "russian": "Мыс Бёрдон"
+  },
+  {
+    "namespace": "",
+    "key": "AA711EBD49E51C1FC4CAAFAD1C58AC84",
+    "source": "Crone Lake",
+    "russian": "Озеро Старухи"
+  },
+  {
+    "namespace": "",
+    "key": "BBAC4E804F27C8A62C9C169A7B303785",
+    "source": "The Speaker's Warning",
+    "russian": "Предупреждение Вещателя"
+  },
+  {
+    "namespace": "",
+    "key": "DD73EBE3470568E5FDF83D855DF66C52",
+    "source": "Billet",
+    "russian": "Полено"
+  },
+  {
+    "namespace": "",
+    "key": "6E1F0B774BF140A15FA1C4969959D942",
+    "source": "Affray",
+    "russian": "Схватка"
+  },
+  {
+    "namespace": "",
+    "key": "A6C528ED456C0267317E359E9077ED3B",
+    "source": "Fæderwick",
+    "russian": "Фадервик"
+  },
+  {
+    "namespace": "",
+    "key": "3563929844A98916BC5BD69E3926031B",
+    "source": "Fals Crownland",
+    "russian": "Коронные земли Фалса"
+  },
+  {
+    "namespace": "",
+    "key": "101BE98948918569A4BCEAAAE79C6931",
+    "source": "Saltlands",
+    "russian": "Солёные земли"
+  },
+  {
+    "namespace": "",
+    "key": "8422711944E2D994EA91238C129D0CCE",
+    "source": "Filch River",
+    "russian": "Воровская река"
+  },
+  {
+    "namespace": "",
+    "key": "B007F8DF4A538A1C153FE78CCE6DBF6C",
+    "source": "Orcarum Domus",
+    "russian": "Оркарум Домус"
+  },
+  {
+    "namespace": "",
+    "key": "6C38156241A58E424497DA9C2ABD1878",
+    "source": "Ictus",
+    "russian": "Иктус"
+  },
+  {
+    "namespace": "",
+    "key": "D8420E164BA9964C962E7885DCCF96E9",
+    "source": "Castula",
+    "russian": "Кастула"
+  },
+  {
+    "namespace": "",
+    "key": "7B00D7054465980C01150D985400FF65",
+    "source": "Lost Lung",
+    "russian": "Потерянное Лёгкое"
+  },
+  {
+    "namespace": "",
+    "key": "5B5513FA4D3C743374F58399C408F97B",
+    "source": "Cirri",
+    "russian": "Цирри"
+  },
+  {
+    "namespace": "",
+    "key": "8AB805AC4510E73DA82314960AC4F7FA",
+    "source": "Flagella Causeway",
+    "russian": "Дамба Флагелла"
+  },
+  {
+    "namespace": "",
+    "key": "AC91FA8347223E53F2EB8AB2FFF7CB8F",
+    "source": "Os Firth",
+    "russian": "Залив Ос"
+  },
+  {
+    "namespace": "",
+    "key": "33D9CE784D7E30D70DB3798302C8E69A",
+    "source": "The Pulmo",
+    "russian": "Пульмо"
+  },
+  {
+    "namespace": "",
+    "key": "37023C1D432190818FEF7595B1AAC91E",
+    "source": "Arcus Terrae",
+    "russian": "Аркус Терре"
+  },
+  {
+    "namespace": "",
+    "key": "9503052247D732D07A5D74AF25F05A6A",
+    "source": "Washwood",
+    "russian": "Затопленный лес"
+  },
+  {
+    "namespace": "",
+    "key": "B0E78D4A4BE88388E5603D8BE7955044",
+    "source": "Clivus",
+    "russian": "Кливус"
+  },
+  {
+    "namespace": "",
+    "key": "E8CAC085401168D52CC4FD9B22FF349A",
+    "source": "Retributary",
+    "russian": "Река Возмездия"
+  },
+  {
+    "namespace": "",
+    "key": "6DBAAC74415A73096DD9F5870C7A99B5",
+    "source": "Minnow",
+    "russian": "Пескарь"
+  },
+  {
+    "namespace": "",
+    "key": "5CEAD33A4F0F33E25EF299B6E2A8DCC3",
+    "source": "Astria Australis",
+    "russian": "Южная Астрия"
+  },
+  {
+    "namespace": "",
+    "key": "39C7222A47AFC74DD904C49060481455",
+    "source": "Burnfall",
+    "russian": "Бёрнфолл"
+  },
+  {
+    "namespace": "",
+    "key": "9C0E5E9541C9CF346AD63CB109B33F45",
+    "source": "Torsio",
+    "russian": "Торсио"
+  },
+  {
+    "namespace": "",
+    "key": "BEB9DAF540159D5F2D3CD19F0BEC05CA",
+    "source": "Star Common",
+    "russian": "Звёздный луг"
+  },
+  {
+    "namespace": "",
+    "key": "4E154C274F1E0638675AABB5EB68C111",
+    "source": "Wyrd Wold",
+    "russian": "Вирдский лес"
+  },
+  {
+    "namespace": "",
+    "key": "4EB495784058379E5EBB839C60B698EE",
+    "source": "Knavescurl",
+    "russian": "Плутовской завиток"
+  },
+  {
+    "namespace": "",
+    "key": "CD7260C941967DA122E29E9FCCD3BEE6",
+    "source": "Fleeting Valley",
+    "russian": "Мимолётная долина"
+  },
+  {
+    "namespace": "",
+    "key": "EB28E8A64E2CB55ACB6A01A6349CD7EC",
+    "source": "Western Vens",
+    "russian": "Западные Вены"
+  },
+  {
+    "namespace": "",
+    "key": "795403364B444BC350DE06B87179B01A",
+    "source": "Ealhstan's Pram",
+    "russian": "Ладья Элстана"
+  },
+  {
+    "namespace": "",
+    "key": "F05EE24D4530D186C159E6804134C778",
+    "source": "Twinswail",
+    "russian": "Плач Близнецов"
+  },
+  {
+    "namespace": "",
+    "key": "E85B22BE4278821F003E83A58DC5F5BC",
+    "source": "Underhill",
+    "russian": "Подгорье"
+  },
+  {
+    "namespace": "",
+    "key": "D916C87340C032ECF7EDF7B291C13410",
+    "source": "The Dryfields",
+    "russian": "Сухие поля"
+  },
+  {
+    "namespace": "",
+    "key": "01A13BF04FDBE8FFCFA724A02B8E4E36",
+    "source": "Wigmund Row",
+    "russian": "Ряд Вигмунда"
+  },
+  {
+    "namespace": "",
+    "key": "FF0452094BD793FE81FA7790C084F6DD",
+    "source": "Crag Gourd",
+    "russian": "Скальная тыква"
+  },
+  {
+    "namespace": "",
+    "key": "8F9A3A5A46E504CA758781A91891C4D9",
+    "source": "The Bend",
+    "russian": "Излучина"
+  },
+  {
+    "namespace": "",
+    "key": "197F84534F6B079845462B8A4EBC2E0E",
+    "source": "The Wander",
+    "russian": "Странствие"
+  },
+  {
+    "namespace": "",
+    "key": "FAB272E546B726C75EECFEB908425DF3",
+    "source": "Return to a bounty board to claim your reward",
+    "russian": "Верните на доску заданий, чтобы получить награду"
+  },
+  {
+    "namespace": "",
+    "key": "20034FC94C86CCC920E2B7A0CACA1288",
+    "source": "Return to a bounty board to claim your reward",
+    "russian": "Верните на доску заданий, чтобы получить награду"
+  },
+  {
+    "namespace": "",
+    "key": "1A1343C345CF3896A14F63B845BA7CD2",
+    "source": "Return to a bounty board to claim your reward",
+    "russian": "Верните на доску заданий, чтобы получить награду"
+  },
+  {
+    "namespace": "",
+    "key": "A4A5E41648E008EFAF99B0BB3B97FE76",
+    "source": "Return to a bounty board to claim your reward",
+    "russian": "Верните на доску заданий, чтобы получить награду"
+  },
+  {
+    "namespace": "",
+    "key": "2BBFAE9143A56B58AA37CD80F3DF164C",
+    "source": "Return to a bounty board to claim your reward",
+    "russian": "Верните на доску заданий, чтобы получить награду"
+  },
+  {
+    "namespace": "",
+    "key": "746B9AFC4134713B62A2109C042198A0",
+    "source": "Cart Husk",
+    "russian": "Остов повозки"
+  },
+  {
+    "namespace": "",
+    "key": "C8BD1F6744F6959B5EA7548431B5BE64",
+    "source": "Bear Carcass",
+    "russian": "Туша медведя"
+  },
+  {
+    "namespace": "",
+    "key": "5EDB720649B24548FB02EDA7FD6B5CFE",
+    "source": "Wolf Carcass",
+    "russian": "Туша волка"
+  },
+  {
+    "namespace": "InputKeys",
+    "key": "Delete",
+    "source": "Delete",
+    "russian": "Удалить"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "VehicleLockExpiryTextFormat ",
+    "source": "Vehicle Claim expires in {0}",
+    "russian": "Закрепление транспорта истекает через {0}"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "SecondsTimeString",
+    "source": "{0}s",
+    "russian": "{0}с"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "DaysTimeString",
+    "source": "{0}d{1}h",
+    "russian": "{0}д{1}ч"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "HoursTimeString",
+    "source": "{0}h{1}m",
+    "russian": "{0}ч{1}м"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "MinutesTimeString",
+    "source": "{0}m{1}s",
+    "russian": "{0}м{1}с"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "StationAvatar",
+    "source": "Station Avatar",
+    "russian": "Разместить персонажа"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarRecruited",
+    "source": "Avatar Recruited",
+    "russian": "Персонаж нанят"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarRecruitedTown",
+    "source": "Your recruited Avatar has been stationed at this Town Keep.",
+    "russian": "Нанятый персонаж размещён в этой городской цитадели."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitmentDescriptionTownKeep",
+    "source": "Avatars can be recruited for Silver. New Avatars become available as existing ones are recruited. Starting attributes are determined by whether they are an Apprentice, Journeyman, or Master.",
+    "russian": "Персонажей можно нанимать за серебро. По мере найма появляются новые кандидаты. Начальные характеристики зависят от их ранга: ученик, подмастерье или мастер."
+  },
+  {
+    "namespace": "",
+    "key": "CD3289594A472B352E4CED9C5814F351",
+    "source": "Managed Inventory",
+    "russian": "Управляемый инвентарь"
+  },
+  {
+    "namespace": "",
+    "key": "6F510EA847123786B70A4388736BFE9E",
+    "source": "CAPTURED",
+    "russian": "В ПЛЕНУ"
+  },
+  {
+    "namespace": "",
+    "key": "6B21F54E4048428FCC7933BB5A51A186",
+    "source": "Supply Indenture",
+    "russian": "Контракт снабжения"
+  },
+  {
+    "namespace": "",
+    "key": "34D77D844CE7F98C2418FDA6204B60FA",
+    "source": "Supply Indenture (Town)",
+    "russian": "Контракт снабжения города"
+  },
+  {
+    "namespace": "",
+    "key": "8A3A320D43BE7847C40EB8993BFFD3B0",
+    "source": "Náttmous",
+    "russian": "Наттмоус"
+  },
+  {
+    "namespace": "",
+    "key": "4E4AB7C340238D24FDB3E1B5EB6EF595",
+    "source": "Military Indenture",
+    "russian": "Военный контракт"
+  },
+  {
+    "namespace": "",
+    "key": "045877CF49A1F25E4FE15E8B5625896F",
+    "source": "A contract to deliver Supply Crates to a Fortress Keep or Camp. Upon delivery, a release will be granted that can be submitted here. Supply Crates can be produced at Town Workshops.",
+    "russian": "Контракт на доставку ящиков припасов в крепостную цитадель или лагерь. После доставки вы получите расписку, которую можно сдать здесь. Ящики припасов производятся в городских мастерских."
+  },
+  {
+    "namespace": "",
+    "key": "B8F67FD14A640928C792E6BC1C4C104F",
+    "source": "A contract to deliver Supply Crates to a Town Keep. Upon delivery, a release will be granted that can be submitted here. Supply Crates can be produced at Town Workshops.",
+    "russian": "Контракт на доставку ящиков припасов в городскую цитадель. После доставки вы получите расписку, которую можно сдать здесь. Ящики припасов производятся в городских мастерских."
+  },
+  {
+    "namespace": "",
+    "key": "AED236A94095648B43C10CA9AEFA434B",
+    "source": "TBD",
+    "russian": "В разработке"
+  },
+  {
+    "namespace": "",
+    "key": "36238BFC466D9E9B33F7C18D90B3BDE6",
+    "source": "A contract to recruit and transport Auxiliaries to a Fortress Keep or Camp. Upon delivery, a release will be granted that can be submitted here.",
+    "russian": "Контракт на наём и перевозку бойцов вспомогательных войск в крепостную цитадель или лагерь. После доставки вы получите расписку, которую можно сдать здесь."
+  },
+  {
+    "namespace": "",
+    "key": "E9EC71FB4A7D5FD4A924BE8AD838C347",
+    "source": "[23h59m59s][x=12345; y=12345][Player Name] 200 recent damage to friendly vehicles/structures",
+    "russian": "[23ч59м59с][x=12345; y=12345][Имя игрока] Недавний урон союзным повозкам и постройкам: 200"
+  },
+  {
+    "namespace": "",
+    "key": "9C1551FF4E5B8C622B6D5880FF55BC28",
+    "source": "Page 0 of 0",
+    "russian": "Страница 0 из 0"
+  },
+  {
+    "namespace": "",
+    "key": "1926AEB44145812DFFFF07977BF67F1C",
+    "source": "Request Timed Out",
+    "russian": "Время ожидания истекло"
+  },
+  {
+    "namespace": "",
+    "key": "FC21DCA3460C21D30711AD80DCCC84C9",
+    "source": "Loading",
+    "russian": "Загрузка"
+  },
+  {
+    "namespace": "",
+    "key": "0FCE5F404FCDF5E039C7D1B6D3D9ADAA",
+    "source": "Region Log",
+    "russian": "Журнал региона"
+  },
+  {
+    "namespace": "",
+    "key": "B659C2B14C6B34B4FD43BD84DE4C1B56",
+    "source": "The region log is empty",
+    "russian": "Журнал региона пуст"
+  },
+  {
+    "namespace": "",
+    "key": "6CC3EC7D4CF36AF7E2D945B591AA11FE",
+    "source": "Torus",
+    "russian": "Тор"
+  },
+  {
+    "namespace": "",
+    "key": "6C3E3E8A4FC2127EFAE2E5BFA5D988AE",
+    "source": "TorusKnot",
+    "russian": "Торический узел"
+  },
+  {
+    "namespace": "",
+    "key": "0743A74E4BE2F691D016209240CE1279",
+    "source": "Sphere",
+    "russian": "Сфера"
+  },
+  {
+    "namespace": "",
+    "key": "75A1356B4696362491378BB40652727A",
+    "source": "Cylinder",
+    "russian": "Цилиндр"
+  },
+  {
+    "namespace": "",
+    "key": "A78B1E7543955782FCC1B2AD4456C92B",
+    "source": "Box / Plane",
+    "russian": "Блок / плоскость"
+  },
+  {
+    "namespace": "",
+    "key": "1853CCBC446DC485EE18189A83C3AD26",
+    "source": "Torus",
+    "russian": "Тор"
+  },
+  {
+    "namespace": "",
+    "key": "58028E0541383E59BC1CA7A7D8C67A2B",
+    "source": "Ring / Disc",
+    "russian": "Кольцо / диск"
+  },
+  {
+    "namespace": "",
+    "key": "70654BBC44AE8793DF7627BF06146A82",
+    "source": "Cone",
+    "russian": "Конус"
+  },
+  {
+    "namespace": "",
+    "key": "18E053FD4CEA0B4A2CDB84A15396528F",
+    "source": "Spherical Cone",
+    "russian": "Сферический конус"
+  },
+  {
+    "namespace": "",
+    "key": "1E392964443566A0CBB99C80D99535F1",
+    "source": "Spherical Wedge",
+    "russian": "Сферический клин"
+  },
+  {
+    "namespace": "",
+    "key": "B5B351A84B97A6626986E892A010B0E8",
+    "source": "Box",
+    "russian": "Блок"
+  },
+  {
+    "namespace": "",
+    "key": "E5A1A18149C88911C19EE79F5FDD0B79",
+    "source": "Plane",
+    "russian": "Плоскость"
+  },
+  {
+    "namespace": "",
+    "key": "DAF092A246780F5ED62D748A891F1579",
+    "source": "Circle",
+    "russian": "Круг"
+  },
+  {
+    "namespace": "",
+    "key": "41A42B204B7FA6DB38DFE99DB5909594",
+    "source": "Hexagon",
+    "russian": "Шестиугольник"
+  },
+  {
+    "namespace": "",
+    "key": "9CFD350F4042FA83991BE5BDA1E71E67",
+    "source": "Auxiliary Recruitment",
+    "russian": "Наём вспом. войск"
+  },
+  {
+    "namespace": "",
+    "key": "7F5CD4234E7812503E33928077DC1CEF",
+    "source": "Auxiliaries can be recruited at this location.",
+    "russian": "Здесь можно нанимать бойцов вспомогательных войск."
+  },
+  {
+    "namespace": "",
+    "key": "7B69BF3B41B385156F8053AA360CE1D1",
+    "source": "Spiked Barricade",
+    "russian": "Шипованная баррикада"
+  },
+  {
+    "namespace": "",
+    "key": "FC37CAAA4F4CD900C399419D0FB16811",
+    "source": "Spiked Barricade",
+    "russian": "Шипованная баррикада"
+  },
+  {
+    "namespace": "",
+    "key": "4DA0D03A4AAD4D2AF83209A49F88FB72",
+    "source": "[name of team] has % control over this territory.",
+    "russian": "[название стороны] контролирует % этой территории."
+  },
+  {
+    "namespace": "",
+    "key": "46A1EB024312AF5D3C99C28D5FF8F3B2",
+    "source": "Territory Control",
+    "russian": "Контроль территории"
+  },
+  {
+    "namespace": "",
+    "key": "639CE7464FEBF539A5D97AA1068051F1",
+    "source": "Supply Crate",
+    "russian": "Ящик припасов"
+  },
+  {
+    "namespace": "",
+    "key": "F74CB3C64BB718CED6963297CFEC7C7C",
+    "source": "A sealed crate of supplies to be delivered to a Keep or Camp for public use.",
+    "russian": "Запечатанный ящик припасов для доставки в цитадель или лагерь и общего использования."
+  },
+  {
+    "namespace": "",
+    "key": "8AFF81BC4062FC4CBF983094CA537C30",
+    "source": "Deliver to Keeps and Camps\r\nSupply Indenture Item",
+    "russian": "Доставьте в цитадель или лагерь\r\nПредмет контракта снабжения"
+  },
+  {
+    "namespace": "",
+    "key": "99508773452A852C62D9E08AE54BB738",
+    "source": "Zone D",
+    "russian": "Зона D"
+  },
+  {
+    "namespace": "",
+    "key": "E31705864A252DF0A7886A9A9811D3AF",
+    "source": "Town Supply Indenture Release",
+    "russian": "Расписка о снабжении города"
+  },
+  {
+    "namespace": "",
+    "key": "EBBFC7AC458DA4D8FEE978B69AE2F20D",
+    "source": "A record of proof for completing a Town Supply Indenture.",
+    "russian": "Подтверждение выполнения контракта снабжения города."
+  },
+  {
+    "namespace": "",
+    "key": "C853370C409E8CB2F9EB69BB8A1B5398",
+    "source": "Supply Indenture Release",
+    "russian": "Расписка о снабжении"
+  },
+  {
+    "namespace": "",
+    "key": "7BBD605F4D914C7970D04E9BB30A650D",
+    "source": "A record of proof for completing a Supply Indenture.",
+    "russian": "Подтверждение выполнения контракта снабжения."
+  },
+  {
+    "namespace": "",
+    "key": "A1438EC64CB66183DE5F908E5B1DBE96",
+    "source": "Great Wisent Horn",
+    "russian": "Большой рог зубра"
+  },
+  {
+    "namespace": "",
+    "key": "8AFD89654D83330AF93E01BA4ED7C885",
+    "source": "A massive wisent Horn.",
+    "russian": "Огромный рог зубра."
+  },
+  {
+    "namespace": "",
+    "key": "702F6D0C42FA11EB4E6E5CA20400E6A7",
+    "source": "TBD",
+    "russian": "В разработке"
+  },
+  {
+    "namespace": "",
+    "key": "B9766C294BEE0519F9551EB703DAAF63",
+    "source": "TBD",
+    "russian": "В разработке"
+  },
+  {
+    "namespace": "",
+    "key": "42AE153542BFFE42449210A899C04FBB",
+    "source": "Military Indenture Release",
+    "russian": "Расписка по военному контракту"
+  },
+  {
+    "namespace": "",
+    "key": "22981B214F34A6E635B3B4A7A3F9B755",
+    "source": "A record of proof for completing a Military Indenture.",
+    "russian": "Подтверждение выполнения военного контракта."
+  },
+  {
+    "namespace": "",
+    "key": "3D6E170F4D172979668368A2DB99ABA0",
+    "source": "Transport Wagon",
+    "russian": "Транспортная повозка"
+  },
+  {
+    "namespace": "",
+    "key": "246CF15744F7A50ACF8872B388B4F717",
+    "source": "A large wagon used to transport up to 8 personnel over long distances.",
+    "russian": "Большая повозка для перевозки до 8 человек на дальние расстояния."
+  },
+  {
+    "namespace": "",
+    "key": "324435A34CB9C9DA29A50CBD3C8CE1E1",
+    "source": "Transport Wagon",
+    "russian": "Транспортная повозка"
+  },
+  {
+    "namespace": "",
+    "key": "70C235A54B4023064BB94F95A59E3494",
+    "source": "A large wagon used to transport up to 8 personnel over long distances.",
+    "russian": "Большая повозка для перевозки до 8 человек на дальние расстояния."
+  },
+  {
+    "namespace": "",
+    "key": "D73CDC534905E6584FD752A093BE5583",
+    "source": "Transport Wagon",
+    "russian": "Транспортная повозка"
+  },
+  {
+    "namespace": "",
+    "key": "9EF9C799463A4F6202561597392E4D4D",
+    "source": "A large wagon used to transport up to 8 personnel over long distances.",
+    "russian": "Большая повозка для перевозки до 8 человек на дальние расстояния."
+  },
+  {
+    "namespace": "",
+    "key": "3B622E8A4250130CCEB164A16D40BAB3",
+    "source": "Camp Guard Tower Ladder",
+    "russian": "Лестница сторожевой башни"
+  },
+  {
+    "namespace": "",
+    "key": "DB29AE9741EA868AC2D17889482BD614",
+    "source": "Camp Guard Tower",
+    "russian": "Сторожевая башня лагеря"
+  },
+  {
+    "namespace": "",
+    "key": "D7C6AE6340F3183BAA85ED848415DD69",
+    "source": "A tower from which archers can defend against threats to the Camp.",
+    "russian": "Башня, с которой лучники могут защищать лагерь."
+  },
+  {
+    "namespace": "",
+    "key": "59615368426D82EE2A7525A6E9A0B30B",
+    "source": "Sharpening Wheel",
+    "russian": "Точильный круг"
+  },
+  {
+    "namespace": "",
+    "key": "C66250704CC7BC37C11BFAAC46D6E6E9",
+    "source": "TBD",
+    "russian": "В разработке"
+  },
+  {
+    "namespace": "",
+    "key": "79904F994D2C682976A39DA2C214A7B0",
+    "source": "TBD",
+    "russian": "В разработке"
+  },
+  {
+    "namespace": "",
+    "key": "B1AA6D9A4E47366E9FC236BE2E9E78D2",
+    "source": "Defensive Stockpile",
+    "russian": "Оборонный склад"
+  },
+  {
+    "namespace": "",
+    "key": "38051FE546D579CE1CF783A13175FC80",
+    "source": "A stockpile to store defensive items when needed for siege defense.",
+    "russian": "Склад снаряжения для обороны при осаде."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "MapImageZoneContestedFormat",
+    "source": "This territory was previously controlled by {0}. It is currently being contested.",
+    "russian": "Ранее эту территорию контролировала сторона {0}. Сейчас за неё идёт борьба."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "MapImageZoneControlledFormat",
+    "source": "{0} has {1}% control over this territory.",
+    "russian": "{0} контролирует {1}% этой территории."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimTextRouted",
+    "source": "ROUTED",
+    "russian": "ОТСТУПИЛ"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimTextCaptured",
+    "source": "CAPTURED",
+    "russian": "В ПЛЕНУ"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "PersonalLockTooltipHeader",
+    "source": "Lock Vehicle",
+    "russian": "Запереть повозку"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "PersonalLockTooltipBody",
+    "source": "Lock this vehicle so it's only accessible by you",
+    "russian": "Заприте повозку, чтобы доступ к ней был только у вас"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "PersonalUnlockTooltipHeader",
+    "source": "Unlock Vehicle",
+    "russian": "Отпереть повозку"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "PersonalUnlockTooltipBody",
+    "source": "Unlock this vehicle, allowing the public to access it again",
+    "russian": "Отоприте повозку, чтобы снова открыть доступ всем"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "HeavyStructureTooltip",
+    "source": "Can only be damaged by Heavy Siege weapons",
+    "russian": "Уязвимо только для тяжёлых осадных орудий"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "SupplyCrateHint",
+    "source": "This Supply Crate can be submitted to Camps or Keeps",
+    "russian": "Этот ящик припасов можно сдать в лагере или цитадели"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "DamageTypeHeavySiege",
+    "source": "Heavy Siege",
+    "russian": "Тяжёлые осадные"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RefineryProduceSupplyCrateText",
+    "source": "Produces Supply Crate <img id=\"SupplyCrate\"/>",
+    "russian": "Производит ящик припасов <img id=\"SupplyCrate\"/>"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitAuxAvatarTownHeader",
+    "source": "Auxiliary Avatar (Town)",
+    "russian": "Вспом. бойцы (город)"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitAuxAvatarTownBody",
+    "source": "Recruit 5x Auxiliary Avatars to this Town's Keep. These Auxiliaries will used by public players to defend this Town.",
+    "russian": "Наймите 5 бойцов вспомогательных войск в цитадель этого города. Они будут доступны всем игрокам для защиты города."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitAuxAvatarTownFooter",
+    "source": "Auxiliaries can be recruited using Public silver",
+    "russian": "Для найма можно использовать общее серебро"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitAuxAvatarVehicleHeader",
+    "source": "Auxiliary Avatar (Caravan)",
+    "russian": "Вспом. бойцы (караван)"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitAuxAvatarVehicleBody",
+    "source": "Recruit 5x Auxiliary Avatars for transport in your Caravan. These Auxiliaries can be transported to Camps or Fortress Keeps and used by public players for defense or invasions.",
+    "russian": "Наймите 5 бойцов вспомогательных войск в свой караван. Их можно доставить в лагерь или крепостную цитадель, где они будут доступны всем игрокам для обороны и наступления."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitAuxAvatarVehicleFooter",
+    "source": "Auxiliaries can be recruited using Public silver\nCan be submitted to Camps or Fortress Keeps for Military Indentures",
+    "russian": "Для найма можно использовать общее серебро\nДоставьте в лагерь или крепостную цитадель по военному контракту"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarTooltipHeader",
+    "source": "Reclaim Avatar",
+    "russian": "Вернуть персонажа"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarTooltipBody",
+    "source": "This Avatar was previously stationed at a location that has been overrun by the enemy. It can be reclaimed at zero cost.",
+    "russian": "Место размещения этого персонажа захвачено врагом. Его можно вернуть бесплатно."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarRansomTooltipHeader",
+    "source": "Reclaim Avatar(Ransom)",
+    "russian": "Выкупить персонажа"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarRansomBody",
+    "source": "This Avatar was previously defeated in battle. It can be reclaimed by paying a ransom fee",
+    "russian": "Этот персонаж был побеждён в бою. Его можно вернуть за выкуп."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarUnavailableStationedTooltipHeader",
+    "source": "Routed Avatar",
+    "russian": "Отступивший персонаж"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarUnavailableStationedTooltipBody",
+    "source": "This Avatar was previously stationed at a location that has been overrun by the enemy. It can be reclaimed after a short period of time.",
+    "russian": "Место размещения этого персонажа захвачено врагом. Его можно вернуть через некоторое время."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarUnavailableIncapacitatedTooltipHeader",
+    "source": "Captured Avatar",
+    "russian": "Пленный персонаж"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ReclaimAvatarUnavailableIncapacitatedTooltipBody",
+    "source": "This Avatar was previously defeated in battle. It can be reclaimed after a prolonged period of time.",
+    "russian": "Этот персонаж был побеждён в бою. Его можно вернуть после длительного ожидания."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ItemTransfer_CannotStoreFamilyLockedInPersonal",
+    "source": "House Claimed vehicles cannot be placed in Personal storage.",
+    "russian": "Повозки, закреплённые за домом, нельзя помещать в личное хранилище."
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AccessDeniedPersonalLocked",
+    "source": "Cannot access locked vehicle",
+    "russian": "Повозка заперта"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarTransferFailed_VehicleRequired",
+    "source": "Requires Caravan to recruit",
+    "russian": "Для найма нужен караван"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarTransferFailed_FamilyCenterAuxDisallowed",
+    "source": "Auxiliaries cannot be stationed at Homesteads",
+    "russian": "Бойцов вспомогательных войск нельзя размещать в усадьбах"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarTransferFailed_AuxRemoval",
+    "source": "Auxiliaries cannot be removed from this structure",
+    "russian": "Бойцов вспомогательных войск нельзя забрать из этой постройки"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AgeNotStarted",
+    "source": "Age is not started. Start with command startage",
+    "russian": "Эпоха не началась. Запустите её командой startage"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "CannotLockMountedVehicle",
+    "source": "Unable to Claim mounted vehicles",
+    "russian": "Нельзя закрепить за собой занятую повозку"
+  },
+  {
+    "namespace": "RegionLogTeamDamage",
+    "key": "RegionLogPageText",
+    "source": "Page {0} of {1}",
+    "russian": "Страница {0} из {1}"
+  },
+  {
+    "namespace": "RegionLogTeamDamage",
+    "key": "RegionLogTeamKill",
+    "source": "[{0}] [X:{1}, Y:{2}] [{3}] {4} recent friendly player kills",
+    "russian": "[{0}] [X:{1}, Y:{2}] [{3}] Недавние убийства союзных игроков: {4}"
+  },
+  {
+    "namespace": "RegionLogTeamDamage",
+    "key": "RegionLogTeamAnimalKill",
+    "source": "[{0}] [X:{1}, Y:{2}] [{3}] {4} recent friendly animal kills",
+    "russian": "[{0}] [X:{1}, Y:{2}] [{3}] Недавние убийства союзных животных: {4}"
+  },
+  {
+    "namespace": "RegionLogTeamDamage",
+    "key": "RegionLogTeamStructureDamage",
+    "source": "[{0}] [X:{1}, Y:{2}] [{3}] {4} recent damage to friendly structures/vehicles",
+    "russian": "[{0}] [X:{1}, Y:{2}] [{3}] Недавний урон союзным постройкам и повозкам: {4}"
+  },
+  {
+    "namespace": "RegionLogTeamDamage",
+    "key": "RegionLogTeamDamage",
+    "source": "[{0}] [X:{1}, Y:{2}] [{3}] {4} recent damage to friendly players",
+    "russian": "[{0}] [X:{1}, Y:{2}] [{3}] Недавний урон союзным игрокам: {4}"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RecruitToCaravan",
+    "source": "Recruit To Caravan",
+    "russian": "Нанять в караван"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ItemTooltipCrateFormat",
+    "source": "{0} (Barrel)",
+    "russian": "{0} (бочка)"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ItemTooltipSupplyCrateFormat",
+    "source": "{0} (Supply Crate)",
+    "russian": "{0} (ящик припасов)"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "ItemReceivedFormat",
+    "source": "{0} has been added to your inventory",
+    "russian": "{0} — добавлено в инвентарь"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarReclaimedDialogHeader",
+    "source": "Avatar Reclaimed",
+    "russian": "Персонаж возвращён"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AvatarReclaimedDialogDescription",
+    "source": "Your reclaimed Avatar has been stationed at this Town Keep",
+    "russian": "Возвращённый персонаж размещён в этой городской цитадели"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AuxiliaryRecruited",
+    "source": "Auxiliaries Recruited",
+    "russian": "Вспом. войска наняты"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "AuxRecruitedCaravan",
+    "source": "Your recruited Auxiliaries have been transferred to your Caravan.",
+    "russian": "Нанятые бойцы вспомогательных войск отправлены в ваш караван."
   }
 ]
