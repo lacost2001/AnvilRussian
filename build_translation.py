@@ -26,6 +26,11 @@ for record in records:
     namespace[record['key']] = value
 for key in ('CallForReinforcementsAlert','GatheringResourceTextFormat','UseEntityPromptTextFormat','BountyComplete','BountyItemsMissing'):
     assert key in rows['Anvil'] and re.search('[А-Яа-я]',rows['Anvil'][key][1])
+# Preserve geographical names by identity, not by text: a map place and an item can share a name.
+original_names = json.loads((root / 'original-map-names.json').read_text(encoding='utf-8-sig'))
+assert len({(r['namespace'], r['key']) for r in original_names}) == len(original_names)
+for name in original_names:
+    assert rows[name['namespace']][name['key']] == (source_hash(name['source']), name['source']), name
 body=bytearray(struct.pack('<i',len(rows))); strings=[]
 for ns, entries in rows.items():
     body += fstr(ns)+struct.pack('<i',len(entries))
