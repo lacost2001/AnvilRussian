@@ -23494,5 +23494,11 @@
     "key": "RentFreeFamilyStorage",
     "source": "Reserve House Storage",
     "russian": "Занять хранилище дома"
+  },
+  {
+    "namespace": "Anvil",
+    "key": "RelicSiteAreaDiscovered",
+    "source": "A Relic Site will soon be discovered in the world. Do you want to view the area?",
+    "russian": "Скоро будет обнаружено место реликвий. Показать область на карте?"
   }
 ]

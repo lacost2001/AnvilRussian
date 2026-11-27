@@ -8,6 +8,20 @@ using System.Security.Cryptography;
 using System.Windows.Forms;
 using System.Drawing;
 using System.Xml.Serialization;
+using System.Text.RegularExpressions;
+
+public class GameCompatibility {
+ public bool Supported;
+ public string ActualBuild, TestedBuild;
+ public string Warning {get{return "Перевод ещё не проверен для установленной сборки игры ("+ActualBuild+").\nПроверенная сборка: "+TestedBuild+".\n\nНекоторые тексты могут остаться на английском или устареть. Возможны ошибки отображения и работы игры.";}}
+ public string Summary {get{return Supported?"Совместимость подтверждена.\nПроверенная сборка: "+TestedBuild:"Совместимость с этой сборкой не подтверждена ("+ActualBuild+").\nПеревод проверен для: "+TestedBuild+".\nНекоторые тексты могут остаться английскими или устареть.";}}
+}
+public class UpdateCheck {
+ public GameCompatibility Compatibility;
+ public byte[] PendingXml;
+ public string Version;
+ public bool Newer, Installed;
+}
 
 public class PatchFile { public string Relative; public string Hash; }
 public class Receipt { public string Root; public string PatchVersion; public byte[] UpdateXml; public List<PatchFile> Files = new List<PatchFile>(); }
@@ -23,10 +37,23 @@ public static class Patch {
   var saved=TranslationUpdate.Parse(r.UpdateXml);
   if(System.Version.Parse(saved.Version)>System.Version.Parse(Current.Version)){Current=saved;CurrentXml=r.UpdateXml;}
  }
- public static bool SelectUpdate(string root,byte[] xml){
+ public static bool SelectUpdate(string root,byte[] xml,bool allowUnverified=false){
   var next=TranslationUpdate.Parse(xml);
   if(System.Version.Parse(next.Version)<=System.Version.Parse(Current.Version))return false;
-  ValidateGameWith(root,next);Current=next;CurrentXml=xml;return true;
+  ValidateGameWith(root,next,allowUnverified);Current=next;CurrentXml=xml;return true;
+ }
+ // Automatic updates never override the compatibility check or ask for consent.
+ // An unverified offer remains separate until the user explicitly installs it.
+ public static UpdateCheck CheckDownloadedUpdate(string root,byte[] xml){
+  UseInstalled(root);
+  var next=TranslationUpdate.Parse(xml);
+  bool newer=System.Version.Parse(next.Version)>System.Version.Parse(Current.Version);
+  var offered=newer?next:Current;
+  var result=new UpdateCheck{Version=offered.Version,Newer=newer,Installed=Installed(root),Compatibility=InspectGame(root,offered)};
+  if(!result.Compatibility.Supported){if(newer)result.PendingXml=xml;return result;}
+  if(newer)SelectUpdate(root,xml);
+  if(result.Installed)Install(root,false);
+  return result;
  }
  const string Marker = "AnvilRussianPatch\\receipt.xml";
  const string Legacy = "Anvil\\Content\\Paks\\Anvil_Russian_Probe_P.pak";
@@ -49,13 +76,28 @@ public static class Patch {
  public static void ValidateGame(string root) {
   ValidateGameWith(root,Current);
  }
- public static void ValidateGameWith(string root,TranslationUpdate update) {
+ public static GameCompatibility InspectGame(string root,TranslationUpdate update) {
   string exe=Under(root,"Anvil\\Binaries\\Win64\\Anvil-Win64-Shipping.exe");
   string pak=Under(root,"Anvil\\Content\\Paks\\Anvil-Windows.pak");
   if(!File.Exists(exe)||!File.Exists(pak))throw new Exception("Выберите корневую папку Anvil Playtest.");
-  if(new FileInfo(pak).Length!=update.PakSize)throw new Exception("Этот перевод предназначен для сборки "+update.GameVersion+". Нужен выпуск для вашей версии игры. Файлы не изменены.");
+  long pakSize=new FileInfo(pak).Length;
+  if(pakSize<512||new FileInfo(exe).Length==0)throw new Exception("Файлы игры неполные. Дождитесь окончания загрузки или проверьте файлы через Steam.");
   byte[] tail=new byte[512];using(var f=File.OpenRead(pak)){f.Seek(-512,SeekOrigin.End);if(f.Read(tail,0,512)!=512)throw new IOException();}
-  if(Hash(tail)!=update.TailHash || FileHash(exe)!=update.ExeHash)throw new Exception("Файлы игры отличаются от проверенной сборки "+update.GameVersion+". Установка отменена.");
+  return new GameCompatibility{Supported=pakSize==update.PakSize&&Hash(tail)==update.TailHash&&FileHash(exe)==update.ExeHash,ActualBuild=SteamBuild(root),TestedBuild=update.GameVersion};
+ }
+ static string SteamBuild(string root){
+  try{
+   var common=Directory.GetParent(FullRoot(root));
+   if(common==null||!string.Equals(common.Name,"common",StringComparison.OrdinalIgnoreCase)||common.Parent==null)return "номер не определён";
+   string manifest=Path.Combine(common.Parent.FullName,"appmanifest_2383950.acf");
+   var match=Regex.Match(File.ReadAllText(manifest),"\"buildid\"\\s+\"([0-9]+)\"");
+   if(match.Success&&match.Groups[1].Value!="0")return "Steam "+match.Groups[1].Value;
+  }catch{}
+  return "номер не определён";
+ }
+ public static void ValidateGameWith(string root,TranslationUpdate update,bool allowUnverified=false) {
+  var compatibility=InspectGame(root,update);
+  if(!compatibility.Supported&&!allowUnverified)throw new Exception(compatibility.Warning+"\n\nУстановка возможна после подтверждения предупреждения в патчере. Файлы не изменены.");
  }
  static Receipt ReadReceipt(string path) {using(var f=File.OpenRead(path))return (Receipt)new XmlSerializer(typeof(Receipt)).Deserialize(f);}
  static void SaveReceipt(string path,Receipt r) {Directory.CreateDirectory(Path.GetDirectoryName(path));using(var f=new FileStream(path,FileMode.CreateNew))new XmlSerializer(typeof(Receipt)).Serialize(f,r);}
@@ -80,8 +122,8 @@ public static class Patch {
    using(var f=new FileStream(marker,FileMode.Create))new XmlSerializer(typeof(Receipt)).Serialize(f,next);
   }catch{foreach(var e in previous)File.WriteAllBytes(Under(root,e.Key),e.Value);File.WriteAllBytes(marker,oldMarker);throw;}
  }
- public static void Install(string root,bool test) {
-  root=FullRoot(root);UseInstalled(root);if(!test){RequireClosed();ValidateGame(root);}
+ public static void Install(string root,bool test,bool allowUnverified=false) {
+  root=FullRoot(root);UseInstalled(root);if(!test){RequireClosed();ValidateGameWith(root,Current,allowUnverified);}
   var payload=Payload();string marker=Under(root,Marker);
   if(File.Exists(marker)){
    var old=ValidReceipt(root);
@@ -141,48 +183,84 @@ public static class Patch {
  }
 }
 public class MainForm:Form {
- TextBox path=new TextBox();Label status=new Label();Button install=new Button(),remove=new Button(),check=new Button();bool busy;
- public MainForm(){Text="Anvil Russian — RikiMarci";ClientSize=new Size(640,465);FormBorderStyle=FormBorderStyle.FixedDialog;MaximizeBox=false;Font=new Font("Segoe UI",10);StartPosition=FormStartPosition.CenterScreen;
+ TextBox path=new TextBox();Label status=new Label(),compatibility=new Label();Button install=new Button(),remove=new Button(),check=new Button();bool busy;byte[] pendingUpdate;
+ public MainForm(){Text="Anvil Russian — RikiMarci";ClientSize=new Size(640,610);FormBorderStyle=FormBorderStyle.FixedDialog;MaximizeBox=false;Font=new Font("Segoe UI",10);StartPosition=FormStartPosition.CenterScreen;
   Controls.Add(new Label{Text="Русский интерфейс Anvil Empires",Font=new Font("Segoe UI",16,FontStyle.Bold),Left=22,Top=20,Width=590,Height=38});
-  Controls.Add(new Label{Text="Перевод: RikiMarci · Выпуск "+Patch.TranslationVersion+"\nАвтопроверка и обновление при запуске патчера.\nПеред обновлением или удалением закройте игру.",Left=24,Top=66,Width=590,Height=85});
-  Controls.Add(new Label{Text="Папка игры:",Left=24,Top=151,Width=580,Height=24});path.SetBounds(24,180,485,28);path.Text=@"D:\SteamLibrary\steamapps\common\Anvil Playtest";
+  Controls.Add(new Label{Text="Перевод: RikiMarci · Выпуск "+Patch.TranslationVersion+"\nОбновления проверяются при запуске патчера.\nПеред установкой или удалением закройте игру.",Left=24,Top=66,Width=590,Height=64});
+  compatibility.Text="Выберите папку игры для проверки совместимости.";compatibility.SetBounds(24,140,590,90);Controls.Add(compatibility);
+  Controls.Add(new Label{Text="Папка игры:",Left=24,Top=235,Width=580,Height=24});path.SetBounds(24,264,485,28);path.Text=@"D:\SteamLibrary\steamapps\common\Anvil Playtest";
   try{if(File.Exists(SettingsFile))path.Text=File.ReadAllText(SettingsFile);}catch{}Controls.Add(path);
-  var browse=new Button{Text="Обзор…",Left=522,Top=178,Width=94,Height=32};browse.Click+=(s,e)=>{if(busy)return;using(var d=new FolderBrowserDialog()){d.Description="Папка Anvil Playtest";d.SelectedPath=path.Text;if(d.ShowDialog()==DialogResult.OK)path.Text=d.SelectedPath;}};Controls.Add(browse);
-  install.Text="Установить / обновить";install.SetBounds(24,225,282,40);install.Click+=async(s,e)=>await Run(true);Controls.Add(install);
-  remove.Text="Удалить перевод";remove.SetBounds(320,225,296,40);remove.Click+=async(s,e)=>await Run(false);Controls.Add(remove);
-  check.Text="Проверить GitHub";check.SetBounds(24,277,282,36);check.Click+=async(s,e)=>await Check();Controls.Add(check);
-  var releases=new LinkLabel{Text="Все выпуски на GitHub",Left=330,Top=283,Width=270,Height=26};releases.LinkClicked+=(s,e)=>Open(Updater.Repository+"/releases");Controls.Add(releases);
-  status.Text="Готово к проверке обновлений.";status.SetBounds(24,330,590,78);Controls.Add(status);
-  var discord=new LinkLabel{Text="Discord RikiMarci — discord.gg/VgK7Pw3cwf",Left=24,Top=424,Width=590,Height=26};discord.LinkClicked+=(s,e)=>Open("https://discord.gg/VgK7Pw3cwf");Controls.Add(discord);
+  var browse=new Button{Text="Обзор…",Left=522,Top=262,Width=94,Height=32};browse.Click+=async(s,e)=>{if(busy)return;using(var d=new FolderBrowserDialog()){d.Description="Папка Anvil Playtest";d.SelectedPath=path.Text;if(d.ShowDialog()==DialogResult.OK){path.Text=d.SelectedPath;await RefreshCompatibility(path.Text);}}};Controls.Add(browse);
+  path.TextChanged+=(s,e)=>{compatibility.ForeColor=SystemColors.ControlText;compatibility.Text="Папка изменена. Совместимость будет проверена перед установкой.";};
+  install.Text="Установить / обновить";install.SetBounds(24,310,282,40);install.Click+=async(s,e)=>await Run(true);Controls.Add(install);
+  remove.Text="Удалить перевод";remove.SetBounds(320,310,296,40);remove.Click+=async(s,e)=>await Run(false);Controls.Add(remove);
+  check.Text="Проверить GitHub";check.SetBounds(24,362,282,36);check.Click+=async(s,e)=>await Check();Controls.Add(check);
+  var releases=new LinkLabel{Text="Все выпуски на GitHub",Left=330,Top=368,Width=270,Height=26};releases.LinkClicked+=(s,e)=>Open(Updater.Repository+"/releases");Controls.Add(releases);
+  status.Text="Готово к проверке обновлений.";status.SetBounds(24,415,590,128);Controls.Add(status);
+  var discord=new LinkLabel{Text="Discord RikiMarci — discord.gg/VgK7Pw3cwf",Left=24,Top=570,Width=590,Height=26};discord.LinkClicked+=(s,e)=>Open("https://discord.gg/VgK7Pw3cwf");Controls.Add(discord);
   Shown+=async(s,e)=>await Check();
  }
  static string SettingsFile {get{return Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),"AnvilRussian","game-path.txt");}}
  void SavePath(){try{Directory.CreateDirectory(Path.GetDirectoryName(SettingsFile));File.WriteAllText(SettingsFile,path.Text);}catch{}}
  void SetBusy(bool value){busy=value;install.Enabled=remove.Enabled=check.Enabled=path.Enabled=!value;}
  void Open(string url){try{Process.Start(new ProcessStartInfo(url){UseShellExecute=true});}catch(Exception ex){status.Text=ex.Message;}}
- async System.Threading.Tasks.Task Check(){
-  if(busy)return;SetBusy(true);string root=path.Text;status.Text="Проверяю GitHub…";
+ TranslationUpdate OfferedUpdate(){
+  if(pendingUpdate!=null){var next=TranslationUpdate.Parse(pendingUpdate);if(System.Version.Parse(next.Version)>System.Version.Parse(Patch.TranslationVersion))return next;}
+  return Patch.Current;
+ }
+ async System.Threading.Tasks.Task RefreshCompatibility(string root){
   try{
-   string message=await System.Threading.Tasks.Task.Run(()=>{
-    Patch.UseInstalled(root);byte[] data=Updater.Download();bool selected=Patch.SelectUpdate(root,data);
-    if(Patch.Installed(root)){
-     Patch.Install(root,false);
-     return "Установлена актуальная версия перевода: "+Patch.TranslationVersion+".\nМожно запускать игру через Steam.";
-    }
-    return (selected?"Загружен новый перевод: ":"Доступен перевод: ")+Patch.TranslationVersion+".\nНажмите «Установить / обновить».";
-   });status.Text=message;SavePath();
-  }catch(Exception ex){status.Text="Автообновление не выполнено: "+ex.Message+"\nВстроенный перевод доступен через кнопку установки.";}finally{SetBusy(false);}
+   var offered=OfferedUpdate();var result=await System.Threading.Tasks.Task.Run(()=>Patch.InspectGame(root,offered));
+   if(path.Text!=root)return;
+   compatibility.ForeColor=result.Supported?Color.DarkGreen:Color.Maroon;compatibility.Text=result.Summary;
+  }catch(Exception ex){if(path.Text==root){compatibility.ForeColor=SystemColors.ControlText;compatibility.Text=ex.Message;}}
+ }
+ async System.Threading.Tasks.Task Check(){
+  if(busy)return;SetBusy(true);string root=path.Text;status.Text="Проверяю GitHub…";pendingUpdate=null;
+  try{
+  try{
+   await System.Threading.Tasks.Task.Run(()=>Patch.UseInstalled(root));
+   byte[] data=await System.Threading.Tasks.Task.Run(()=>Updater.Download());
+   // Keep the downloaded offer even if the selected game folder is not valid yet.
+   if(System.Version.Parse(TranslationUpdate.Parse(data).Version)>System.Version.Parse(Patch.TranslationVersion))pendingUpdate=data;
+   var result=await System.Threading.Tasks.Task.Run(()=>Patch.CheckDownloadedUpdate(root,data));pendingUpdate=result.PendingXml;
+   if(!result.Compatibility.Supported){
+    status.Text="Доступен перевод "+result.Version+", но эта сборка игры не проверена.\nДля установки с предупреждением нажмите «Установить / обновить».\nПроверка новых выпусков продолжит работать.";
+   }else status.Text=result.Installed?"Установлена актуальная версия перевода: "+result.Version+".\nМожно запускать игру через Steam.":"Доступен перевод: "+result.Version+".\nНажмите «Установить / обновить».";
+   SavePath();
+  }catch(Exception ex){status.Text="Автообновление не выполнено: "+ex.Message+"\nСохранённый перевод доступен через кнопку установки.";}
+  await RefreshCompatibility(root);
+  }finally{SetBusy(false);}
  }
  async System.Threading.Tasks.Task Run(bool add){
   if(busy)return;SetBusy(true);string root=path.Text;status.Text="Проверка файлов…";
-  try{await System.Threading.Tasks.Task.Run(()=>{if(add)Patch.Install(root,false);else Patch.Uninstall(root,false);});SavePath();status.Text=add?"Перевод "+Patch.TranslationVersion+" установлен. Запустите игру через Steam.":"Перевод удалён.";}
-  catch(Exception ex){status.Text=ex.Message;}finally{SetBusy(false);}
+  try{
+  try{
+   if(!add){await System.Threading.Tasks.Task.Run(()=>Patch.Uninstall(root,false));status.Text="Перевод удалён.";}
+   else{
+    await System.Threading.Tasks.Task.Run(()=>{Patch.RequireClosed();Patch.UseInstalled(root);});
+    var offered=OfferedUpdate();var info=await System.Threading.Tasks.Task.Run(()=>Patch.InspectGame(root,offered));
+    bool allowUnverified=false;
+    if(!info.Supported){
+     allowUnverified=MessageBox.Show(this,info.Warning+"\n\nУстановить перевод "+offered.Version+" всё равно?","Установка на непроверенную сборку",MessageBoxButtons.YesNo,MessageBoxIcon.Warning,MessageBoxDefaultButton.Button2)==DialogResult.Yes;
+     if(!allowUnverified){status.Text="Установка отменена. Файлы не изменены.";await RefreshCompatibility(root);return;}
+    }
+    byte[] candidate=pendingUpdate;
+    await System.Threading.Tasks.Task.Run(()=>{if(candidate!=null)Patch.SelectUpdate(root,candidate,allowUnverified);Patch.Install(root,false,allowUnverified);});
+    pendingUpdate=null;
+    status.Text="Перевод "+Patch.TranslationVersion+" установлен."+(allowUnverified?"\nСовместимость с этой сборкой не подтверждена. Некоторые тексты могут быть английскими или устаревшими.":"\nЗапустите игру через Steam.");
+   }
+   SavePath();
+  }catch(Exception ex){status.Text=ex.Message;}
+  await RefreshCompatibility(root);
+  }finally{SetBusy(false);}
  }
  [STAThread]public static int Main(string[] args){try{
   Patch.Initialize();
-  if(args.Length==2&&args[0]=="--self-test"){Patch.SelfTest(args[1]);UpdateTests.Run(args[1]);return 0;}
+  if(args.Length==2&&args[0]=="--self-test"){Patch.SelfTest(args[1]);UpdateTests.Run(args[1]);CompatibilityTests.Run(args[1]);return 0;}
   if(args.Length==2&&args[0]=="--verify-game"){Patch.ValidateGame(args[1]);return 0;}
   if(args.Length==2&&args[0]=="--install"){Patch.Install(args[1],false);return 0;}
+  if(args.Length==2&&args[0]=="--install-unverified"){Patch.UseInstalled(args[1]);var info=Patch.InspectGame(args[1],Patch.Current);if(!info.Supported)Console.Error.WriteLine(info.Warning);Patch.Install(args[1],false,true);return 0;}
   if(args.Length==2&&args[0]=="--check-feed"){var data=Updater.Download();var u=TranslationUpdate.Parse(data);Patch.ValidateGameWith(args[1],u);Console.WriteLine(u.Version);return 0;}
   Application.EnableVisualStyles();Application.SetCompatibleTextRenderingDefault(false);Application.Run(new MainForm());return 0;
  }catch(Exception e){if(args.Length>0){Console.Error.WriteLine(e);return 1;}MessageBox.Show(e.Message);return 1;}}
